@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.27",
-["packageSize"] = 18989,
+["version"] = "1.0.28",
+["packageSize"] = 18995,
 ["date"] = "20180918",
 ["depends"] = {
 1000,
@@ -301,8 +301,23 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/coinTailt.png",
-	["u_md5"]="445b21dca6fea1055e82cff8ff84a079",
-	["u_size"]=1.33,
+	["u_md5"]="c0580ab73f2ad6274a2e876854fe1398",
+	["u_size"]=1.9,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/coinTailt1.png",
+	["u_md5"]="53d3b035d2d83b19f938c3135c1b6a19",
+	["u_size"]=1.43,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/coinTailt2.png",
+	["u_md5"]="34d4bc81154a4baff9a5e1b4f89cccd7",
+	["u_size"]=1.95,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/coinTailt3.png",
+	["u_md5"]="4832a4b26e9cd00f0c935c686a3de069",
+	["u_size"]=1.96,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/netEffect.plist",
@@ -1536,8 +1551,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="3fc3aeee6b090269234080ef8ab06533",
-	["u_size"]=26.22,
+	["u_md5"]="25c4e4e2c4726c4f914a920d02bdc0d7",
+	["u_size"]=26.34,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -1566,8 +1581,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
-	["u_md5"]="a78d07acbcc0d37277fb4053de60b301",
-	["u_size"]=4.46,
+	["u_md5"]="0a57aa58efe3a2b9bf2b52ee386e93d5",
+	["u_size"]=4.68,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletMediator.lua",
@@ -1581,8 +1596,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
-	["u_md5"]="dd27b139189c4ebdd161f5c4c6464166",
-	["u_size"]=16.69,
+	["u_md5"]="1c8d9ba62c1c8a2d13555ff0178b72ed",
+	["u_size"]=16.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
