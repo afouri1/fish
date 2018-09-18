@@ -1,0 +1,12 @@
+return {
+["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
+["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/AssetsConfig_u.json",
+["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
+["version"] = "1.0.17",
+["packageSize"] = 2466,
+["date"] = "20180918",
+["depends"] = {
+10001,
+},
+["assets"] = {}
+}
