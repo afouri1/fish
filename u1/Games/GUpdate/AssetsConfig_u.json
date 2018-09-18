@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
-["version"] = "1.0.24",
-["packageSize"] = 2466,
+["version"] = "1.0.26",
+["packageSize"] = 5853,
 ["date"] = "20180918",
 ["depends"] = {
 10001,
@@ -51,7 +51,7 @@ return {
 	},
 {
 	["u_name"]="Games/GUpdate/UpdateMain.lua",
-	["u_md5"]="5f97de8fc80003aa8b616c553834f188",
+	["u_md5"]="1ee12d7af63d8339cb7efd0c255de2be",
 	["u_size"]=5.25,
 	},
 {
@@ -118,6 +118,66 @@ return {
 	["u_name"]="Games/GUpdate/res/downProgress/pop_xzzy.png",
 	["u_md5"]="ea3bfdc1046124c02b45c006a36fc5db",
 	["u_size"]=99.35,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_1.plist",
+	["u_md5"]="6153ecb1c39f78b9918c6325af1307db",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_1.png",
+	["u_md5"]="c9b1796ade9da0c7fc0f7a190ab3c83c",
+	["u_size"]=181.29,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_2.plist",
+	["u_md5"]="5e6eac06fc64115ca5c20b823b83c94b",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_2.png",
+	["u_md5"]="27722dfc7db2a3d7d90fba1c102d041e",
+	["u_size"]=504.55,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_3.plist",
+	["u_md5"]="c5eac2cdeb96747504e07467cad86ee8",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_3.png",
+	["u_md5"]="7ad753228ecb04e2fecc187a48bce522",
+	["u_size"]=686.5,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_4.plist",
+	["u_md5"]="3112c3e8de448ee8bece6c5e04232860",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_4.png",
+	["u_md5"]="1e2d736cdb0fb9a1527014f3091e2fcf",
+	["u_size"]=700.89,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_5.plist",
+	["u_md5"]="c377ca0f83a4e50addfdfca6be7f99b4",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_5.png",
+	["u_md5"]="1d985e7265abba4bcb45b1ad1685c74c",
+	["u_size"]=658.57,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_6.plist",
+	["u_md5"]="fa651ccf8eaef14d959679ee5f36ba02",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_6.png",
+	["u_md5"]="4612fbf5bfd9cb30cfa9ffac05f8043d",
+	["u_size"]=622.78,
 	},
 {
 	["u_name"]="Games/GUpdate/res/newVersion/button_queding.png",

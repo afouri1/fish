@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.24",
-["packageSize"] = 19121,
+["version"] = "1.0.26",
+["packageSize"] = 18989,
 ["date"] = "20180918",
 ["depends"] = {
 1000,
@@ -1375,21 +1375,6 @@ return {
 	["u_size"]=18.57,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/playerPlace/net01.png",
-	["u_md5"]="b09c3f986700e7a7c399e17b67967478",
-	["u_size"]=43.67,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/playerPlace/net02.png",
-	["u_md5"]="41baa7a70a3971b047a67848de839b52",
-	["u_size"]=44.14,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/playerPlace/net03.png",
-	["u_md5"]="00d7eae12d9ddafcffcbb4b1416e68ba",
-	["u_size"]=45.09,
-	},
-{
 	["u_name"]="Games/GDntg/res/game/playerPlace/playerSeat1.png",
 	["u_md5"]="dd8660285223741c354d9a24932a272e",
 	["u_size"]=15.13,
@@ -1551,8 +1536,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="e56476bfc8980c830e03267cefe4df7e",
-	["u_size"]=25.8,
+	["u_md5"]="3fc3aeee6b090269234080ef8ab06533",
+	["u_size"]=26.22,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -1581,8 +1566,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
-	["u_md5"]="f036840ca5b2bfef0f8a2cdd3af7f676",
-	["u_size"]=4.28,
+	["u_md5"]="a78d07acbcc0d37277fb4053de60b301",
+	["u_size"]=4.46,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletMediator.lua",
@@ -1611,8 +1596,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GNetView.lua",
-	["u_md5"]="ade0539978c9a4259d6209a59f946b00",
-	["u_size"]=1.56,
+	["u_md5"]="1327fb0516ea057319d1ddbb453933a1",
+	["u_size"]=1.6,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GShadowMediator.lua",
@@ -1711,8 +1696,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillMediator.lua",
-	["u_md5"]="ebe2fbb562440b9ff1abde2c9426bdf2",
-	["u_size"]=11.94,
+	["u_md5"]="6858b867c7f8e191cd814c9c6b868b93",
+	["u_size"]=11.95,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillView.lua",
@@ -1741,8 +1726,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerView.lua",
-	["u_md5"]="93a93f6f051f21b7c287eeddf33d3221",
-	["u_size"]=8.41,
+	["u_md5"]="798ea299c6d875b01462c33d1041e77e",
+	["u_size"]=8.44,
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/DntgEvent.lua",
@@ -1781,8 +1766,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="bf10c3a1c4327599a0e93488e8fc2381",
-	["u_size"]=15.54,
+	["u_md5"]="bdc221e3ba92c2c0a94ce4cfe7bc5d12",
+	["u_size"]=16.08,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
@@ -1816,8 +1801,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",
-	["u_md5"]="1b4471f88a487e01d9cb7df308ffddb7",
-	["u_size"]=7.98,
+	["u_md5"]="b2edd7ee1bebe3daa2dcfbb8cb3587d3",
+	["u_size"]=8.01,
 	},
 }
 }
