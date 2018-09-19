@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.0.28",
-["packageSize"] = 7564,
-["date"] = "20180918",
+["version"] = "1.0.29",
+["packageSize"] = 7600,
+["date"] = "20180919",
 ["depends"] = {
 10002,
 10003,
@@ -161,6 +161,11 @@ return {
 	["u_size"]=945.56,
 	},
 {
+	["u_name"]="Games/BaseCommon/res/hei_bian.jpg",
+	["u_md5"]="a263655cc53c3014e20269dbea23e82b",
+	["u_size"]=33.74,
+	},
+{
 	["u_name"]="Games/BaseCommon/res/img_cursor_black.png",
 	["u_md5"]="91edfcf009f70cd5dc73553c9350ee09",
 	["u_size"]=0.92,
@@ -237,8 +242,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TiFunction.lua",
-	["u_md5"]="ca39555b600505b2152d4c86b2cb4aec",
-	["u_size"]=36.62,
+	["u_md5"]="ecb88d91c1eb86bc56d72ab4b97e8212",
+	["u_size"]=38.44,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TimeUtil.lua",

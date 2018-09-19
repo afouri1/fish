@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.0.28",
-["packageSize"] = 11109,
-["date"] = "20180918",
+["version"] = "1.0.29",
+["packageSize"] = 11115,
+["date"] = "20180919",
 ["depends"] = {
 10001,
 },
@@ -766,8 +766,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/loginLayer.json",
-	["u_md5"]="42f3dbb94e0ccd59d101adeae358074d",
-	["u_size"]=23.25,
+	["u_md5"]="c7e73218008a47c64b4191f670237a71",
+	["u_size"]=28.58,
 	},
 {
 	["u_name"]="Games/GLobby/res/common/bg.png",
@@ -1281,8 +1281,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
-	["u_md5"]="d7f30d96664a6862699806e7dedd24d0",
-	["u_size"]=2.1,
+	["u_md5"]="b750e347026928eafa2f8cf1a19e29e5",
+	["u_size"]=2.35,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
