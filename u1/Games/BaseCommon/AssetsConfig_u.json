@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.0.29",
-["packageSize"] = 7600,
-["date"] = "20180919",
+["version"] = "1.0.59",
+["packageSize"] = 7856,
+["date"] = "20180921",
 ["depends"] = {
 10002,
 10003,
@@ -32,8 +32,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocket.lua",
-	["u_md5"]="e053dc0df9f29581f290702d80ea311a",
-	["u_size"]=14.33,
+	["u_md5"]="4a6a8c13793c094b8eefcd9e706c05ed",
+	["u_size"]=15.28,
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocketEvent.lua",
@@ -52,13 +52,13 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameUserData.lua",
-	["u_md5"]="6f5b74bef0886c9dc8ecf0aacb9efbba",
-	["u_size"]=22.76,
+	["u_md5"]="509e65745b1549844da4dd242bf3687f",
+	["u_size"]=22.85,
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
-	["u_md5"]="f5d5486954088d3af7084e6c6e04018b",
-	["u_size"]=6.17,
+	["u_md5"]="f6711e39d1166c560049b2e99f4509e0",
+	["u_size"]=6.74,
 	},
 {
 	["u_name"]="Games/BaseCommon/ProtoBuf/ProtobufParse.lua",
@@ -97,8 +97,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TYNode.lua",
-	["u_md5"]="175f8cc97dfc718d892e936268500f55",
-	["u_size"]=22.92,
+	["u_md5"]="628da834550946e884f6ffcc99609ba0",
+	["u_size"]=22.97,
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TaskManager.lua",
@@ -107,7 +107,7 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/class_type.lua",
-	["u_md5"]="4aa2a6ed6bf6ede9cb8170f1cd8985a4",
+	["u_md5"]="b979a33a7dce73fbe51e03b5b3237c91",
 	["u_size"]=3.36,
 	},
 {
@@ -161,6 +161,31 @@ return {
 	["u_size"]=945.56,
 	},
 {
+	["u_name"]="Games/BaseCommon/res/comTips/ComTips.json",
+	["u_md5"]="8d399249beaa1501f9b87884ce69da5b",
+	["u_size"]=17.36,
+	},
+{
+	["u_name"]="Games/BaseCommon/res/comTips/button_no.png",
+	["u_md5"]="e8f368e130957b020df77ce36988b820",
+	["u_size"]=6.79,
+	},
+{
+	["u_name"]="Games/BaseCommon/res/comTips/button_yes.png",
+	["u_md5"]="0101c82755a68973797a83d706668e73",
+	["u_size"]=7.42,
+	},
+{
+	["u_name"]="Games/BaseCommon/res/comTips/close.png",
+	["u_md5"]="081f00f91db8a81649e224565b1eaa7e",
+	["u_size"]=8.63,
+	},
+{
+	["u_name"]="Games/BaseCommon/res/comTips/pop.png",
+	["u_md5"]="01fd2155d54e11eceb46aee0be889d12",
+	["u_size"]=217.11,
+	},
+{
 	["u_name"]="Games/BaseCommon/res/hei_bian.jpg",
 	["u_md5"]="a263655cc53c3014e20269dbea23e82b",
 	["u_size"]=33.74,
@@ -182,13 +207,13 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/res/tipsBg/tipsBg01_01.png",
-	["u_md5"]="22466631d87ab95ba24d132e8d94fdf6",
-	["u_size"]=2.87,
+	["u_md5"]="1ae94c93dc04636e6e0950809bdc4bea",
+	["u_size"]=2.83,
 	},
 {
 	["u_name"]="Games/BaseCommon/res/tipsBg/tipsBg01_02.png",
-	["u_md5"]="e1c00312f7dbf4d6463e2b69cd14dba7",
-	["u_size"]=11.01,
+	["u_md5"]="54de7908188817d77f89895ee4b5ff52",
+	["u_size"]=3.66,
 	},
 {
 	["u_name"]="Games/BaseCommon/res/water_normal.jpg",
@@ -232,8 +257,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/NetworkImage.lua",
-	["u_md5"]="9723ee47b0e6cc45322a847017d69d42",
-	["u_size"]=6.29,
+	["u_md5"]="01943645c22030b5fe401a37131371f2",
+	["u_size"]=6.54,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/StrUtil.lua",
@@ -242,8 +267,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TiFunction.lua",
-	["u_md5"]="ecb88d91c1eb86bc56d72ab4b97e8212",
-	["u_size"]=38.44,
+	["u_md5"]="8625a35def8c38cd6206c7c747da1d7e",
+	["u_size"]=42.79,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TimeUtil.lua",
