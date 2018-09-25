@@ -2,28 +2,15 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.59",
-["packageSize"] = 21008,
-["date"] = "20180921",
+["version"] = "1.0.70",
+["packageSize"] = 20665,
+["date"] = "20180925",
 ["depends"] = {
 1000,
 },
+["newDetails"] = [[	假的更新
+]],
 ["assets"] = {
-{
-	["u_name"]="Games/GDntg/res/ani/NewAnimation2/NewAnimation2.ExportJson",
-	["u_md5"]="b9ea3832065cfa5cb47e492c37647be7",
-	["u_size"]=10.12,
-	},
-{
-	["u_name"]="Games/GDntg/res/ani/NewAnimation2/NewAnimation20.plist",
-	["u_md5"]="9eb1ba7be702a3ece3399b4531856d09",
-	["u_size"]=1.47,
-	},
-{
-	["u_name"]="Games/GDntg/res/ani/NewAnimation2/NewAnimation20.png",
-	["u_md5"]="eb66536b9cc1366a3b497ec6c5bbf72f",
-	["u_size"]=512.48,
-	},
 {
 	["u_name"]="Games/GDntg/res/ani/my/NewAnimation2/NewAnimation2.ExportJson",
 	["u_md5"]="5d6ebbac79a728f2822541db317a4204",
@@ -41,7 +28,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/ani/my/fire.plist",
-	["u_md5"]="7091f386f4fcf23377f438b260729730",
+	["u_md5"]="8b45ec072309cfb050ba2c5c14f0dd9f",
 	["u_size"]=3.05,
 	},
 {
@@ -381,13 +368,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/netEffect.plist",
-	["u_md5"]="936743b87e1ee28d6126d0ba8fc24855",
+	["u_md5"]="f53c3314a205ef04c756022a8b5fe208",
 	["u_size"]=14.09,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/netEffect.png",
-	["u_md5"]="22012ec83fc96214d547433a42aca5c0",
-	["u_size"]=1199.79,
+	["u_md5"]="82e6eac17f8583c37752e9ad90313924",
+	["u_size"]=900.16,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/yingbi.plist",
@@ -1025,154 +1012,109 @@ return {
 	["u_size"]=17.49,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/music/die_big_1.mp3",
-	["u_md5"]="0080000f8f47e193b7688e6ec0fb8cfe",
-	["u_size"]=18.41,
+	["u_name"]="Games/GDntg/res/game/music/die10.mp3",
+	["u_md5"]="622a5135c4e8e7a7232d4491998a0d7c",
+	["u_size"]=9.53,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/music/die_big_2.mp3",
-	["u_md5"]="8bb07cf487c69b7453beeed3dc4cad7d",
-	["u_size"]=30.96,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_bully_me.mp3",
-	["u_md5"]="6b972ca24ffe2ef98b3ca006d653b5f0",
-	["u_size"]=26.98,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_catch_me.mp3",
-	["u_md5"]="ed74e1089182d36e8e9493e333ae35b1",
-	["u_size"]=19.33,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_hide_but_be_shoot.mp3",
-	["u_md5"]="c16890117fb07d6f70906fe55a3ce08e",
-	["u_size"]=23.92,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_hiki_hiki.mp3",
+	["u_name"]="Games/GDntg/res/game/music/die11.mp3",
 	["u_md5"]="03eb07840922be4a51ceb1694ce59f0a",
 	["u_size"]=19.64,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/music/die_how_could_this_be.mp3",
-	["u_md5"]="8925577b3f376a80686c0d8d840432e0",
-	["u_size"]=24.23,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_impossible.mp3",
-	["u_md5"]="e08b7ce9cd7104a1b4543344ea45cafb",
-	["u_size"]=37.08,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_medium_1.mp3",
-	["u_md5"]="0261a9b94209c7e2b87550906aab01b8",
-	["u_size"]=27.92,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_medium_2.mp3",
-	["u_md5"]="6f96a7e496f12758bdf18990884d04cb",
-	["u_size"]=24.53,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_medium_3.mp3",
-	["u_md5"]="34d2f5fe4e4068ee36eb8adde6e6e715",
-	["u_size"]=20.55,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_mercy.mp3",
-	["u_md5"]="a1095fe7a810acee5da4d89f2a24b38c",
-	["u_size"]=23.94,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_more_tender.mp3",
-	["u_md5"]="e336a956b044420aaad2fa425b4699fd",
-	["u_size"]=24.84,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_not_afraid_death_guy.mp3",
-	["u_md5"]="fc6415ce954197a711db7cc69ec020de",
-	["u_size"]=30.35,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_not_true.mp3",
-	["u_md5"]="be42797f5c9121a399bf3701134b8e93",
-	["u_size"]=25.76,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_oh_no.mp3",
-	["u_md5"]="7b0da7ff3e3a7f4497ee58aa2f11dad6",
-	["u_size"]=19.33,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_small_1.mp3",
+	["u_name"]="Games/GDntg/res/game/music/die12.mp3",
 	["u_md5"]="c2839e9b6cda3c90f1ea6b159d41e56f",
 	["u_size"]=18.1,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/music/die_small_2.mp3",
+	["u_name"]="Games/GDntg/res/game/music/die13.mp3",
 	["u_md5"]="bb52022789271b91b4b6ff12903891f1",
 	["u_size"]=22.39,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/music/die_small_3.mp3",
-	["u_md5"]="279e7dd092f96ebc0c19f83d87f68cf3",
-	["u_size"]=41.69,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_small_4.mp3",
-	["u_md5"]="d7319ef7f6d3ecd1ac293570a7c46300",
-	["u_size"]=23.63,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_small_5.mp3",
-	["u_md5"]="9277403a8e0dd17dae108bad519e7805",
-	["u_size"]=18.12,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_unwilling.mp3",
-	["u_md5"]="6e48b73de977a53be2115e1ccd0a1e5c",
-	["u_size"]=38,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/die_waaa.mp3",
+	["u_name"]="Games/GDntg/res/game/music/die14.mp3",
 	["u_md5"]="18d17738cc0b48ff420d24e39546cd51",
 	["u_size"]=11.06,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/music/die_who_no.mp3",
-	["u_md5"]="0e80b18914f616253dd35d53b4e5d359",
-	["u_size"]=27.29,
+	["u_name"]="Games/GDntg/res/game/music/die15.mp3",
+	["u_md5"]="0295e33b11d30f28dda96cc48afa07b4",
+	["u_size"]=17.04,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/music/die_why_me_bad_luck.mp3",
-	["u_md5"]="d8f3b02348adcda974e66efb3c42a205",
-	["u_size"]=48.41,
+	["u_name"]="Games/GDntg/res/game/music/die16.mp3",
+	["u_md5"]="8627a237160e1b73940475f0df8ea872",
+	["u_size"]=23.47,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/music/die_you_make_a_fortune_man.mp3",
-	["u_md5"]="2e81c2d0d716d843d84345335c968891",
-	["u_size"]=28.51,
+	["u_name"]="Games/GDntg/res/game/music/die17.mp3",
+	["u_md5"]="0b821faf2d42427a075e6006a67977e7",
+	["u_size"]=17.04,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/music/die_you_make_a_fortune_woman.mp3",
-	["u_md5"]="c3c34527140766832d2570ad8dd2f052",
-	["u_size"]=36.17,
+	["u_name"]="Games/GDntg/res/game/music/die18.mp3",
+	["u_md5"]="70f54672395308adc7292f8dc6ee6e66",
+	["u_size"]=24.08,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/music/die_you_win_again.mp3",
-	["u_md5"]="b3eeaf944b5935e6b9645c7dc40f0ee8",
-	["u_size"]=25.45,
+	["u_name"]="Games/GDntg/res/game/music/die19.mp3",
+	["u_md5"]="bb2d92fa53c6360585054d41aff07dd5",
+	["u_size"]=31.43,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/music/die_you_win_too_much_man.mp3",
-	["u_md5"]="fc4ed41d1251ca70f89577d0dd8cca76",
-	["u_size"]=21.78,
+	["u_name"]="Games/GDntg/res/game/music/die20.mp3",
+	["u_md5"]="b98ebc2eb9b11361608c0afa19470b86",
+	["u_size"]=27.45,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/die21.mp3",
+	["u_md5"]="264e2b834a3cbf58240716f6ee474c97",
+	["u_size"]=25.62,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/die22.mp3",
+	["u_md5"]="63dfc406792d43ea7081c44eddeb0bbe",
+	["u_size"]=27.76,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/die23.mp3",
+	["u_md5"]="35af9cf2b24c48387d3dd7930013565a",
+	["u_size"]=42.45,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/die24.mp3",
+	["u_md5"]="8693cc5bad3018091bdec4131686c333",
+	["u_size"]=21.94,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/die25.mp3",
+	["u_md5"]="cf0c5ddb385d5d38340c3ab81527f9d6",
+	["u_size"]=27.45,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/die26.mp3",
+	["u_md5"]="86cf04864c1effec1efe36f7da55248c",
+	["u_size"]=27.15,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/die27.mp3",
+	["u_md5"]="8badf5e684b45a9b868153752eb20251",
+	["u_size"]=20.1,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/die28.mp3",
+	["u_md5"]="655eb85caa5cb9a4f9cabfa082c659ea",
+	["u_size"]=25.31,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/dtbg.mp3",
 	["u_md5"]="95469266eae4a199077bb5fa011aacfc",
 	["u_size"]=321.47,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/fenghuolun5.mp3",
+	["u_md5"]="d562dde35cdc08f8aa6a1ac9d94c3ad9",
+	["u_size"]=21.02,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/frozen.mp3",
@@ -1190,6 +1132,16 @@ return {
 	["u_size"]=5.67,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/music/jingubang4.mp3",
+	["u_md5"]="32dc44984417c7b862877dbd38aa7432",
+	["u_size"]=17.96,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/jinyumantang9.mp3",
+	["u_md5"]="ba4bb2e90d712963a1c336f76acf1b6c",
+	["u_size"]=22.55,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/music/lightningeffect.mp3",
 	["u_md5"]="c3fcb74fbf5bfcf74b5149edcd400870",
 	["u_size"]=11.68,
@@ -1200,6 +1152,16 @@ return {
 	["u_size"]=4.02,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/music/luozha30.mp3",
+	["u_md5"]="2dd6194b5782c669bfa7de71eb2f190c",
+	["u_size"]=25,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/meirenyu29.mp3",
+	["u_md5"]="5e96da6fc1a28979050456ef58858bd3",
+	["u_size"]=25.62,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/music/panel_open.mp3",
 	["u_md5"]="df7c591a4727f21eba4cc6ee4b9339ee",
 	["u_size"]=4.02,
@@ -1208,6 +1170,11 @@ return {
 	["u_name"]="Games/GDntg/res/game/music/sg_hit_egg.mp3",
 	["u_md5"]="9c290de041cb3bb1b2dc2acb69cebb1d",
 	["u_size"]=5.86,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/shandianliansuo6.mp3",
+	["u_md5"]="87dcb45aea8545b1bbcafae6edb24967",
+	["u_size"]=25,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/shot.mp3",
@@ -1230,9 +1197,34 @@ return {
 	["u_size"]=35.86,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/music/wanfouchaozong3.mp3",
+	["u_md5"]="b239dc0034a00a6f292ce8862ba7d2ec",
+	["u_size"]=26.53,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/music/wave.mp3",
 	["u_md5"]="c59e6f56880a69d5e1483ca39a699950",
 	["u_size"]=45.04,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/wukong1.mp3",
+	["u_md5"]="19aaef84d3285a7e50c411a89d08abef",
+	["u_size"]=23.78,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/yijianshuangdiao7.mp3",
+	["u_md5"]="50267860fe1c751b1b0c6872d1507799",
+	["u_size"]=23.78,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/yishisanyu8.mp3",
+	["u_md5"]="d824e8833cc0b3ee3c7f9664500b9cde",
+	["u_size"]=20.72,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/music/yuhuangdadi2.mp3",
+	["u_md5"]="bf77a0dc824337bb901da2d548aa1f95",
+	["u_size"]=31.43,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/yxbg1.mp3",
@@ -1520,6 +1512,116 @@ return {
 	["u_size"]=0.71,
 	},
 {
+	["u_name"]="Games/GDntg/res/shop/button_128.png",
+	["u_md5"]="ce0adabdb35f8a9417cbb0368c2ff70d",
+	["u_size"]=5.67,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/button_18.png",
+	["u_md5"]="fd02cd0f0aef6a374770392b6aa6e697",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/button_298.png",
+	["u_md5"]="bacd833845079f158023d49b54fec62d",
+	["u_size"]=5.84,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/button_30.png",
+	["u_md5"]="74a71d0a2d48676d27fca10d5f9d3385",
+	["u_size"]=5.47,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/button_6.png",
+	["u_md5"]="c36294c4509b0f9e6ea9f2c5d44f0803",
+	["u_size"]=5.15,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/button_68.png",
+	["u_md5"]="95198672513eb1d8e660a91319e7440a",
+	["u_size"]=5.53,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/close.png",
+	["u_md5"]="081f00f91db8a81649e224565b1eaa7e",
+	["u_size"]=8.63,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/img.png",
+	["u_md5"]="50b21311124e638005431ae274989eef",
+	["u_size"]=1.36,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/img_128.png",
+	["u_md5"]="3314339e24b25a3340913a60ad165706",
+	["u_size"]=17.65,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/img_18.png",
+	["u_md5"]="106801cbfd06a45f23af91b0b66c7076",
+	["u_size"]=12.46,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/img_298.png",
+	["u_md5"]="6a3ea4ba7ef4a34cfc40f67c69e8fc83",
+	["u_size"]=22.28,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/img_30.png",
+	["u_md5"]="8fcc5cb183b0f2ca2184af1ac4c7a0a6",
+	["u_size"]=16.8,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/img_6.png",
+	["u_md5"]="23ce90786b4111b8d088868043be9cfc",
+	["u_size"]=7.74,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/img_68.png",
+	["u_md5"]="9978c8b7c3eafb9b4e581e7577cf961f",
+	["u_size"]=17.77,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/pop1.png",
+	["u_md5"]="a6c2af808c0ebdac660688e48e9f8af0",
+	["u_size"]=351.71,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/sheet.png",
+	["u_md5"]="408a46c5e829f8259d14ea5013317743",
+	["u_size"]=16.01,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/txt_128w.png",
+	["u_md5"]="10e678245d7be4842961896cd09f5344",
+	["u_size"]=4.83,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/txt_18w.png",
+	["u_md5"]="3212b1306b39ecf574bf78baf807f172",
+	["u_size"]=4.32,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/txt_298w.png",
+	["u_md5"]="2499d4984fb1105f84adf3f67f136692",
+	["u_size"]=4.89,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/txt_30w.png",
+	["u_md5"]="7e82aed18208a1836e9e09720ed7d098",
+	["u_size"]=4.45,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/txt_68w.png",
+	["u_md5"]="22076718446b2b472abd98c2c39ffd74",
+	["u_size"]=4.48,
+	},
+{
+	["u_name"]="Games/GDntg/res/shop/txt_6w.png",
+	["u_md5"]="301f9c81bb70c3c5c1e4bc5cebb3abff",
+	["u_size"]=3.92,
+	},
+{
 	["u_name"]="Games/GDntg/res/sjb_rk/sjb_rk.atlas",
 	["u_md5"]="48b91b7d8a50b57486256b63b7986b4f",
 	["u_size"]=7.08,
@@ -1551,13 +1653,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/EffctTime.lua",
-	["u_md5"]="f495b88c0d8ef52877733c830f820f12",
-	["u_size"]=1.74,
+	["u_md5"]="cfa81fac0535f12b56c6810006a759f0",
+	["u_size"]=1.86,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="12eb8d31531d5f1ad53797b8e6ae2430",
-	["u_size"]=23.12,
+	["u_md5"]="064bea3a6a1e89451ed6bdd0d7206e4d",
+	["u_size"]=25.2,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/FishSkill.lua",
@@ -1631,7 +1733,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="676536323fe0a6c106cb39961392f496",
+	["u_md5"]="5378417166916aa07f8e79920633baa8",
 	["u_size"]=26.65,
 	},
 {
@@ -1676,8 +1778,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
-	["u_md5"]="8c83a4749f0cf9dc6cecba83ca058d9e",
-	["u_size"]=16.34,
+	["u_md5"]="acbdbfce1a2a67b8edec2216e5f00b3e",
+	["u_size"]=16.42,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
@@ -1861,8 +1963,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="033b6bd3e11b309d9c09b20243263c88",
-	["u_size"]=16.54,
+	["u_md5"]="1ab85be7ce44358f20b6687c4bd0e552",
+	["u_size"]=17.02,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
@@ -1896,8 +1998,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",
-	["u_md5"]="8f2941a89ca0ed9ceb136c698042fb97",
-	["u_size"]=8.01,
+	["u_md5"]="a6b842e7c10a1779bae2211f05f2f84a",
+	["u_size"]=9.48,
 	},
-}
+} 
 }

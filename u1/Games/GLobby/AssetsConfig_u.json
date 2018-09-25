@@ -2,13 +2,14 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.0.59",
-["packageSize"] = 11236,
-["date"] = "20180921",
+["version"] = "1.0.70",
+["packageSize"] = 11245,
+["date"] = "20180925",
 ["depends"] = {
 10001,
 1001,
 },
+["newDetails"] = [[]],
 ["assets"] = {
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
@@ -1136,6 +1137,11 @@ return {
 	["u_size"]=3.72,
 	},
 {
+	["u_name"]="Games/GLobby/res/login/youke.png",
+	["u_md5"]="ab04c729adf2dc62313c7156ca7a1549",
+	["u_size"]=5.99,
+	},
+{
 	["u_name"]="Games/GLobby/src/Club/GLobbyAddMemberLayerMediator.lua",
 	["u_md5"]="76748171cdfe45e73aa14fcd03c0ac18",
 	["u_size"]=1.43,
@@ -1287,8 +1293,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyConst/GameManifest.lua",
-	["u_md5"]="fe7f08013f1f544ec9515bcc0b98fea5",
-	["u_size"]=1.24,
+	["u_md5"]="82c6c85058030a8f204200ccf7da685d",
+	["u_size"]=1.48,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyConst/LobbyConst.lua",
@@ -1362,18 +1368,18 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerMediator.lua",
-	["u_md5"]="174cd1a579403bbb261845da72983e9e",
-	["u_size"]=5.41,
+	["u_md5"]="85f0b7af7b311724efab637cae5563ad",
+	["u_size"]=6.86,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
-	["u_md5"]="b750e347026928eafa2f8cf1a19e29e5",
-	["u_size"]=2.35,
+	["u_md5"]="799476718ee813028d28d63a0bd0ff1f",
+	["u_size"]=3.1,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
-	["u_md5"]="cba96397b144b864ad9c3c0acb89ebb1",
-	["u_size"]=8.12,
+	["u_md5"]="d257e301603b2d56c6e5601011f82d50",
+	["u_size"]=8.49,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLogin_logic.lua",
@@ -1440,5 +1446,5 @@ return {
 	["u_md5"]="c87491b83b60cecd9d3314d214d898bf",
 	["u_size"]=11,
 	},
-}
+} 
 }
