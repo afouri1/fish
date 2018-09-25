@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.0.83",
+["version"] = "1.0.84",
 ["packageSize"] = 11245,
 ["date"] = "20180925",
 ["depends"] = {
@@ -1288,8 +1288,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/GameVManager/GameVManager.lua",
-	["u_md5"]="d94b404980fb9c2b0022e1b36834b4e4",
-	["u_size"]=2.77,
+	["u_md5"]="b91bb00c2b53afbe303fa700765e5bfa",
+	["u_size"]=2.97,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyConst/GameManifest.lua",
