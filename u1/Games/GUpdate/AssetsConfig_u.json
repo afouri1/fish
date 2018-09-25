@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
-["version"] = "1.0.76",
-["packageSize"] = 5857,
+["version"] = "1.0.80",
+["packageSize"] = 5858,
 ["date"] = "20180925",
 ["depends"] = {
 10001,
@@ -27,8 +27,8 @@ return {
 	},
 {
 	["u_name"]="Games/GUpdate/UEachFolder.lua",
-	["u_md5"]="af017040d569aa03826ce59b651917e0",
-	["u_size"]=28.71,
+	["u_md5"]="c221f96ef2b57639cf02c150b8fa98de",
+	["u_size"]=27.83,
 	},
 {
 	["u_name"]="Games/GUpdate/UEachGame.lua",
@@ -47,8 +47,8 @@ return {
 	},
 {
 	["u_name"]="Games/GUpdate/UUpdateView.lua",
-	["u_md5"]="426d70666bc3bc54d766027a1bdfa0e4",
-	["u_size"]=11.37,
+	["u_md5"]="5bec10e84cdb507cab16854a74ec1cd0",
+	["u_size"]=13.31,
 	},
 {
 	["u_name"]="Games/GUpdate/UpdateMain.lua",
