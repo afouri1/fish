@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.0.90",
-["packageSize"] = 7859,
-["date"] = "20180926",
+["version"] = "1.0.91",
+["packageSize"] = 7861,
+["date"] = "20180927",
 ["depends"] = {
 10002,
 10003,
@@ -18,8 +18,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/CommonFunc.lua",
-	["u_md5"]="9523ab4bd3b261a5ff92eed8328bb5ea",
-	["u_size"]=4.63,
+	["u_md5"]="a33738e20ce69a81aa7ee4a317d1731b",
+	["u_size"]=6.89,
 	},
 {
 	["u_name"]="Games/BaseCommon/ErrorHandler.lua",
@@ -33,7 +33,7 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocket.lua",
-	["u_md5"]="4a6a8c13793c094b8eefcd9e706c05ed",
+	["u_md5"]="8047bd5a2ce1f1e1088da54e112df323",
 	["u_size"]=15.28,
 	},
 {
