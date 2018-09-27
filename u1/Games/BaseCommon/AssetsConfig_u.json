@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.0.91",
-["packageSize"] = 7861,
+["version"] = "1.0.92",
+["packageSize"] = 7859,
 ["date"] = "20180927",
 ["depends"] = {
 10002,
@@ -33,7 +33,7 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocket.lua",
-	["u_md5"]="8047bd5a2ce1f1e1088da54e112df323",
+	["u_md5"]="4a6a8c13793c094b8eefcd9e706c05ed",
 	["u_size"]=15.28,
 	},
 {
@@ -163,8 +163,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/res/comTips/ComTips.json",
-	["u_md5"]="8d399249beaa1501f9b87884ce69da5b",
-	["u_size"]=17.36,
+	["u_md5"]="6749ffa6c968ad7fa84fb27dc0d04b60",
+	["u_size"]=17.05,
 	},
 {
 	["u_name"]="Games/BaseCommon/res/comTips/button_no.png",
@@ -183,8 +183,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/res/comTips/pop.png",
-	["u_md5"]="01fd2155d54e11eceb46aee0be889d12",
-	["u_size"]=217.11,
+	["u_md5"]="6784353ccd07c6bd8a92628b4b0c92ef",
+	["u_size"]=215.88,
 	},
 {
 	["u_name"]="Games/BaseCommon/res/hei_bian.jpg",
