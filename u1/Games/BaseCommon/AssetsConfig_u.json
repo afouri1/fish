@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.0.92",
-["packageSize"] = 7859,
+["version"] = "1.0.93",
+["packageSize"] = 7860,
 ["date"] = "20180927",
 ["depends"] = {
 10002,
@@ -33,8 +33,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocket.lua",
-	["u_md5"]="4a6a8c13793c094b8eefcd9e706c05ed",
-	["u_size"]=15.28,
+	["u_md5"]="dd430ba17a9e4c0d4060eee0ec0b5637",
+	["u_size"]=15.33,
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocketEvent.lua",
@@ -78,8 +78,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/LuaNotifCenter.lua",
-	["u_md5"]="845a6c2fd4739308e74b2dcc73b4c146",
-	["u_size"]=6.73,
+	["u_md5"]="c32cb0d863635989750feaa600493dde",
+	["u_size"]=7.53,
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/Sandbox.lua",
@@ -248,8 +248,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/KeyboardHandler.lua",
-	["u_md5"]="1510a0b70c6c9e9a36dd670e3dc267a3",
-	["u_size"]=5.66,
+	["u_md5"]="cd7a9d227ef2e42a32d9d19ce5e26c7b",
+	["u_size"]=5.8,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/MyAnimation.lua",
