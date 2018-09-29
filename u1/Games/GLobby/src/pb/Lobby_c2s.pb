@@ -1,34 +1,23 @@
 
-¢
+Î	
 Lobby_c2s.protolobby",
 CreateClub_Req
 clubName (	RclubName"&
 JoinClub_Req
-clubId (RclubId"Æ
-CreateDesk_Req
-clubId (RclubId,
-batterySectionMin (RbatterySectionMin,
-batterySectionMax (RbatterySectionMax
-playNum (RplayNum
-
-difficulty (R
-difficulty&
-dischargeWater (RdischargeWater
-	mostScore (R	mostScore
-	bulletNum (R	bulletNum"
-isAutoSupply	 (RisAutoSupply"'
+clubId (RclubId"t
+CreateDesk_Req
+appid (Rappid
+playType (RplayType
+clubId (RclubId
+setting (	Rsetting"'
 DesksInfo_Req
-clubId (RclubId"ô
-ModifyDesk_Req
-deskId (RdeskId
-clubId (RclubId
-
-difficulty (R
-difficulty&
-dischargeWater (RdischargeWater
-	mostScore (R	mostScore(
-supplyBulletNum (RsupplyBulletNum"
-isAutoSupply (RisAutoSupply"?
+clubId (RclubId"Œ
+ModifyDesk_Req
+appid (Rappid
+playType (RplayType
+clubId (RclubId
+deskId (RdeskId
+setting (	Rsetting"?
 CloseDesk_Req
 deskId (RdeskId
 clubId (RclubId"=
@@ -50,13 +39,12 @@ clubLogoId
 ChangeMemberPower_Req
 clubId (RclubId
 changeId (RchangeId*
-changeMemberType (RchangeMemberType"‹
+changeMemberType (RchangeMemberType"s
 GiveAskGift_Req
-giveId (RgiveId
+clubId (RclubId
 	receiveId (R	receiveId
-reqType (RreqType
-giftId (RgiftId
-num (Rnum"f
+reqType (RreqType
+num (Rnum"f
 GiftRecord_Req
 memberId (RmemberId
 
