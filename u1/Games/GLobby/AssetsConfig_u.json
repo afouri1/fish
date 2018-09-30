@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.0.116",
-["packageSize"] = 12879,
+["version"] = "1.0.117",
+["packageSize"] = 12880,
 ["date"] = "20180930",
 ["depends"] = {
 10001,
@@ -18,8 +18,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="4e0fe8f11967ddc1fa8c7ab1d5a8aaed",
-	["u_size"]=22.13,
+	["u_md5"]="7d8865c496c6ca51ecc21f42540350a0",
+	["u_size"]=22.18,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
@@ -1488,8 +1488,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyApplyAndCreateClubLayerView.lua",
-	["u_md5"]="4cc55fb72ade75581061d9e448d2e67d",
-	["u_size"]=2.4,
+	["u_md5"]="a1471ba8fd3bc2ef33eb315a01e625b2",
+	["u_size"]=2.41,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerItem.lua",
@@ -1503,8 +1503,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerView.lua",
-	["u_md5"]="c850a97829f630a8a1c8fd7597eb86f6",
-	["u_size"]=15.91,
+	["u_md5"]="a523dd4d4ce963068b538f74623ab64c",
+	["u_size"]=15.96,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerMediator.lua",
@@ -1513,8 +1513,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerView.lua",
-	["u_md5"]="e763c89c731e46cebdef29ae899df843",
-	["u_size"]=14.6,
+	["u_md5"]="8637c886a64d410f61fe966615a7fef8",
+	["u_size"]=15.06,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubListLayerItem.lua",
@@ -1558,8 +1558,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCreateCardLayerView.lua",
-	["u_md5"]="b0811b483028e7a317ab1baae0ec7325",
-	["u_size"]=16.79,
+	["u_md5"]="1203576bd78763976cfec9e408beb413",
+	["u_size"]=16.99,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCreateClubLayerMediator.lua",
@@ -1738,8 +1738,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubRoomListData.lua",
-	["u_md5"]="12165cb075498182bc82c0bdf821c525",
-	["u_size"]=2.44,
+	["u_md5"]="dd437fcd57e64ce7acff24cbc8ea6e89",
+	["u_size"]=2.91,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/roomListData.lua",
