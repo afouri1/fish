@@ -1,5 +1,6 @@
 
-Î	
+€
+
 Lobby_c2s.protolobby",
 CreateClub_Req
 clubName (	RclubName"&
@@ -17,10 +18,12 @@
 playType (RplayType
 clubId (RclubId
 deskId (RdeskId
-setting (	Rsetting"?
-CloseDesk_Req
-deskId (RdeskId
-clubId (RclubId"=
+setting (	Rsetting"q
+CloseDesk_Req
+appid (Rappid
+playType (RplayType
+deskId (RdeskId
+clubId (RclubId"=
 AddMember_Req
 clubId (RclubId
 addId (RaddId"¨
