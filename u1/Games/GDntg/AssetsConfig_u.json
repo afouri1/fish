@@ -2,14 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.141",
+["version"] = "1.1.142",
 ["packageSize"] = 25336,
 ["date"] = "20181012",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.更换子弹及爆炸效果
+1.炮弹及爆炸效果替换
+2.boss提示特效
+3.去掉换座
+4.大厅输入框修改
 
 ]],
 ["assets"] = {
@@ -2280,8 +2283,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerView.lua",
-	["u_md5"]="8c591bf1e04990244dbe38fd028677c8",
-	["u_size"]=10.57,
+	["u_md5"]="b3d2a5aa49281750aaebbff08095bc22",
+	["u_size"]=10.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/DntgEvent.lua",
