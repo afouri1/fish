@@ -2,20 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.149",
-["packageSize"] = 25360,
+["version"] = "1.1.151",
+["packageSize"] = 25361,
 ["date"] = "20181016",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.渔场记录添加
-2.渔场提示语修复
-3.退出渔场
-4.索取V币
-5.换座修复
-6.背景音效缺失
-7.子弹消失，鱼位置翻转
+1.俱乐部同步显示修复
+2.炮弹爆炸效果调整
+3.换座按钮调整
+4.索取/赠送V币显示修复
 
 ]],
 ["assets"] = {} 
