@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.152",
-["packageSize"] = 13059,
-["date"] = "20181017",
+["version"] = "1.1.154",
+["packageSize"] = 13176,
+["date"] = "20181018",
 ["depends"] = {
 10001,
 1001,
@@ -18,8 +18,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="5f423c57e84a7a170f692c61790867c0",
-	["u_size"]=23.96,
+	["u_md5"]="18fcbad4eb088a0c567b551e9f38db43",
+	["u_size"]=24.11,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
@@ -882,6 +882,16 @@ return {
 	["u_size"]=17.76,
 	},
 {
+	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_clubpaotai_record.json",
+	["u_md5"]="66176fec001dc5ceeeb2f32d9ba1d723",
+	["u_size"]=20.11,
+	},
+{
+	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_clubpaotai_record_item.json",
+	["u_md5"]="61925b1ffb8c2ecec70af924699332a8",
+	["u_size"]=9.86,
+	},
+{
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_confirm.json",
 	["u_md5"]="0ed3d8054a5a4053ea4387eede7391d4",
 	["u_size"]=14.05,
@@ -967,9 +977,39 @@ return {
 	["u_size"]=28.58,
 	},
 {
+	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_game_record.json",
+	["u_md5"]="490fc27afe5b20b093ac2b132a9e80c5",
+	["u_size"]=7.05,
+	},
+{
+	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_game_record_item.json",
+	["u_md5"]="0054a03930216cb6aa1c36d705283782",
+	["u_size"]=14.5,
+	},
+{
 	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_my.json",
 	["u_md5"]="e411b44c7a1405e04eb03df6123d0bce",
 	["u_size"]=60.61,
+	},
+{
+	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_my_bullet.json",
+	["u_md5"]="ce8c1885d17874686ef6ff24dc245a66",
+	["u_size"]=20.18,
+	},
+{
+	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_my_bullet_item.json",
+	["u_md5"]="2c7194f8facbe5ad67623c59762ad69a",
+	["u_size"]=12.94,
+	},
+{
+	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_mypaotai_record.json",
+	["u_md5"]="ed4b02bf6aa97f92d6c5ed42f3a00a9d",
+	["u_size"]=7.97,
+	},
+{
+	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_mypaotai_record_item.json",
+	["u_md5"]="1e3d75225d3f303c1578257f90f48bb5",
+	["u_size"]=23.17,
 	},
 {
 	["u_name"]="Games/GLobby/res/common/bg.png",
@@ -1883,8 +1923,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
-	["u_md5"]="ba313e5b6dd616da306d54074688c378",
-	["u_size"]=8.52,
+	["u_md5"]="4f1c56f23616778760365efa723ff1ba",
+	["u_size"]=9.54,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLogin_logic.lua",
