@@ -2,16 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.156",
+["version"] = "1.1.157",
 ["packageSize"] = 26959,
 ["date"] = "20181018",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.子弹资源替换
-2.鱼王位置修复
-3.挂机崩溃/卡顿
+1.大闹天宫出鱼位置修复
+2.俱乐部金币图标替换
+3.鱼组鱼堆积修复
+4.俱乐部新增赠送记录界面
+5.断线重连修复
+6.新增“我的”界面
 ]],
 ["assets"] = {} 
 }
