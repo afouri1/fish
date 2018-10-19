@@ -2,19 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.157",
-["packageSize"] = 26959,
-["date"] = "20181018",
+["version"] = "1.1.158",
+["packageSize"] = 26958,
+["date"] = "20181019",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.大闹天宫出鱼位置修复
-2.俱乐部金币图标替换
-3.鱼组鱼堆积修复
-4.俱乐部新增赠送记录界面
-5.断线重连修复
-6.新增“我的”界面
+1.新增战绩界面
+2.新增消息界面
+3.场景切换鱼未清除修复
+4.修复同一路径重叠鱼
+5.修复大闹天宫出鱼速度
+6.游戏内UI界面调整
 ]],
 ["assets"] = {
 {
@@ -1429,8 +1429,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/playeruibg.png",
-	["u_md5"]="2c4044553793b965c56bf7f554f35318",
-	["u_size"]=11.75,
+	["u_md5"]="322132f599e9055da1a8d908b6ef5cf0",
+	["u_size"]=10.2,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/setting/bgshezhi.png",
@@ -2349,8 +2349,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="ac4375e1b31f39dd2c3184ef902d6765",
-	["u_size"]=34.45,
+	["u_md5"]="22524445eafbbdc84ffb32438cfeb2f4",
+	["u_size"]=34.52,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -2374,8 +2374,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="52313433a3cc05d8b6dea3908e776ff9",
-	["u_size"]=9.32,
+	["u_md5"]="212f37a02c3b0321c40f11d6d6edaa7e",
+	["u_size"]=9.33,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
@@ -2434,8 +2434,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GFishLayer/GFishLayerMediator.lua",
-	["u_md5"]="60ca7f4aaa352eda254bae614cdad9b6",
-	["u_size"]=13.12,
+	["u_md5"]="0011c3d49ed7d5b86276b8a082b0a1e4",
+	["u_size"]=13.28,
 	},
 {
 	["u_name"]="Games/GDntg/src/GFishLayer/GFishLayerView.lua",
@@ -2554,8 +2554,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/NetworkConfig/DntgNetworkCmd.lua",
-	["u_md5"]="d584b0cbee05beb8f88bc7980296a22b",
-	["u_size"]=6.74,
+	["u_md5"]="dfda068368f321b05b4726c5ad5d26aa",
+	["u_size"]=6.82,
 	},
 {
 	["u_name"]="Games/GDntg/src/ScriptConfig.lua",
@@ -2589,8 +2589,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="1584f61dedff3956a323606995ed0bfb",
-	["u_size"]=17.76,
+	["u_md5"]="97443a39e89312fa950e8eb62b9ff4e4",
+	["u_size"]=17.7,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
@@ -2604,8 +2604,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_Basis.pb",
-	["u_md5"]="d76f2b3d3ea13555375ed377aeb6cf29",
-	["u_size"]=1.44,
+	["u_md5"]="85d880f1ec33673b2ffbab1da4be9414",
+	["u_size"]=1.55,
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_Cmd.pb",
@@ -2619,8 +2619,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_s2c.pb",
-	["u_md5"]="60eb4e51a69179e25f283a0172803f86",
-	["u_size"]=1.75,
+	["u_md5"]="282c35cad6c92b9f711a875351ef51b5",
+	["u_size"]=1.82,
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",

@@ -2,19 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.157",
-["packageSize"] = 26959,
-["date"] = "20181018",
+["version"] = "1.1.158",
+["packageSize"] = 26958,
+["date"] = "20181019",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.大闹天宫出鱼位置修复
-2.俱乐部金币图标替换
-3.鱼组鱼堆积修复
-4.俱乐部新增赠送记录界面
-5.断线重连修复
-6.新增“我的”界面
+1.新增战绩界面
+2.新增消息界面
+3.场景切换鱼未清除修复
+4.修复同一路径重叠鱼
+5.修复大闹天宫出鱼速度
+6.游戏内UI界面调整
 ]],
 ["assets"] = {} 
 }
