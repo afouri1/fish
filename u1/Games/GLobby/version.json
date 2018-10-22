@@ -2,13 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.159",
-["packageSize"] = 14278,
-["date"] = "20181019",
+["version"] = "1.1.172",
+["packageSize"] = 14350,
+["date"] = "20181022",
 ["depends"] = {
 10001,
 1001,
 },
-["newDetails"] = [[]],
+["newDetails"] = [[版本更新提示
+1.炮弹爆炸效果替换
+2.更新版本优化
+3.大厅公告界面调整
+4.大厅我的界面未显示修复
+5.金币爆炸效果调整
+]],
 ["assets"] = {} 
 }

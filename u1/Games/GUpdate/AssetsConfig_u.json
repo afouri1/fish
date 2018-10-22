@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
-["version"] = "1.1.159",
+["version"] = "1.1.172",
 ["packageSize"] = 5861,
-["date"] = "20181019",
+["date"] = "20181022",
 ["depends"] = {
 10001,
 },
@@ -12,12 +12,12 @@ return {
 ["assets"] = {
 {
 	["u_name"]="Games/GUpdate/FileDownloadBatch.lua",
-	["u_md5"]="44dc0e82cff05c7dd207b1c5e0d134af",
+	["u_md5"]="b17c759ad666ca133a097c37efc2925f",
 	["u_size"]=3.99,
 	},
 {
 	["u_name"]="Games/GUpdate/FileDownloader.lua",
-	["u_md5"]="7dd867f6ab405773b277786c55a8e845",
+	["u_md5"]="a60817e6e0588600c2c96ae9a88d49e7",
 	["u_size"]=7.91,
 	},
 {
@@ -42,13 +42,13 @@ return {
 	},
 {
 	["u_name"]="Games/GUpdate/UUpdate.lua",
-	["u_md5"]="459d01334f9e29ed4253910b1389c1c0",
-	["u_size"]=7.83,
+	["u_md5"]="5b10498c103db8849fe0445ef51d291d",
+	["u_size"]=7.89,
 	},
 {
 	["u_name"]="Games/GUpdate/UUpdateView.lua",
-	["u_md5"]="4baa32fb12bd2e50baa2ba60fa0e1b20",
-	["u_size"]=14.07,
+	["u_md5"]="9b1040935708d07dfa8c33cb3ae26f36",
+	["u_size"]=14.02,
 	},
 {
 	["u_name"]="Games/GUpdate/UpdateMain.lua",
