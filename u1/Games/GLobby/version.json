@@ -2,19 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.172",
-["packageSize"] = 14350,
-["date"] = "20181022",
+["version"] = "1.1.174",
+["packageSize"] = 14354,
+["date"] = "20181023",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新提示
-1.炮弹爆炸效果替换
-2.更新版本优化
-3.大厅公告界面调整
-4.大厅我的界面未显示修复
-5.金币爆炸效果调整
+1.我的界面数据完善
+2.俱乐部炮台赠送记录页面数据完善
+3.联网进度条添加
+4.俱乐部索取V币修复
+5.游戏内线条、logo纹理去掉
+6.新增平行鱼组
+7.炮台、蓝色炮弹替换
 ]],
 ["assets"] = {} 
 }
