@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.175",
+["version"] = "1.1.176",
 ["packageSize"] = 25971,
 ["date"] = "20181023",
 ["depends"] = {
@@ -390,8 +390,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/lanbaozha.plist",
-	["u_md5"]="7696aee33b6314092a84e804fb290e88",
-	["u_size"]=4.77,
+	["u_md5"]="b17bb7256f084812bcb1448fabba2b26",
+	["u_size"]=4.64,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/lanbaozha.png",

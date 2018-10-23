@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.175",
+["version"] = "1.1.176",
 ["packageSize"] = 14354,
 ["date"] = "20181023",
 ["depends"] = {
@@ -2042,8 +2042,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/GameVManager/GameVManager.lua",
-	["u_md5"]="7ee548535d63086eecb8ed6d123d906a",
-	["u_size"]=10.72,
+	["u_md5"]="a32a526077d0cd887b0d417b61f3aa59",
+	["u_size"]=10.7,
 	},
 {
 	["u_name"]="Games/GLobby/src/GameVManager/UpdateProgress.json",
@@ -2127,13 +2127,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerMediator.lua",
-	["u_md5"]="0211949e5986fc51006021b2831144a7",
-	["u_size"]=8.23,
+	["u_md5"]="452c5afd66269e36cec079a6ea49ee54",
+	["u_size"]=8.37,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
-	["u_md5"]="fb94993fdb3567d0084ed32cc3134d95",
-	["u_size"]=3.71,
+	["u_md5"]="e5653e6315684cd77fdd7984e284b7dc",
+	["u_size"]=3.89,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
