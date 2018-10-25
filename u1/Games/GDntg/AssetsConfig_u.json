@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.194",
-["packageSize"] = 25604,
+["version"] = "1.1.195",
+["packageSize"] = 25793,
 ["date"] = "20181025",
 ["depends"] = {
 },
@@ -999,8 +999,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/num_jin.png",
-	["u_md5"]="22710333796e7a9c3e108997a270de21",
-	["u_size"]=41.35,
+	["u_md5"]="9e3a32cc81b9011f906371374d7a2304",
+	["u_size"]=34.63,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/num_js.png",
@@ -1014,8 +1014,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/num_yin.png",
-	["u_md5"]="9e3a32cc81b9011f906371374d7a2304",
-	["u_size"]=34.63,
+	["u_md5"]="22710333796e7a9c3e108997a270de21",
+	["u_size"]=41.35,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/takenum.png",
@@ -1041,6 +1041,16 @@ return {
 	["u_name"]="Games/GDntg/res/game/gameAction/Armature_newAnimation.png",
 	["u_md5"]="cff44db9a95990fb609cf51aa11a29e8",
 	["u_size"]=58.21,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Armature_yuwangqipao.plist",
+	["u_md5"]="75b6dfb260dc70648aa22ef53d751756",
+	["u_size"]=8.23,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Armature_yuwangqipao.png",
+	["u_md5"]="66a95b06f5612ed249a6da2872617437",
+	["u_size"]=118.26,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Kingfish.plist",
@@ -1584,8 +1594,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/wave.mp3",
-	["u_md5"]="c59e6f56880a69d5e1483ca39a699950",
-	["u_size"]=45.04,
+	["u_md5"]="66406117bbf86d87242aea2a6c176649",
+	["u_size"]=70,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/wukong1.mp3",
@@ -1754,13 +1764,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/gun/gunTop01.png",
-	["u_md5"]="ad2a75b24b0fa6dc55ba7d5af9258e29",
-	["u_size"]=32.28,
+	["u_md5"]="827ce594bc25dda3123d532ca2375565",
+	["u_size"]=46.75,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/gun/gunTop02.png",
-	["u_md5"]="f9cd49db58d62bea5f33929852b97780",
-	["u_size"]=39.56,
+	["u_md5"]="b68c73cf9fac0a6e7ab10d9a99ab754b",
+	["u_size"]=61.41,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/gun/gunTop03.png",
@@ -2099,8 +2109,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="e1eae786e48fb64b89d4a5f862f60d9a",
-	["u_size"]=37.13,
+	["u_md5"]="4374cd268090fc4fe1437d0094472cf3",
+	["u_size"]=37.65,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -2124,12 +2134,12 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="37db79aaaa6bf933c33338419249d815",
+	["u_md5"]="261c981b3815c0f86b19f98f5d312adb",
 	["u_size"]=6.71,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
-	["u_md5"]="dcdfbe5372a2143a00924f5f7fbaa00c",
+	["u_md5"]="42420a7d5b0c021f5ec038d0393800fb",
 	["u_size"]=10.98,
 	},
 {
@@ -2149,8 +2159,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="6b3346b9e6de1b3059aa958b180dc7cd",
-	["u_size"]=12.67,
+	["u_md5"]="aaa54285fe7192072499034cdcf0cf11",
+	["u_size"]=12.77,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GNetMediator.lua",
@@ -2224,8 +2234,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="4a9392d268fa655fbc36e32867b88af3",
-	["u_size"]=22.41,
+	["u_md5"]="0c8cda5ea59a8146c6dcf7bddb83918e",
+	["u_size"]=22.47,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -2324,8 +2334,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GBg.lua",
-	["u_md5"]="b6019bce3f634041478a0ddf9f20eec1",
-	["u_size"]=6.57,
+	["u_md5"]="2905a7141bb0a21a4deb683a7f5890f3",
+	["u_size"]=6.58,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GConfigManager.lua",
@@ -2334,13 +2344,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLoadingGame.lua",
-	["u_md5"]="c0d79a3217659dd69c2077064b6c446f",
-	["u_size"]=3.47,
+	["u_md5"]="2fc681797984ab03bdce5d21494706da",
+	["u_size"]=3.61,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="97443a39e89312fa950e8eb62b9ff4e4",
-	["u_size"]=17.7,
+	["u_md5"]="975ad440b1c3a2079be4e7bdc8387173",
+	["u_size"]=17.71,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
