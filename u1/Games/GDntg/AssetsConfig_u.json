@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.192",
-["packageSize"] = 25667,
+["version"] = "1.1.193",
+["packageSize"] = 25603,
 ["date"] = "20181025",
 ["depends"] = {
 },
@@ -999,8 +999,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/num_jin.png",
-	["u_md5"]="11107bd64f6e79142e8729f712ebddb3",
-	["u_size"]=62.99,
+	["u_md5"]="22710333796e7a9c3e108997a270de21",
+	["u_size"]=41.35,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/num_js.png",
@@ -1014,8 +1014,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/num_yin.png",
-	["u_md5"]="3a915e8221e332aab660569aab582c54",
-	["u_size"]=77.01,
+	["u_md5"]="9e3a32cc81b9011f906371374d7a2304",
+	["u_size"]=34.63,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/takenum.png",
