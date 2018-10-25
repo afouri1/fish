@@ -2,24 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.195",
-["packageSize"] = 25793,
+["version"] = "1.1.197",
+["packageSize"] = 25749,
 ["date"] = "20181025",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新提示
-1.俱乐部修复人物，数据不同步
-2.个人信息修复不出界面
-3.赠送记录界面不显示数据修复
-4.赠送记录切换月份不能进入游戏修复
-5.创建牌局点击范围扩大优化
-6.鱼王倍率修复
-7.联网loding条修复
-8.更新版本之后资源不是最新
-9.炮弹资源替换
-10.冰冻界面不同步、优化、断线重连
-11.金币爆炸优化
-12.少鱼修复
+1.登陆失败修复
+2.技能鱼倍率修复
+3.俱乐部管理、牌局同步修复
+4.创建牌局失败修复
+5.游戏内屏幕界面调整
+6.少鱼修复
+7.鱼死亡时间调整
+8.鱼王特效调整
+9.海浪声音替换
 ]],
 ["assets"] = {
 {
@@ -999,8 +996,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/num_jin.png",
-	["u_md5"]="9e3a32cc81b9011f906371374d7a2304",
-	["u_size"]=34.63,
+	["u_md5"]="8ae0fe7168e33f0f08077bb284e5efcb",
+	["u_size"]=16.65,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/num_js.png",
@@ -1014,8 +1011,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/num_yin.png",
-	["u_md5"]="22710333796e7a9c3e108997a270de21",
-	["u_size"]=41.35,
+	["u_md5"]="66b9b635794e1e988e52ff45ad7eee06",
+	["u_size"]=15.45,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/takenum.png",
@@ -2109,8 +2106,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="4374cd268090fc4fe1437d0094472cf3",
-	["u_size"]=37.65,
+	["u_md5"]="57a4581763d4b651eb26d93d26275c8d",
+	["u_size"]=37.66,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -2134,13 +2131,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="261c981b3815c0f86b19f98f5d312adb",
-	["u_size"]=6.71,
+	["u_md5"]="d52be40d962dd5d9cdd56e147e9d8e72",
+	["u_size"]=6.92,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
-	["u_md5"]="42420a7d5b0c021f5ec038d0393800fb",
-	["u_size"]=10.98,
+	["u_md5"]="2337225b06b84db9e9fa1a0876ca94cf",
+	["u_size"]=11.5,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletMediator.lua",
@@ -2334,8 +2331,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GBg.lua",
-	["u_md5"]="2905a7141bb0a21a4deb683a7f5890f3",
-	["u_size"]=6.58,
+	["u_md5"]="a487df44a1307499ede1d6426b5fdaee",
+	["u_size"]=6.63,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GConfigManager.lua",
