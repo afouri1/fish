@@ -2,23 +2,23 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.197",
-["packageSize"] = 14540,
-["date"] = "20181025",
+["version"] = "1.1.198",
+["packageSize"] = 14572,
+["date"] = "20181026",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新提示
-1.登陆失败修复
-2.技能鱼倍率修复
-3.俱乐部管理、牌局同步修复
-4.创建牌局失败修复
-5.游戏内屏幕界面调整
-6.少鱼修复
-7.鱼死亡时间调整
-8.鱼王特效调整
-9.海浪声音替换
+1.炮台位置调整
+2.爆炸金币特效调整
+3.鱼王特效调整
+4.炮口火焰调整
+5.新鱼资源替换
+6.炮弹爆炸资源替换
+7.金币数字调整
+8.不扣除V币及界面不同步修复
+9.俱乐部及我的修复
 ]],
 ["assets"] = {} 
 }
