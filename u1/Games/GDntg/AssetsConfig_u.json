@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.220",
-["packageSize"] = 25359,
+["version"] = "1.1.221",
+["packageSize"] = 24678,
 ["date"] = "20181029",
 ["depends"] = {
 },
@@ -1637,11 +1637,6 @@ return {
 	["u_name"]="Games/GDntg/res/game/music/goldblast.mp3",
 	["u_md5"]="4eb695f9cac3fc9670a5c61ced3c55bb",
 	["u_size"]=24.23,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/music/hallbackground.mp3",
-	["u_md5"]="b2adaeb435ffed2b54c439a3e96cf7e1",
-	["u_size"]=680.97,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/hitthefish.mp3",
