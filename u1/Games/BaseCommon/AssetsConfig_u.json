@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.216",
-["packageSize"] = 7882,
-["date"] = "20181027",
+["version"] = "1.1.220",
+["packageSize"] = 7888,
+["date"] = "20181029",
 ["depends"] = {
 10002,
 10003,
@@ -18,8 +18,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/CommonFunc.lua",
-	["u_md5"]="a64e78d01ea5a9c0b3614c5cfca8edea",
-	["u_size"]=7.97,
+	["u_md5"]="6399f8a61156e2a3ac28480db1291869",
+	["u_size"]=10.87,
 	},
 {
 	["u_name"]="Games/BaseCommon/ErrorHandler.lua",
@@ -33,8 +33,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocket.lua",
-	["u_md5"]="825d98bb1de4732856668626a9d53bf0",
-	["u_size"]=17.55,
+	["u_md5"]="38441042d9d74b54b2080b2bd1b09d3d",
+	["u_size"]=17.48,
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocketEvent.lua",
@@ -53,8 +53,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameUserData.lua",
-	["u_md5"]="2a3b73d484e581c336dcbad7534b63b8",
-	["u_size"]=23.43,
+	["u_md5"]="94eb480701bc7611ce6f615231feb849",
+	["u_size"]=23.93,
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
@@ -162,9 +162,14 @@ return {
 	["u_size"]=945.56,
 	},
 {
+	["u_name"]="Games/BaseCommon/res/blank.png",
+	["u_md5"]="8353ff2cd353e549c85d3377f4b1eaa8",
+	["u_size"]=2.74,
+	},
+{
 	["u_name"]="Games/BaseCommon/res/comTips/ComTips.json",
-	["u_md5"]="6749ffa6c968ad7fa84fb27dc0d04b60",
-	["u_size"]=17.05,
+	["u_md5"]="0fc4c70e26a4651ec5abc70e63f561bf",
+	["u_size"]=17.04,
 	},
 {
 	["u_name"]="Games/BaseCommon/res/comTips/button_no.png",
@@ -253,7 +258,7 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/KeyboardHandler.lua",
-	["u_md5"]="cd7a9d227ef2e42a32d9d19ce5e26c7b",
+	["u_md5"]="ad60dce7d500abfa0469e82d63edc223",
 	["u_size"]=5.8,
 	},
 {
@@ -273,8 +278,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TiFunction.lua",
-	["u_md5"]="a2f14ce24a25033c1cafc48e747b346e",
-	["u_size"]=53.7,
+	["u_md5"]="80ce3d12d4bb38407dfc843c7ec128ef",
+	["u_size"]=53.69,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TimeUtil.lua",

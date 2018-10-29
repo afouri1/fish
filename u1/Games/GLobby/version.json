@@ -2,23 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.216",
-["packageSize"] = 14574,
-["date"] = "20181027",
+["version"] = "1.1.220",
+["packageSize"] = 13561,
+["date"] = "20181029",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新提示
-1.炮台位置调整
-2.爆炸金币特效调整
-3.鱼王特效调整
-4.炮口火焰调整
-5.新鱼资源替换
-6.炮弹爆炸资源替换
-7.金币数字调整
-8.不扣除V币及界面不同步修复
-9.俱乐部及我的修复
+1.更新版本问题修复
+2.锁定-自动特效调整
+3.炮口火焰调整
+4.爆炸金币特效调整
+5.游戏内金币不一致修复
+6.点击屏幕特效添加
+7.提前切换锁定修复
+8.其他常规BUG修复
 ]],
 ["assets"] = {} 
 }

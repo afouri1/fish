@@ -60,7 +60,7 @@
           "flipX": false,
           "flipY": false,
           "height": 1280,
-          "ignoreSize": true,
+          "ignoreSize": false,
           "layoutParameter": null,
           "opacity": 255,
           "positionPercentX": 0.5,
@@ -79,17 +79,17 @@
           "width": 720,
           "x": 360,
           "y": 640,
-          "capInsetsHeight": 1,
-          "capInsetsWidth": 1,
-          "capInsetsX": 0,
-          "capInsetsY": 0,
+          "capInsetsHeight": 2,
+          "capInsetsWidth": 2,
+          "capInsetsX": 10,
+          "capInsetsY": 10,
           "fileName": null,
           "fileNameData": {
             "path": "Games/GLobby/res/common/bg.png",
             "plistFile": "",
             "resourceType": 0
           },
-          "scale9Enable": false,
+          "scale9Enable": true,
           "scale9Height": 1280,
           "scale9Width": 720
         }
@@ -117,7 +117,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 54,
+              "height": 98,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -134,7 +134,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 54,
+              "width": 98,
               "x": -260,
               "y": 0,
               "capInsetsHeight": 1,
@@ -148,8 +148,8 @@
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 54,
-              "scale9Width": 54
+              "scale9Height": 98,
+              "scale9Width": 98
             }
           },
           {
@@ -1439,7 +1439,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 87,
+              "width": 84,
               "x": -290,
               "y": -220,
               "capInsetsHeight": 1,
@@ -1454,7 +1454,7 @@
               },
               "scale9Enable": false,
               "scale9Height": 25,
-              "scale9Width": 87
+              "scale9Width": 84
             }
           },
           {

@@ -44,7 +44,7 @@
           "flipX": false,
           "flipY": false,
           "height": 1280,
-          "ignoreSize": true,
+          "ignoreSize": false,
           "layoutParameter": null,
           "opacity": 255,
           "positionPercentX": 0.5,
@@ -63,17 +63,17 @@
           "width": 720,
           "x": 360,
           "y": 640,
-          "capInsetsHeight": 1,
-          "capInsetsWidth": 1,
-          "capInsetsX": 0,
-          "capInsetsY": 0,
+          "capInsetsHeight": 2,
+          "capInsetsWidth": 2,
+          "capInsetsX": 10,
+          "capInsetsY": 10,
           "fileName": null,
           "fileNameData": {
             "path": "Games/GLobby/res/common/bg.png",
             "plistFile": "",
             "resourceType": 0
           },
-          "scale9Enable": false,
+          "scale9Enable": true,
           "scale9Height": 1280,
           "scale9Width": 720
         }
@@ -155,7 +155,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 78,
+              "height": 40,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -172,7 +172,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 78,
+              "width": 39,
               "x": -237,
               "y": 0,
               "capInsetsHeight": 1,
@@ -186,8 +186,8 @@
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 78,
-              "scale9Width": 78
+              "scale9Height": 40,
+              "scale9Width": 39
             }
           },
           {
@@ -209,7 +209,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 78,
+              "height": 40,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -226,7 +226,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 78,
+              "width": 39,
               "x": -142,
               "y": 0,
               "capInsetsHeight": 1,
@@ -240,8 +240,8 @@
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 78,
-              "scale9Width": 78
+              "scale9Height": 40,
+              "scale9Width": 39
             }
           },
           {
@@ -263,7 +263,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 78,
+              "height": 40,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -280,7 +280,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 78,
+              "width": 39,
               "x": -47,
               "y": 0,
               "capInsetsHeight": 1,
@@ -294,8 +294,8 @@
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 78,
-              "scale9Width": 78
+              "scale9Height": 40,
+              "scale9Width": 39
             }
           },
           {
@@ -317,7 +317,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 78,
+              "height": 40,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -334,7 +334,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 78,
+              "width": 39,
               "x": 46,
               "y": 0,
               "capInsetsHeight": 1,
@@ -348,8 +348,8 @@
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 78,
-              "scale9Width": 78
+              "scale9Height": 40,
+              "scale9Width": 39
             }
           },
           {
@@ -371,7 +371,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 78,
+              "height": 40,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -388,7 +388,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 78,
+              "width": 39,
               "x": 140,
               "y": 0,
               "capInsetsHeight": 1,
@@ -402,8 +402,8 @@
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 78,
-              "scale9Width": 78
+              "scale9Height": 40,
+              "scale9Width": 39
             }
           },
           {
@@ -425,7 +425,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 78,
+              "height": 40,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -442,7 +442,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 78,
+              "width": 39,
               "x": 236,
               "y": 0,
               "capInsetsHeight": 1,
@@ -456,8 +456,8 @@
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 78,
-              "scale9Width": 78
+              "scale9Height": 40,
+              "scale9Width": 39
             }
           },
           {
@@ -541,8 +541,8 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.05050505,
-              "sizePercentY": 0.2857143,
+              "sizePercentX": 1.68350161E-05,
+              "sizePercentY": 8.928571E-05,
               "sizeType": 0,
               "tag": 225,
               "touchAble": false,
@@ -552,7 +552,7 @@
               "x": -248,
               "y": 6,
               "fileNameData": {
-                "path": "Games/GLobby/res/font/clubIdNum.fnt",
+                "path": "GUI/missing-font.fnt",
                 "plistFile": "",
                 "resourceType": 0
               },

@@ -45,7 +45,7 @@
           "flipX": false,
           "flipY": false,
           "height": 1280,
-          "ignoreSize": true,
+          "ignoreSize": false,
           "layoutParameter": null,
           "opacity": 255,
           "positionPercentX": 0.498611122,
@@ -64,17 +64,17 @@
           "width": 720,
           "x": 359,
           "y": 639,
-          "capInsetsHeight": 1,
-          "capInsetsWidth": 1,
-          "capInsetsX": 0,
-          "capInsetsY": 0,
+          "capInsetsHeight": 2,
+          "capInsetsWidth": 2,
+          "capInsetsX": 10,
+          "capInsetsY": 10,
           "fileName": null,
           "fileNameData": {
             "path": "Games/GLobby/res/common/bg.png",
             "plistFile": "",
             "resourceType": 0
           },
-          "scale9Enable": false,
+          "scale9Enable": true,
           "scale9Height": 1280,
           "scale9Width": 720
         }
