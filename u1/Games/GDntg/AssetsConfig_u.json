@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.221",
+["version"] = "1.1.222",
 ["packageSize"] = 24678,
-["date"] = "20181029",
+["date"] = "20181030",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新提示
@@ -2200,8 +2200,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="64c6ac3167d74e3d425e25743b801f0c",
-	["u_size"]=37.93,
+	["u_md5"]="45e1f6a135edc79439c005765e49c341",
+	["u_size"]=37.96,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -2230,8 +2230,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
-	["u_md5"]="e39ad756aebd53a29ae081b63fc613e1",
-	["u_size"]=12.02,
+	["u_md5"]="00b4ec6fd87ced580d8df8aabb7bfef1",
+	["u_size"]=12.01,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletMediator.lua",
@@ -2475,7 +2475,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",
-	["u_md5"]="4d50a5dca14552b0dc9d36eac75adbbe",
+	["u_md5"]="9c80d932abcdd8146ffa0fc2104e166d",
 	["u_size"]=11.72,
 	},
 } 
