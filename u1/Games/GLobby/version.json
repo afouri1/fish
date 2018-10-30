@@ -2,22 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.222",
-["packageSize"] = 14306,
+["version"] = "1.1.223",
+["packageSize"] = 14312,
 ["date"] = "20181030",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新提示
-1.更新版本问题修复
-2.锁定-自动特效调整
-3.炮口火焰调整
-4.爆炸金币特效调整
-5.游戏内金币不一致修复
-6.点击屏幕特效添加
-7.提前切换锁定修复
-8.其他常规BUG修复
+1.大厅首页，成员管理，成员记录，创建牌局，创建渔场，加入渔场界面替换
+2.脚本报错修复
+3.iPhone断线退出界面异常修复
+4.无法发射子弹、扣金币修复
+5.点击屏幕、爆炸金币、炮口火焰特效调整
+6.大闹天宫鱼阵距离修复
+7.大厅进度条、游戏进度条修复
 ]],
 ["assets"] = {} 
 }

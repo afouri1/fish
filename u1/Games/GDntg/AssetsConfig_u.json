@@ -2,20 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.222",
-["packageSize"] = 24678,
+["version"] = "1.1.223",
+["packageSize"] = 24679,
 ["date"] = "20181030",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新提示
-1.更新版本问题修复
-2.锁定-自动特效调整
-3.炮口火焰调整
-4.爆炸金币特效调整
-5.游戏内金币不一致修复
-6.点击屏幕特效添加
-7.提前切换锁定修复
-8.其他常规BUG修复
+1.大厅首页，成员管理，成员记录，创建牌局，创建渔场，加入渔场界面替换
+2.脚本报错修复
+3.iPhone断线退出界面异常修复
+4.无法发射子弹、扣金币修复
+5.点击屏幕、爆炸金币、炮口火焰特效调整
+6.大闹天宫鱼阵距离修复
+7.大厅进度条、游戏进度条修复
 ]],
 ["assets"] = {
 {
@@ -2200,8 +2199,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="45e1f6a135edc79439c005765e49c341",
-	["u_size"]=37.96,
+	["u_md5"]="60bed16ff78bea70c385b44693acb5b5",
+	["u_size"]=38.07,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -2225,7 +2224,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="27624718e05a7de1c27125cd2c6f8b5d",
+	["u_md5"]="1c4408e4feec2d14dd430533ef1332e9",
 	["u_size"]=7.15,
 	},
 {
@@ -2245,8 +2244,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
-	["u_md5"]="70d8b0110ead851ffd2a99ca4e27e176",
-	["u_size"]=18.79,
+	["u_md5"]="3505898aabf29b5ab19a81d1a0ccf48f",
+	["u_size"]=18.97,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
@@ -2320,13 +2319,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="f153e1e097c4d5589e5198c14b9d39f0",
-	["u_size"]=12.94,
+	["u_md5"]="9723a7e1110f068214379192c10c13cc",
+	["u_size"]=13.01,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="b0d3fc9a08f73ca36e5067cd8c4d0cc6",
-	["u_size"]=22.69,
+	["u_md5"]="68eba308f6f58918c427cb75778572ca",
+	["u_size"]=22.95,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -2375,7 +2374,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIView.lua",
-	["u_md5"]="9fe9e4a8ff78e1b0d6ebad0c59c3bab1",
+	["u_md5"]="422177ed8599d91578a5434bac0e45f3",
 	["u_size"]=7.15,
 	},
 {
@@ -2420,8 +2419,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/AddGImageAsync.lua",
-	["u_md5"]="f5270b1d90f237ba7fbf8d1228baabbb",
-	["u_size"]=6.69,
+	["u_md5"]="9bbd77e823e47de440d1d69a3b4c92d7",
+	["u_size"]=6.88,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GBg.lua",
@@ -2440,8 +2439,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="d79e2f9fb84182fce3ef5e0536cf3be7",
-	["u_size"]=17.81,
+	["u_md5"]="267f1d63108526fdf3e51038a39d6dd6",
+	["u_size"]=17.91,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
