@@ -26,7 +26,8 @@
     "Games/GLobby/res/club/memberManage/button_add.png",
     "Games/GLobby/res/club/memberManage/ptBgLine.png",
     "Games/GLobby/res/club/memberManage/img_bypt.png",
-    "Games/GLobby/res/club/memberManage/img_pt.png",
+    "Games/GLobby/res/club/memberManage/img_hjpt.png",
+    "Games/GLobby/res/club/memberManage/img_zspt.png",
     "Games/GLobby/res/club/memberManage/button_zs.png",
     "Games/GLobby/res/club/memberManage/button_sq.png",
     "Games/GLobby/res/common/commonLine.png"
@@ -282,7 +283,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 36,
+              "height": 0,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -299,7 +300,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 140,
+              "width": 0,
               "x": -100,
               "y": 482,
               "areaHeight": 0,
@@ -308,7 +309,7 @@
               "fontName": "微软雅黑",
               "fontSize": 28,
               "hAlignment": 0,
-              "text": "创建人昵称",
+              "text": "",
               "touchScaleEnable": false,
               "vAlignment": 1
             }
@@ -332,7 +333,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 36,
+              "height": 0,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -349,7 +350,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 153,
+              "width": 0,
               "x": 102,
               "y": 482,
               "areaHeight": 0,
@@ -358,7 +359,7 @@
               "fontName": "微软雅黑",
               "fontSize": 28,
               "hAlignment": 0,
-              "text": "ID：210324",
+              "text": "",
               "touchScaleEnable": false,
               "vAlignment": 0
             }
@@ -810,11 +811,11 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 151,
+                      "height": 126,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
-                      "positionPercentX": 0,
+                      "positionPercentX": 0.009057978,
                       "positionPercentY": 0,
                       "positionType": 0,
                       "rotation": 0,
@@ -827,8 +828,8 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 180,
-                      "x": 0,
+                      "width": 184,
+                      "x": 1,
                       "y": 0,
                       "capInsetsHeight": 1,
                       "capInsetsWidth": 1,
@@ -841,8 +842,8 @@
                         "resourceType": 0
                       },
                       "scale9Enable": false,
-                      "scale9Height": 151,
-                      "scale9Width": 180
+                      "scale9Height": 126,
+                      "scale9Width": 184
                     }
                   }
                 ],
@@ -1340,8 +1341,8 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 151,
-                      "ignoreSize": false,
+                      "height": 126,
+                      "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
                       "positionPercentX": 0,
@@ -1357,7 +1358,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 180,
+                      "width": 184,
                       "x": 0,
                       "y": 0,
                       "capInsetsHeight": 1,
@@ -1371,8 +1372,8 @@
                         "resourceType": 0
                       },
                       "scale9Enable": false,
-                      "scale9Height": 151,
-                      "scale9Width": 180
+                      "scale9Height": 126,
+                      "scale9Width": 184
                     }
                   }
                 ],
@@ -1870,8 +1871,8 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 151,
-                      "ignoreSize": false,
+                      "height": 126,
+                      "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
                       "positionPercentX": 0,
@@ -1887,7 +1888,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 180,
+                      "width": 184,
                       "x": 0,
                       "y": -2,
                       "capInsetsHeight": 1,
@@ -1896,13 +1897,13 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "Games/GLobby/res/club/memberManage/img_pt.png",
+                        "path": "Games/GLobby/res/club/memberManage/img_hjpt.png",
                         "plistFile": "",
                         "resourceType": 0
                       },
                       "scale9Enable": false,
-                      "scale9Height": 151,
-                      "scale9Width": 180
+                      "scale9Height": 126,
+                      "scale9Width": 184
                     }
                   }
                 ],
@@ -2400,8 +2401,8 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 151,
-                      "ignoreSize": false,
+                      "height": 126,
+                      "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
                       "positionPercentX": 0,
@@ -2417,7 +2418,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 180,
+                      "width": 184,
                       "x": 0,
                       "y": -2,
                       "capInsetsHeight": 1,
@@ -2426,13 +2427,13 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "Games/GLobby/res/club/memberManage/img_pt.png",
+                        "path": "Games/GLobby/res/club/memberManage/img_zspt.png",
                         "plistFile": "",
                         "resourceType": 0
                       },
                       "scale9Enable": false,
-                      "scale9Height": 151,
-                      "scale9Width": 180
+                      "scale9Height": 126,
+                      "scale9Width": 184
                     }
                   }
                 ],

@@ -2,19 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.224",
+["version"] = "1.1.225",
 ["packageSize"] = 24679,
 ["date"] = "20181031",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新提示
-1.大厅首页，成员管理，成员记录，创建牌局，创建渔场，加入渔场界面替换
-2.脚本报错修复
-3.iPhone断线退出界面异常修复
-4.无法发射子弹、扣金币修复
-5.点击屏幕、爆炸金币、炮口火焰特效调整
-6.大闹天宫鱼阵距离修复
-7.大厅进度条、游戏进度条修复
+1.体验场金币不一致修复
+2.俱乐部V币对应不上修复
+3.脚本报错修复
+4.孙悟空数字增长修复
+5.俱乐部管理界面异常修复
+6.大厅UI界面重叠修复、提示语添加
 ]],
 ["assets"] = {} 
 }
