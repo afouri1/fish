@@ -21,7 +21,7 @@
     "Games/GLobby/res/common/img_shurukuang.png",
     "Games/GLobby/res/club/createCard/img_default.png",
     "Games/GLobby/res/club/createCard/img_confirm.png",
-    "Games/GLobby/res/club/button_cjpj.png"
+    "Games/GLobby/res/club/createCard/button_cjpj.png"
   ],
   "version": "1.6.0.0",
   "widgetTree": {
@@ -1672,7 +1672,7 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "Games/GLobby/res/club/button_cjpj.png",
+            "path": "Games/GLobby/res/club/createCard/button_cjpj.png",
             "plistFile": "",
             "resourceType": 0
           },
