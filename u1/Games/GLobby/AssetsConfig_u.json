@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.235",
+["version"] = "1.1.236",
 ["packageSize"] = 14556,
 ["date"] = "20181103",
 ["depends"] = {
@@ -1916,8 +1916,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubManageLayerView.lua",
-	["u_md5"]="bffde5ee5f1c45a06bdb6c0b2931da33",
-	["u_size"]=16.29,
+	["u_md5"]="0fea3f520e90072bf0e5c35fb6f2d200",
+	["u_size"]=16.31,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubModifyLayerMediator.lua",
@@ -2256,8 +2256,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyLayerView.lua",
-	["u_md5"]="08b968081ea8809860dc7948049a39d2",
-	["u_size"]=12.6,
+	["u_md5"]="ef37d645be1713e0a8822d9f92f0ff4c",
+	["u_size"]=12.63,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyPtRecordLayerItem.lua",
