@@ -2,22 +2,23 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.241",
-["packageSize"] = 14576,
+["version"] = "1.1.242",
+["packageSize"] = 14577,
 ["date"] = "20181106",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.炮弹没有不能发射修复
-2.创建牌局炮弹、牌局管理界面实时刷新修复
-3.闪电连锁修改为6条
-4.体验场默认金币显示
-5.命中-万佛朝宗修复
-6.锁定资源替换
-7.特效鱼转盘显示
-8.技能鱼特效替换
+1.炮弹不足不能发射子弹修复
+2.金玉满堂技能特效修复
+3.闪电连锁鱼替换
+4.V币同步修复
+5.牌局/俱乐部消失修复
+6.炮弹在牌局界面同步问题修复
+7.大厅全面屏修复
+8.大厅界面调整修复
+9.脚本报错修复
 ]],
 ["assets"] = {
 {
@@ -27,8 +28,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="ecad723d6c81e06e8470bb2d12cf5d3c",
-	["u_size"]=14.5,
+	["u_md5"]="9f684d95da1d9e2cd3f16c59e93e45ff",
+	["u_size"]=15,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -2157,8 +2158,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/NewsListData.lua",
-	["u_md5"]="4a1c7790375db215d7a84e3ef715a05e",
-	["u_size"]=5.97,
+	["u_md5"]="db4693ff4938178f00badc9dce67a211",
+	["u_size"]=6.07,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/ValidateMsgListData.lua",
@@ -2272,8 +2273,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/news/GLobbyNewsLayerItem.lua",
-	["u_md5"]="f0f298b1b2e0a9709c40874e3649bf96",
-	["u_size"]=3.65,
+	["u_md5"]="46251f21c3375b9fdd0025bfed83a2e4",
+	["u_size"]=4.54,
 	},
 {
 	["u_name"]="Games/GLobby/src/news/GLobbyNewsLayerMediator.lua",
