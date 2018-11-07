@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.245",
-["packageSize"] = 42163,
+["version"] = "1.1.246",
+["packageSize"] = 42158,
 ["date"] = "20181107",
 ["depends"] = {
 },
@@ -2968,12 +2968,12 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="6502491c644a9b3c3f9e846df80801ad",
-	["u_size"]=32.08,
+	["u_md5"]="82254bd47f3653bae7ac2b034b0bc444",
+	["u_size"]=31.99,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
-	["u_md5"]="ac574f1a852b66fb1d588c75441ee4ed",
+	["u_md5"]="34c4e02d0b9735826f82a86a5fcd65e8",
 	["u_size"]=11.44,
 	},
 {
@@ -3048,8 +3048,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/outfishsurface.lua",
-	["u_md5"]="f7c2edcb329c33bde1d774af7a76dcc3",
-	["u_size"]=51.65,
+	["u_md5"]="4ad06cf5ac340472fe8dba0294d32def",
+	["u_size"]=46.15,
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
