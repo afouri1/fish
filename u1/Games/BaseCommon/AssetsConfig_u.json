@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.242",
-["packageSize"] = 7911,
-["date"] = "20181106",
+["version"] = "1.1.243",
+["packageSize"] = 7913,
+["date"] = "20181107",
 ["depends"] = {
 10002,
 10003,
@@ -73,8 +73,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/RichText.lua",
-	["u_md5"]="0854a90d9e486c46953138fd77cea339",
-	["u_size"]=15.56,
+	["u_md5"]="0a59e490a1f666c47304678888c69eca",
+	["u_size"]=17.9,
 	},
 {
 	["u_name"]="Games/BaseCommon/SearchPathManager.lua",
