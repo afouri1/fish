@@ -2,19 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.255",
-["packageSize"] = 44751,
-["date"] = "20181109",
+["version"] = "1.1.258",
+["packageSize"] = 44750,
+["date"] = "20181112",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.红点提示消息修复
-2.微信头像显示
-3.炮弹输入框报错修复
-4.统计数字加入千分符
-5.体验场炮值修改为100-1000
-6.游戏内脚本报错修复
-7.牌局名称丢失修复
+1.微信头像拉取修复
+2.重启服务器，牌局ID不变
+3.重启服务器V币、总盈亏还原修复
+4.脚本报错修复
+5.更新版本问题修复
+6.牌局管理界面刷新调整
 ]],
 ["assets"] = {
 {
@@ -1649,8 +1648,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji.plist",
-	["u_md5"]="c2ac8214fae5c8856bd49b9b1ef8e738",
-	["u_size"]=6.38,
+	["u_md5"]="b4164b7593ea06103e2552fcdd1ed272",
+	["u_size"]=6.21,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji.png",
@@ -1659,8 +1658,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.plist",
-	["u_md5"]="eccb5818a7d4fe5fc5eff911038e1a0b",
-	["u_size"]=9.7,
+	["u_md5"]="056e54603f2647cabc0429a9d1ea1008",
+	["u_size"]=9.44,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.png",
@@ -3054,8 +3053,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/EffctTime.lua",
-	["u_md5"]="f5fcdfd5c5d2e4ce99242e039bd37348",
-	["u_size"]=1.83,
+	["u_md5"]="4f05c890a49f8c34e9800af80a455dc7",
+	["u_size"]=1.87,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
@@ -3304,13 +3303,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillMediator.lua",
-	["u_md5"]="0cc5016f33d5c835b84ff4f4f8740e5a",
+	["u_md5"]="541cb2a1911c483109f06584cec09e1a",
 	["u_size"]=15.66,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillView.lua",
-	["u_md5"]="1084de73e523d2ffdb13c7b1473ce623",
-	["u_size"]=9.4,
+	["u_md5"]="921c3907da2e8cc3dc16d7f06bb29c62",
+	["u_size"]=9.62,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIMediator.lua",

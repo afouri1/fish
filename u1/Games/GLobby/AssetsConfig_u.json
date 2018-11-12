@@ -2,21 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.255",
-["packageSize"] = 14638,
-["date"] = "20181109",
+["version"] = "1.1.258",
+["packageSize"] = 14628,
+["date"] = "20181112",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.红点提示消息修复
-2.微信头像显示
-3.炮弹输入框报错修复
-4.统计数字加入千分符
-5.体验场炮值修改为100-1000
-6.游戏内脚本报错修复
-7.牌局名称丢失修复
+1.微信头像拉取修复
+2.重启服务器，牌局ID不变
+3.重启服务器V币、总盈亏还原修复
+4.脚本报错修复
+5.更新版本问题修复
+6.牌局管理界面刷新调整
 ]],
 ["assets"] = {
 {
@@ -26,8 +25,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="26212b19d8ce8cd821e32af7a394032b",
-	["u_size"]=16.7,
+	["u_md5"]="0b18e7c8c37bb78c3f762310eacc9016",
+	["u_size"]=4.81,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -36,8 +35,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
-	["u_md5"]="02d6528700f39bdaeb96d45686d01cfd",
-	["u_size"]=6.36,
+	["u_md5"]="f2382bb568439e4be339608d461d56e6",
+	["u_size"]=6.42,
 	},
 {
 	["u_name"]="Games/GLobby/VisibleRect.lua",
@@ -56,8 +55,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="9119e92f748916235a5e13b800f71483",
-	["u_size"]=3.96,
+	["u_md5"]="02fe426a47a3233def08940f5d74b6e4",
+	["u_size"]=3.71,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
@@ -1951,8 +1950,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerView.lua",
-	["u_md5"]="0efedc5cb47010a53c50c1ae88f53eb8",
-	["u_size"]=20.6,
+	["u_md5"]="55f38a23beac0beaf24ced237b118651",
+	["u_size"]=21.11,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubChatLayerMediator.lua",
@@ -1986,7 +1985,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubManageLayerView.lua",
-	["u_md5"]="356e1a8270daff4c672b701b4603010a",
+	["u_md5"]="40aeed228cbf60562b7070ba0bad70da",
 	["u_size"]=17.27,
 	},
 {
@@ -2046,8 +2045,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCreateCardLayerView.lua",
-	["u_md5"]="734bd9533cccdd3d282b247518c6e20f",
-	["u_size"]=20.93,
+	["u_md5"]="afe0314809c7ae43b4c8cf7d61184af7",
+	["u_size"]=20.68,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCreateClubLayerMediator.lua",
@@ -2223,6 +2222,16 @@ return {
 	["u_name"]="Games/GLobby/src/NetworkConfig/LobbyNetworkCmd.lua",
 	["u_md5"]="ae5ff8c361af1bc598c03054b0d70200",
 	["u_size"]=15.24,
+	},
+{
+	["u_name"]="Games/GLobby/src/YaYa/Cpp2LuaGlobalFunc.lua",
+	["u_md5"]="4f419014ab2be5ae47f5b116eba51635",
+	["u_size"]=1.91,
+	},
+{
+	["u_name"]="Games/GLobby/src/YaYa/YaYaVoiceManage.lua",
+	["u_md5"]="44833fe8a9db7b7f7de616dc850e64f6",
+	["u_size"]=0.47,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/NewsListData.lua",
