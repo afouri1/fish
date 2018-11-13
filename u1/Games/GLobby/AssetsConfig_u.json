@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.261",
+["version"] = "1.1.262",
 ["packageSize"] = 14668,
 ["date"] = "20181113",
 ["depends"] = {
@@ -30,8 +30,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="bd0d2578c40235bcef6f389883df2fb0",
-	["u_size"]=25.79,
+	["u_md5"]="74932fe384bbe460608a9af9ec1a24aa",
+	["u_size"]=25.88,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
@@ -2245,8 +2245,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerMediator.lua",
-	["u_md5"]="4521c1399d71301980131df0093c6aa3",
-	["u_size"]=8.12,
+	["u_md5"]="5dc6481340200b73fbf762323f0d6327",
+	["u_size"]=8.3,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
