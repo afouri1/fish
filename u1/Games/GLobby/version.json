@@ -2,20 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.258",
-["packageSize"] = 14628,
-["date"] = "20181112",
+["version"] = "1.1.261",
+["packageSize"] = 14668,
+["date"] = "20181113",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.微信头像拉取修复
-2.重启服务器，牌局ID不变
-3.重启服务器V币、总盈亏还原修复
-4.脚本报错修复
-5.更新版本问题修复
-6.牌局管理界面刷新调整
+1.点击微信不能登陆
+2.牌局界面V币/炮弹刷新修复
+3.V币不能索取修复
+4.风火轮、闪电连锁技能倍率修复
+5.鱼速度修改
+6.俱乐部界面调整
 ]],
 ["assets"] = {} 
 }
