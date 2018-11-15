@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.267",
+["version"] = "1.1.268",
 ["packageSize"] = 14693,
 ["date"] = "20181115",
 ["depends"] = {
@@ -2425,18 +2425,18 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Cmd.pb",
-	["u_md5"]="42f8fec02c6ae92b38b0d917866539cb",
-	["u_size"]=1.97,
+	["u_md5"]="c5d2f73b7f5fe54e21bd812018ae83cd",
+	["u_size"]=2.03,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_c2s.pb",
-	["u_md5"]="5833ba8f7aeb1775a3fcc49fa6a035f0",
-	["u_size"]=2.19,
+	["u_md5"]="155026c4bded1f7d6c455c57b2a6fdb2",
+	["u_size"]=2.28,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_s2c.pb",
-	["u_md5"]="54612f11e94811441f59d1baa5c8faf4",
-	["u_size"]=4.18,
+	["u_md5"]="0b098dde7ebe900c9924e180ce245041",
+	["u_size"]=4.37,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/c2s.pb",
