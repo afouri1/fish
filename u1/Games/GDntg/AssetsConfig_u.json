@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.270",
-["packageSize"] = 44585,
+["version"] = "1.1.271",
+["packageSize"] = 44586,
 ["date"] = "20181115",
 ["depends"] = {
 },
@@ -3391,8 +3391,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="a0b3419c07f177b4fb6e4160befa853d",
-	["u_size"]=31.93,
+	["u_md5"]="8519022cb7eb0cf4f7f29f6fdca70047",
+	["u_size"]=31.88,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3401,7 +3401,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/FishSkill.lua",
-	["u_md5"]="e95de3fc66c59f63d47b1502df6a9620",
+	["u_md5"]="1320bbbac4212450c0256bb9a4f75ee9",
 	["u_size"]=0.71,
 	},
 {
@@ -3421,8 +3421,18 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="5116457949bb651502f91579ee0312e5",
+	["u_md5"]="4dfd758f8bdd65eb0ada59bc979dc9d0",
 	["u_size"]=0.76,
+	},
+{
+	["u_name"]="Games/GDntg/src/Configs/TGCFpersonalhit.lua",
+	["u_md5"]="4e4491b1c4efca2027dfa5880fca644c",
+	["u_size"]=0.41,
+	},
+{
+	["u_name"]="Games/GDntg/src/Configs/Tclubpersonalhit.lua",
+	["u_md5"]="4e4491b1c4efca2027dfa5880fca644c",
+	["u_size"]=0.41,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/clubhit.lua",
@@ -3436,8 +3446,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="d75947d14b71c44c07cedca336702411",
-	["u_size"]=7.25,
+	["u_md5"]="5f62bdd0afb5dfad9cb50bec675ec4f7",
+	["u_size"]=7.2,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/commodity.lua",
@@ -3451,13 +3461,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="24d55a2effe953125acb839ca4bcc2ed",
-	["u_size"]=91.04,
+	["u_md5"]="786983e09e4118a0e65a3709cd0a43d7",
+	["u_size"]=90.97,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="b9ef4dc400543e2051d45cda4436f886",
-	["u_size"]=2.72,
+	["u_md5"]="648d25e9620db124b05d6109956b6066",
+	["u_size"]=2.71,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
@@ -3471,7 +3481,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/outfishsurface.lua",
-	["u_md5"]="8835fac4d59380a407d908fd2a9763f9",
+	["u_md5"]="435e92f46f7ffcf42f996fe1500d116b",
 	["u_size"]=46.24,
 	},
 {
