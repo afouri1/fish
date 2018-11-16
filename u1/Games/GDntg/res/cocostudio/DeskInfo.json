@@ -10,7 +10,16 @@
   "designHeight": 320,
   "designWidth": 480,
   "textures": [],
+<<<<<<< HEAD
   "texturesPng": [],
+=======
+  "texturesPng": [
+    "Games/GDntg/res/game/deskInfo/back.png",
+    "Games/GDntg/res/game/deskInfo/yc.png",
+    "Games/GDntg/res/game/deskInfo/yzid.png",
+    "Games/GDntg/res/game/deskInfo/sypd.png"
+  ],
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -49,8 +58,13 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
+<<<<<<< HEAD
               "sizePercentX": 0.228215769,
               "sizePercentY": 0.173913047,
+=======
+              "sizePercentX": 0.331950217,
+              "sizePercentY": 0.5797101,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "sizeType": 0,
               "tag": 5,
               "touchAble": false,
@@ -98,13 +112,22 @@
               "layoutParameter": null,
               "opacity": 255,
               "positionPercentX": -0.377593368,
+<<<<<<< HEAD
               "positionPercentY": 0.04347826,
+=======
+              "positionPercentY": 0.0452898555,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
+<<<<<<< HEAD
               "sizePercentX": 0.302904576,
               "sizePercentY": 0.173913047,
+=======
+              "sizePercentX": 0.331950217,
+              "sizePercentY": 0.5797101,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "sizeType": 0,
               "tag": 7,
               "touchAble": false,
@@ -157,8 +180,13 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
+<<<<<<< HEAD
               "sizePercentX": 0.4107884,
               "sizePercentY": 0.181159422,
+=======
+              "sizePercentX": 0.331950217,
+              "sizePercentY": 0.5797101,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "sizeType": 0,
               "tag": 8,
               "touchAble": false,
@@ -206,13 +234,22 @@
               "layoutParameter": null,
               "opacity": 255,
               "positionPercentX": -0.116182573,
+<<<<<<< HEAD
               "positionPercentY": 0.2826087,
+=======
+              "positionPercentY": 0.284219,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
+<<<<<<< HEAD
               "sizePercentX": 4.14937749E-05,
               "sizePercentY": 7.24637648E-05,
+=======
+              "sizePercentX": 0.394190878,
+              "sizePercentY": 0.195652172,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "sizeType": 0,
               "tag": 9,
               "touchAble": false,
@@ -224,7 +261,11 @@
               "areaHeight": 0,
               "areaWidth": 0,
               "fontFile": null,
+<<<<<<< HEAD
               "fontName": "Games/GLobby/res/font/fangzhengzhunyuan.TTF",
+=======
+              "fontName": "微软雅黑",
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "fontSize": 21,
               "hAlignment": 0,
               "text": "",
@@ -251,30 +292,51 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
+<<<<<<< HEAD
               "height": 21,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
               "positionPercentX": -0.0414937772,
+=======
+              "height": 28,
+              "ignoreSize": true,
+              "layoutParameter": null,
+              "opacity": 255,
+              "positionPercentX": -0.0437758826,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "positionPercentY": 0.04347826,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
+<<<<<<< HEAD
               "sizePercentX": 0.1493776,
               "sizePercentY": 0.202898547,
+=======
+              "sizePercentX": 0.394190878,
+              "sizePercentY": 0.195652172,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "sizeType": 0,
               "tag": 11,
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
+<<<<<<< HEAD
               "width": 33,
+=======
+              "width": 36,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "x": -10,
               "y": 6,
               "areaHeight": 0,
               "areaWidth": 0,
               "fontFile": null,
+<<<<<<< HEAD
               "fontName": "Games/GLobby/res/font/fangzhengzhunyuan.TTF",
+=======
+              "fontName": "微软雅黑",
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "fontSize": 21,
               "hAlignment": 0,
               "text": "123",
@@ -305,14 +367,24 @@
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
+<<<<<<< HEAD
               "positionPercentX": 0.066390045,
               "positionPercentY": -0.210144922,
+=======
+              "positionPercentX": 0.06825731,
+              "positionPercentY": -0.212157816,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
+<<<<<<< HEAD
               "sizePercentX": 4.14937749E-05,
               "sizePercentY": 7.24637648E-05,
+=======
+              "sizePercentX": 0.394190878,
+              "sizePercentY": 0.195652172,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "sizeType": 0,
               "tag": 12,
               "touchAble": false,
@@ -324,7 +396,11 @@
               "areaHeight": 0,
               "areaWidth": 0,
               "fontFile": null,
+<<<<<<< HEAD
               "fontName": "Games/GLobby/res/font/fangzhengzhunyuan.TTF",
+=======
+              "fontName": "微软雅黑",
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
               "fontSize": 21,
               "hAlignment": 0,
               "text": "",
@@ -358,8 +434,13 @@
           "rotation": 0,
           "scaleX": 1,
           "scaleY": 1,
+<<<<<<< HEAD
           "sizePercentX": 0.502083361,
           "sizePercentY": 0.43125,
+=======
+          "sizePercentX": 0.166666672,
+          "sizePercentY": 0.25,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
           "sizeType": 0,
           "tag": 4,
           "touchAble": false,
@@ -389,7 +470,11 @@
       "classname": "Panel",
       "name": "Panel_14",
       "ZOrder": 0,
+<<<<<<< HEAD
       "actiontag": -1,
+=======
+      "actiontag": 6107551,
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
       "anchorPointX": 0,
       "anchorPointY": 0,
       "classType": "CocoStudio.EngineAdapterWrap.CSPanel",

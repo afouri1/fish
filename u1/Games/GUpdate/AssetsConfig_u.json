@@ -4,7 +4,11 @@ return {
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
 ["version"] = "1.1.271",
 ["packageSize"] = 1768,
+<<<<<<< HEAD
 ["date"] = "20181116",
+=======
+["date"] = "20181115",
+>>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
 ["depends"] = {
 10001,
 },
