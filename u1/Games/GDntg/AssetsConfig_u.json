@@ -2,45 +2,25 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.271",
-<<<<<<< HEAD
+["version"] = "1.1.272",
 ["packageSize"] = 44929,
 ["date"] = "20181116",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
+版本更新内容：
 1.加载界面调整
 2.牌局数量刷新修复
 3.添加渔场管理界面更换头像
 4.牌局管理界面盈亏记录添加
 5.消息时间排列修复
-=======
-["packageSize"] = 44586,
-["date"] = "20181115",
-["depends"] = {
-},
-["newDetails"] = [[版本更新内容：
-1.游戏内添加渔场/炮弹等信息
-2.添加转盘特效
-3.账号重新登录v币重置，总盈亏显示不正常修复
-4.冰冻技能时间设定为10s
-5.添加清空聊天记录
-6.俱乐部界面调整
-7.成员管理简介修复
-8.修复俱乐部牌桌界面人物移除问题
-
->>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
+6.命中优化调整
 ]],
 ["assets"] = {
 {
 	["u_name"]="Games/GDntg/res/cocostudio/DeskInfo.json",
-<<<<<<< HEAD
 	["u_md5"]="11047bb3ac037a522ef56f14d1fb5c6b",
 	["u_size"]=13.99,
-=======
-	["u_md5"]="4db6013dd4eab6773a2982f3e7fc3a41",
-	["u_size"]=14.07,
->>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/Panel_exit.json",
@@ -1704,8 +1684,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji.plist",
-	["u_md5"]="c2ac8214fae5c8856bd49b9b1ef8e738",
-	["u_size"]=6.38,
+	["u_md5"]="b4164b7593ea06103e2552fcdd1ed272",
+	["u_size"]=6.21,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji.png",
@@ -1714,8 +1694,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.plist",
-	["u_md5"]="eccb5818a7d4fe5fc5eff911038e1a0b",
-	["u_size"]=9.7,
+	["u_md5"]="056e54603f2647cabc0429a9d1ea1008",
+	["u_size"]=9.44,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.png",
@@ -3464,8 +3444,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="8519022cb7eb0cf4f7f29f6fdca70047",
-	["u_size"]=31.88,
+	["u_md5"]="a0b3419c07f177b4fb6e4160befa853d",
+	["u_size"]=31.93,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3474,13 +3454,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/FishSkill.lua",
-<<<<<<< HEAD
 	["u_md5"]="353df8a64bf689938fff6d2561bd93ae",
 	["u_size"]=0.73,
-=======
-	["u_md5"]="1320bbbac4212450c0256bb9a4f75ee9",
-	["u_size"]=0.71,
->>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/GCFpersonalhit.lua",
@@ -3503,16 +3478,6 @@ return {
 	["u_size"]=0.76,
 	},
 {
-	["u_name"]="Games/GDntg/src/Configs/TGCFpersonalhit.lua",
-	["u_md5"]="4e4491b1c4efca2027dfa5880fca644c",
-	["u_size"]=0.41,
-	},
-{
-	["u_name"]="Games/GDntg/src/Configs/Tclubpersonalhit.lua",
-	["u_md5"]="4e4491b1c4efca2027dfa5880fca644c",
-	["u_size"]=0.41,
-	},
-{
 	["u_name"]="Games/GDntg/src/Configs/clubhit.lua",
 	["u_md5"]="5bf8fb0adc6f0ab05f3200bcc09f7e7a",
 	["u_size"]=0.84,
@@ -3524,13 +3489,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-<<<<<<< HEAD
 	["u_md5"]="d75947d14b71c44c07cedca336702411",
 	["u_size"]=7.25,
-=======
-	["u_md5"]="5f62bdd0afb5dfad9cb50bec675ec4f7",
-	["u_size"]=7.2,
->>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/commodity.lua",
@@ -3569,13 +3529,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-<<<<<<< HEAD
 	["u_md5"]="50942c16eaf0ff04e53cd4e5b48a71a8",
 	["u_size"]=42.52,
-=======
-	["u_md5"]="f3acb2b172574c8564db5f7728b29209",
-	["u_size"]=42.39,
->>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3709,13 +3664,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-<<<<<<< HEAD
 	["u_md5"]="387afefbbf29bf160aa4c8ad8d650975",
 	["u_size"]=30.5,
-=======
-	["u_md5"]="cb65f4f34cf9182476deceb27723aeff",
-	["u_size"]=30.42,
->>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -3844,13 +3794,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
-<<<<<<< HEAD
 	["u_md5"]="79eee0e0b82bb4e290a774f730167b3e",
 	["u_size"]=6.86,
-=======
-	["u_md5"]="f05037f9df72798aa23114391670210d",
-	["u_size"]=6.79,
->>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GServerSimulation.lua",
@@ -3869,7 +3814,6 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_c2s.pb",
-<<<<<<< HEAD
 	["u_md5"]="9de62c51509f627fab3a825f0f2b81cb",
 	["u_size"]=0.69,
 	},
@@ -3877,15 +3821,6 @@ return {
 	["u_name"]="Games/GDntg/src/pb/dntg_s2c.pb",
 	["u_md5"]="74b26364c41784407af1c5db14f89ac4",
 	["u_size"]=2.31,
-=======
-	["u_md5"]="3632552f721a68451f3b6dd6c4158c84",
-	["u_size"]=0.7,
-	},
-{
-	["u_name"]="Games/GDntg/src/pb/dntg_s2c.pb",
-	["u_md5"]="cad37a135dc62144e760fc36a5943d2b",
-	["u_size"]=2.32,
->>>>>>> e2520afef3cad6a5fd8995f3180dda9776da4dfd
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",
