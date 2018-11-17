@@ -2,21 +2,24 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.275",
-["packageSize"] = 15790,
-["date"] = "20181116",
+["version"] = "1.1.276",
+["packageSize"] = 15791,
+["date"] = "20181117",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-版本更新内容：
-1.加载界面调整
-2.牌局数量刷新修复
-3.添加渔场管理界面更换头像
-4.牌局管理界面盈亏记录添加
-5.消息时间排列修复
-6.命中优化调整
+1.命中优化调整
+2.体验场炮值调整
+3.炮弹-V币-牌桌ID数据问题修复
+4.渔场牌桌盈亏记录添加
+5.俱乐部炮台选择及新炮台资源添加
+6.游戏内转盘特效、鱼速度、鱼资源替换
+7.俱乐部数据-界面展示同步刷新问题修复
+8.修复已知脚本报错
+9.大厅界面调整，游戏内添加牌桌信息
+10.大厅及游戏内常规BUG修复
 ]],
 ["assets"] = {
 {
@@ -26,8 +29,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="8032d95eb0312787e3c9f3e0584ddf7d",
-	["u_size"]=5.05,
+	["u_md5"]="a13d13c4787c87c624517be1fb1dd53f",
+	["u_size"]=5.02,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -1381,8 +1384,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_validate_message.json",
-	["u_md5"]="a9be9f2010eb7707ae33e88a88f5de36",
-	["u_size"]=7.28,
+	["u_md5"]="f47d9a387da7c833c066bda7b2e039fd",
+	["u_size"]=7.31,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_validate_message_item.json",
@@ -2251,7 +2254,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerView.lua",
-	["u_md5"]="73172046cafee6881241a5fd7a37ea83",
+	["u_md5"]="249c6f375b91c5840e1f7fe14c77f8d8",
 	["u_size"]=23.48,
 	},
 {
@@ -2356,8 +2359,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubValidateMsgLayerView.lua",
-	["u_md5"]="39450bcea4b5a93799b84896ca795990",
-	["u_size"]=9.45,
+	["u_md5"]="e2146cd559eea71260f0212041aad382",
+	["u_size"]=9.31,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCreateCardLayerMediator.lua",
@@ -2496,13 +2499,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="b1666c7a0bdff81c9aa1c11ab4ecbde1",
-	["u_size"]=46.19,
+	["u_md5"]="1952296fb4dd1ed69f476eeb788750fc",
+	["u_size"]=47.28,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
-	["u_md5"]="1b1932957e67cb68ff36454220582473",
-	["u_size"]=10.62,
+	["u_md5"]="03694dc270d839faa4ff5cb4254cbadb",
+	["u_size"]=10.83,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyTopMenu.lua",

@@ -2,19 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.275",
-["packageSize"] = 44929,
-["date"] = "20181116",
+["version"] = "1.1.276",
+["packageSize"] = 44923,
+["date"] = "20181117",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-版本更新内容：
-1.加载界面调整
-2.牌局数量刷新修复
-3.添加渔场管理界面更换头像
-4.牌局管理界面盈亏记录添加
-5.消息时间排列修复
-6.命中优化调整
+1.命中优化调整
+2.体验场炮值调整
+3.炮弹-V币-牌桌ID数据问题修复
+4.渔场牌桌盈亏记录添加
+5.俱乐部炮台选择及新炮台资源添加
+6.游戏内转盘特效、鱼速度、鱼资源替换
+7.俱乐部数据-界面展示同步刷新问题修复
+8.修复已知脚本报错
+9.大厅界面调整，游戏内添加牌桌信息
+10.大厅及游戏内常规BUG修复
 ]],
 ["assets"] = {
 {
@@ -3289,8 +3292,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/unlockPTtips.png",
-	["u_md5"]="8fceb0d871efe077038dced57a960795",
-	["u_size"]=11.18,
+	["u_md5"]="a94c499bcc4daeb39d30362784e0ba97",
+	["u_size"]=4.96,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/zuanshi.png",
@@ -3529,8 +3532,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="4505dcde06c8f53fa31c30edf5d50a6d",
-	["u_size"]=42.54,
+	["u_md5"]="769238ce54bfcfa70c5788e89ef956f2",
+	["u_size"]=43.12,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3659,13 +3662,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="fa3c3ce8ad2048c4cc7021dc0a74a015",
-	["u_size"]=14.02,
+	["u_md5"]="3133fe01e34a95dd4a0e07a692d6e616",
+	["u_size"]=14.03,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="387afefbbf29bf160aa4c8ad8d650975",
-	["u_size"]=30.5,
+	["u_md5"]="257b5808de99923e7c2aa5c9f68517a5",
+	["u_size"]=30.49,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -3684,8 +3687,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSelectGun/GSelectGunView.lua",
-	["u_md5"]="fa94261ac86883cac46b6e16999c52ca",
-	["u_size"]=2.24,
+	["u_md5"]="a79a941204cad94afa026d5210e53df2",
+	["u_size"]=2.29,
 	},
 {
 	["u_name"]="Games/GDntg/src/GShadowLayer/GShadowLayerMediator.lua",
@@ -3784,7 +3787,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLoadingGame.lua",
-	["u_md5"]="2e8bdd44a026148ce093c864f0b821fc",
+	["u_md5"]="fdb2375487c1921cffe0763b99673e98",
 	["u_size"]=4.89,
 	},
 {
