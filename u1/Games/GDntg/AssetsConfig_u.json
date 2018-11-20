@@ -2,17 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.277",
-["packageSize"] = 44923,
+["version"] = "1.1.278",
+["packageSize"] = 45891,
 ["date"] = "20181120",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.命中优化
-2.创建渔场默认昵称添加
-3.俱乐部头像修复
-4.炮台赠送记录修复
-5.解散渔场修复
+1.一箭双雕、一石三鱼、闪电连锁技能添加替换
+2.消息按时间排序修复
+3.成员管理界面操作记录修复
+4.我的炮弹记录点击区域优化
+5.炮台赠送记录添加滑动条
+6.金玉满堂技能调整放大
+7.记录操作人员不显示修复
 ]],
 ["assets"] = {
 {
@@ -1441,14 +1443,14 @@ return {
 	["u_size"]=206.03,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/dadian.plist",
-	["u_md5"]="bb1c732f86e36ee4ea32777238557d59",
-	["u_size"]=4.2,
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/dashandian.plist",
+	["u_md5"]="92efb2708e07cb930b410ed5809c53c7",
+	["u_size"]=3.58,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/dadian.png",
-	["u_md5"]="eaf8b9d4d83dceec9d526696b69196f9",
-	["u_size"]=77.33,
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/dashandian.png",
+	["u_md5"]="c0c7ba925d19634c237093f9b60b5140",
+	["u_size"]=99.78,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/dian_1.plist",
@@ -1681,24 +1683,54 @@ return {
 	["u_size"]=43.57,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji.plist",
-	["u_md5"]="b4164b7593ea06103e2552fcdd1ed272",
-	["u_size"]=6.21,
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanbaodadian.plist",
+	["u_md5"]="c50cd56c5648a3e25976c9a94ea08796",
+	["u_size"]=11.53,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji.png",
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanbaodadian.png",
+	["u_md5"]="825c60bb3f9bbd4e07130a7b23aa3625",
+	["u_size"]=246.34,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanfeixing.plist",
+	["u_md5"]="32fe9c71539e10a24f92e715f69611c5",
+	["u_size"]=11.35,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanfeixing.png",
+	["u_md5"]="c768ad84b4b4a8c469e40e3ff2365dd7",
+	["u_size"]=8.89,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanxiaobaodian.plist",
+	["u_md5"]="5b0293ff1b0465b353b2e5ad8e9ed1f7",
+	["u_size"]=11.52,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanxiaobaodian.png",
+	["u_md5"]="2c2f5171f09dc7187d5fdc57a5926791",
+	["u_size"]=65.19,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.plist",
+	["u_md5"]="1de2b6a0c3e417947d5e6e851b8c2349",
+	["u_size"]=6.41,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.png",
 	["u_md5"]="64167e28436f7e7163c4324138d75127",
 	["u_size"]=166.71,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.plist",
-	["u_md5"]="056e54603f2647cabc0429a9d1ea1008",
-	["u_size"]=9.44,
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_2.plist",
+	["u_md5"]="dee4e7eccd8fc6da5aee3a66fa7c3c3a",
+	["u_size"]=9.38,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.png",
-	["u_md5"]="3ab9bc1d6d6e153d27ba4981536a0306",
-	["u_size"]=93.64,
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_2.png",
+	["u_md5"]="0f821a5a70e19e4d45d37504276eee3d",
+	["u_size"]=91.33,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_1.plist",
@@ -1781,14 +1813,44 @@ return {
 	["u_size"]=464.44,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/xiaodian.plist",
-	["u_md5"]="ff161bebd5ef4e19cafe30f24d935d16",
-	["u_size"]=6.23,
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/xiaoshandian.plist",
+	["u_md5"]="d3b907cc8067f00a76ecebfdf4fd95b0",
+	["u_size"]=6.28,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/xiaodian.png",
-	["u_md5"]="e706dd03ee38aafe930917d6d3daff4b",
-	["u_size"]=129.95,
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/xiaoshandian.png",
+	["u_md5"]="d740145ec682618f0cfeba69179532fa",
+	["u_size"]=198.05,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yidabaodian.plist",
+	["u_md5"]="a7e11b564aba4b630765a3f3ed56621e",
+	["u_size"]=11.57,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yidabaodian.png",
+	["u_md5"]="ad9de4f72c8433bc101e14ea10d8f608",
+	["u_size"]=392.42,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yifeixing.plist",
+	["u_md5"]="3afb30af6a8b7cb0afab4c2ae5b22a82",
+	["u_size"]=11.33,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yifeixing.png",
+	["u_md5"]="436c15ffed36c4a643cb0e3d0073287c",
+	["u_size"]=27.84,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yixiaobaodian.plist",
+	["u_md5"]="384bc7e5d90abe0cb91cc428116c2626",
+	["u_size"]=11.52,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yixiaobaodian.png",
+	["u_md5"]="54333e699ce9646ed7b9350035188c44",
+	["u_size"]=68.88,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/UIquan.plist",
@@ -3707,13 +3769,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillMediator.lua",
-	["u_md5"]="8afa4a98de710f1be96e5ae15e810c26",
-	["u_size"]=15.69,
+	["u_md5"]="b388cd35eed42631974ea2674e83d1fa",
+	["u_size"]=15.99,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillView.lua",
-	["u_md5"]="921c3907da2e8cc3dc16d7f06bb29c62",
-	["u_size"]=9.62,
+	["u_md5"]="f41254390866c9c30c1c157d95f4c7ce",
+	["u_size"]=10.6,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIMediator.lua",

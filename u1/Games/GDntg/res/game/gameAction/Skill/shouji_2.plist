@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>shouji_101.png</key>
+            <key>shouji_201.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -19,7 +19,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_102.png</key>
+            <key>shouji_202.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -34,7 +34,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_103.png</key>
+            <key>shouji_203.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -49,7 +49,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_104.png</key>
+            <key>shouji_204.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -64,7 +64,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_105.png</key>
+            <key>shouji_205.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -79,7 +79,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_106.png</key>
+            <key>shouji_206.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -94,7 +94,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_107.png</key>
+            <key>shouji_207.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -109,7 +109,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_108.png</key>
+            <key>shouji_208.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -124,7 +124,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_109.png</key>
+            <key>shouji_209.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -139,7 +139,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_110.png</key>
+            <key>shouji_210.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -154,6 +154,96 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>shouji_211.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{500,500}</string>
+                <key>spriteSourceSize</key>
+                <string>{500,500}</string>
+                <key>textureRect</key>
+                <string>{{1000,1000},{500,500}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>shouji_212.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1,1}</string>
+                <key>spriteSourceSize</key>
+                <string>{1,1}</string>
+                <key>textureRect</key>
+                <string>{{1500,1000},{1,1}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>shouji_213.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1,1}</string>
+                <key>spriteSourceSize</key>
+                <string>{1,1}</string>
+                <key>textureRect</key>
+                <string>{{1501,1000},{1,1}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>shouji_214.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1,1}</string>
+                <key>spriteSourceSize</key>
+                <string>{1,1}</string>
+                <key>textureRect</key>
+                <string>{{1502,1000},{1,1}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>shouji_215.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1,1}</string>
+                <key>spriteSourceSize</key>
+                <string>{1,1}</string>
+                <key>textureRect</key>
+                <string>{{1503,1000},{1,1}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>shouji_216.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1,1}</string>
+                <key>spriteSourceSize</key>
+                <string>{1,1}</string>
+                <key>textureRect</key>
+                <string>{{1504,1000},{1,1}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -164,13 +254,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>shouji_1.png</string>
+            <string>shouji_2.png</string>
             <key>size</key>
             <string>{2000,1500}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d116908d7409a417be5f28021261dfcd:ba13ee6cbc8448256590f419d1d913c5:87186202a0868b998c404d5daa22325d$</string>
+            <string>$TexturePacker:SmartUpdate:f8d8c10752fdb2c907d2394113e50a98:61487b44b1d50b57e70b629ae1f937ae:15c4c0f1f687b9c3b3b2a3030c74376f$</string>
             <key>textureFileName</key>
-            <string>shouji_1.png</string>
+            <string>shouji_2.png</string>
         </dict>
     </dict>
 </plist>

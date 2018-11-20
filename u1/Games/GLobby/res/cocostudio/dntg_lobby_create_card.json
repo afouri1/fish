@@ -667,7 +667,7 @@
               "fontName": "微软雅黑",
               "fontSize": 24,
               "maxLength": 7,
-              "maxLengthEnable": true,
+              "maxLengthEnable": false,
               "passwordEnable": false,
               "passwordStyleText": "*",
               "placeHolder": "0",

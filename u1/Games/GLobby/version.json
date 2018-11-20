@@ -2,19 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.277",
-["packageSize"] = 15724,
+["version"] = "1.1.278",
+["packageSize"] = 15732,
 ["date"] = "20181120",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.命中优化
-2.创建渔场默认昵称添加
-3.俱乐部头像修复
-4.炮台赠送记录修复
-5.解散渔场修复
+1.一箭双雕、一石三鱼、闪电连锁技能添加替换
+2.消息按时间排序修复
+3.成员管理界面操作记录修复
+4.我的炮弹记录点击区域优化
+5.炮台赠送记录添加滑动条
+6.金玉满堂技能调整放大
+7.记录操作人员不显示修复
 ]],
 ["assets"] = {} 
 }

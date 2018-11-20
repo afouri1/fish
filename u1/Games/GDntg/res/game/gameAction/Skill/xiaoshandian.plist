@@ -4,153 +4,153 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>shouji_101.png</key>
+            <key>xiaoshandian01.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>spriteSourceSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{500,500}}</string>
+                <string>{{0,0},{615,258}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_102.png</key>
+            <key>xiaoshandian02.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>spriteSourceSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>textureRect</key>
-                <string>{{500,0},{500,500}}</string>
+                <string>{{615,0},{615,258}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_103.png</key>
+            <key>xiaoshandian03.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>spriteSourceSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>textureRect</key>
-                <string>{{1000,0},{500,500}}</string>
+                <string>{{1230,0},{615,258}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_104.png</key>
+            <key>xiaoshandian04.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>spriteSourceSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>textureRect</key>
-                <string>{{1500,0},{500,500}}</string>
+                <string>{{0,258},{615,258}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_105.png</key>
+            <key>xiaoshandian05.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>spriteSourceSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>textureRect</key>
-                <string>{{0,500},{500,500}}</string>
+                <string>{{615,258},{615,258}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_106.png</key>
+            <key>xiaoshandian06.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>spriteSourceSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>textureRect</key>
-                <string>{{500,500},{500,500}}</string>
+                <string>{{1230,258},{615,258}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_107.png</key>
+            <key>xiaoshandian07.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>spriteSourceSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>textureRect</key>
-                <string>{{1000,500},{500,500}}</string>
+                <string>{{0,516},{615,258}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_108.png</key>
+            <key>xiaoshandian08.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>spriteSourceSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>textureRect</key>
-                <string>{{1500,500},{500,500}}</string>
+                <string>{{615,516},{615,258}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_109.png</key>
+            <key>xiaoshandian09.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>spriteSourceSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>textureRect</key>
-                <string>{{0,1000},{500,500}}</string>
+                <string>{{1230,516},{615,258}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_110.png</key>
+            <key>xiaoshandian10.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>spriteSourceSize</key>
-                <string>{500,500}</string>
+                <string>{615,258}</string>
                 <key>textureRect</key>
-                <string>{{500,1000},{500,500}}</string>
+                <string>{{0,774},{615,258}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -164,13 +164,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>shouji_1.png</string>
+            <string>xiaoshandian.png</string>
             <key>size</key>
-            <string>{2000,1500}</string>
+            <string>{1845,1032}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d116908d7409a417be5f28021261dfcd:ba13ee6cbc8448256590f419d1d913c5:87186202a0868b998c404d5daa22325d$</string>
+            <string>$TexturePacker:SmartUpdate:cac64b3827c98bcb1f8958588e9124cd:08e8f4b12976e104bf8c6d5b6e7849c7:cebe1345df690ff45c72dd45c0db5006$</string>
             <key>textureFileName</key>
-            <string>shouji_1.png</string>
+            <string>xiaoshandian.png</string>
         </dict>
     </dict>
 </plist>
