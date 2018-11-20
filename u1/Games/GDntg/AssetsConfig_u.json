@@ -2,22 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.276",
+["version"] = "1.1.277",
 ["packageSize"] = 44923,
-["date"] = "20181117",
+["date"] = "20181120",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.命中优化调整
-2.体验场炮值调整
-3.炮弹-V币-牌桌ID数据问题修复
-4.渔场牌桌盈亏记录添加
-5.俱乐部炮台选择及新炮台资源添加
-6.游戏内转盘特效、鱼速度、鱼资源替换
-7.俱乐部数据-界面展示同步刷新问题修复
-8.修复已知脚本报错
-9.大厅界面调整，游戏内添加牌桌信息
-10.大厅及游戏内常规BUG修复
+1.命中优化
+2.创建渔场默认昵称添加
+3.俱乐部头像修复
+4.炮台赠送记录修复
+5.解散渔场修复
 ]],
 ["assets"] = {
 {
