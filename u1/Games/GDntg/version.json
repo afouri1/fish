@@ -2,19 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.278",
-["packageSize"] = 45891,
-["date"] = "20181120",
+["version"] = "1.1.279",
+["packageSize"] = 47871,
+["date"] = "20181121",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.一箭双雕、一石三鱼、闪电连锁技能添加替换
-2.消息按时间排序修复
-3.成员管理界面操作记录修复
-4.我的炮弹记录点击区域优化
-5.炮台赠送记录添加滑动条
-6.金玉满堂技能调整放大
-7.记录操作人员不显示修复
+1.赠送金币记录修复
+2.滑动条添加
+3.公告修复
+4.俱乐部界面修复
+5.搜索成员修复
+6.创建渔场/牌局默认一个昵称
 ]],
 ["assets"] = {} 
 }
