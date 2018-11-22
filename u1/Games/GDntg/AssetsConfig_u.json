@@ -2,18 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.279",
-["packageSize"] = 47871,
-["date"] = "20181121",
+["version"] = "1.1.280",
+["packageSize"] = 47875,
+["date"] = "20181122",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.赠送金币记录修复
-2.滑动条添加
-3.公告修复
-4.俱乐部界面修复
-5.搜索成员修复
-6.创建渔场/牌局默认一个昵称
+1.申请加入渔场界面刷新修复
+2.聊天界面适配问题修复
+3.创建牌局输入框
+4.游戏内子弹堆积修复
+5.在其他渔场V币显示修复
+6.已知脚本报错修复
+7.子弹未在轨迹修复
+8.炮台界面替换
+10.炮台特效替换
+11.更新版本修复
 ]],
 ["assets"] = {
 {
@@ -58,8 +62,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/selectGun.json",
-	["u_md5"]="b6e823d814f7616633f6fc3373506e28",
-	["u_size"]=21.57,
+	["u_md5"]="5fc2305ae86820fdb1319a0380589582",
+	["u_size"]=21.58,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/Map_1.jpg",
@@ -3383,8 +3387,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/baiyin.png",
-	["u_md5"]="e35a1321b86f39d45559f2547f971915",
-	["u_size"]=24.27,
+	["u_md5"]="be05fdcdc63169db9a5eb1cb1405ff5d",
+	["u_size"]=23.38,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/close.png",
@@ -3398,8 +3402,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/huangjin.png",
-	["u_md5"]="63620d2b8ff5849b1fb17f1a7b31387e",
-	["u_size"]=23.1,
+	["u_md5"]="4249f5ba8df7ef38c5b102d70a12ad7a",
+	["u_size"]=22.38,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/lock.png",
@@ -3408,18 +3412,18 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/mask.png",
-	["u_md5"]="e6c810afc4f3ecde49515a9f3b9955ae",
-	["u_size"]=2.01,
+	["u_md5"]="56d56abc3aacd1ebc0f79998b7659543",
+	["u_size"]=2.4,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/putong.png",
-	["u_md5"]="c8c23aa84935914d0afd5e66fbd83be8",
-	["u_size"]=20.97,
+	["u_md5"]="fc94cea47032a224142a1649454102b5",
+	["u_size"]=21.42,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/qingtong.png",
-	["u_md5"]="bd568c65b7bd87afe9d6c571369aabc3",
-	["u_size"]=23.35,
+	["u_md5"]="5702c5390c54645da0280488619b3264",
+	["u_size"]=21.51,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/txt_shuoming.png",
@@ -3428,13 +3432,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/unlockPTtips.png",
-	["u_md5"]="a94c499bcc4daeb39d30362784e0ba97",
-	["u_size"]=4.96,
+	["u_md5"]="37ad9771fd8bd236ee97a41f906b3f50",
+	["u_size"]=10.71,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/zuanshi.png",
-	["u_md5"]="706facc8657310839be3dffeec1ea47e",
-	["u_size"]=22.74,
+	["u_md5"]="0552624216cc6ac6ae37a198fa025367",
+	["u_size"]=22.61,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/txt_djjs.png",
@@ -3668,8 +3672,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="8b0e2fcba2a8812014480f92512d3d69",
-	["u_size"]=45.08,
+	["u_md5"]="adbc53657c8c0150992acf6d7082ed11",
+	["u_size"]=45.43,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3798,12 +3802,12 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="9c29e4e0e1dc0a8074b11bb29a6c1503",
-	["u_size"]=14.16,
+	["u_md5"]="17bb6f0b71451dd4e0a339b2b82b99cf",
+	["u_size"]=14.36,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="b68508a3cd8e14ba0720fc7b5c036e5f",
+	["u_md5"]="ffb846fac15a8f78d1456a3ed3df47f3",
 	["u_size"]=30.71,
 	},
 {
@@ -3933,8 +3937,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
-	["u_md5"]="79eee0e0b82bb4e290a774f730167b3e",
-	["u_size"]=6.86,
+	["u_md5"]="b95d821ead8fb7115a837c4edc252aeb",
+	["u_size"]=6.91,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GServerSimulation.lua",

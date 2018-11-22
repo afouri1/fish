@@ -2,20 +2,24 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.279",
-["packageSize"] = 15741,
-["date"] = "20181121",
+["version"] = "1.1.280",
+["packageSize"] = 15750,
+["date"] = "20181122",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.赠送金币记录修复
-2.滑动条添加
-3.公告修复
-4.俱乐部界面修复
-5.搜索成员修复
-6.创建渔场/牌局默认一个昵称
+1.申请加入渔场界面刷新修复
+2.聊天界面适配问题修复
+3.创建牌局输入框
+4.游戏内子弹堆积修复
+5.在其他渔场V币显示修复
+6.已知脚本报错修复
+7.子弹未在轨迹修复
+8.炮台界面替换
+10.炮台特效替换
+11.更新版本修复
 ]],
 ["assets"] = {} 
 }
