@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.282",
-["packageSize"] = 47880,
-["date"] = "20181122",
+["version"] = "1.1.283",
+["packageSize"] = 47882,
+["date"] = "20181123",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
@@ -3672,8 +3672,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="d00f3ce61a2bf48c026eb44b34792bf0",
-	["u_size"]=46.28,
+	["u_md5"]="db61d6cbb2a45acf9ee2bd535e6708dc",
+	["u_size"]=46.52,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3727,8 +3727,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
-	["u_md5"]="25d6da8f5209ecba8a538f32e7b7fe5b",
-	["u_size"]=20.21,
+	["u_md5"]="5c095769d731fb93ae8319268f69a93c",
+	["u_size"]=20.7,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
@@ -3767,8 +3767,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GFishLayer/GFishLayerMediator.lua",
-	["u_md5"]="12c641aa0d55dfc5823802830e193e9b",
-	["u_size"]=14.06,
+	["u_md5"]="c028f1892f7406407b36d01ffd00fa1e",
+	["u_size"]=14.08,
 	},
 {
 	["u_name"]="Games/GDntg/src/GFishLayer/GFishLayerView.lua",
@@ -3782,8 +3782,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GConvertSeatMediator.lua",
-	["u_md5"]="5344b41e2c8c35b28e1e4972f726616c",
-	["u_size"]=4.13,
+	["u_md5"]="a3c08ed5d72ad9af5a1ca32776e81bfd",
+	["u_size"]=4.37,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GConvertSeatView.lua",
@@ -3812,8 +3812,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="8261229ce635534bfa8267b893538c18",
-	["u_size"]=14.61,
+	["u_md5"]="7d12c23ad71467bbdff62eff4256f341",
+	["u_size"]=14.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
@@ -3892,8 +3892,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerView.lua",
-	["u_md5"]="fe063613247883076ee7c796bc99a984",
-	["u_size"]=13.21,
+	["u_md5"]="aede7d53261fe07365b257013878feef",
+	["u_size"]=13.3,
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/DntgEvent.lua",
