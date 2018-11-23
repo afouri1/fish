@@ -2,22 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.283",
-["packageSize"] = 47882,
+["version"] = "1.1.284",
+["packageSize"] = 47905,
 ["date"] = "20181123",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.申请加入渔场界面刷新修复
-2.聊天界面适配问题修复
-3.创建牌局输入框
-4.游戏内子弹堆积修复
-5.在其他渔场V币显示修复
-6.已知脚本报错修复
-7.子弹未在轨迹修复
-8.炮台界面替换
-10.炮台特效替换
-11.更新版本修复
+1.命中优化
+2.大厅点击区域优化
+3.压后台子弹不碰撞鱼修复
+4.替换炮台优化
+5.游戏记录重复添加优化
+6.单个场次独立出鱼
+7.语音修复
+8.滑动轴优化
+9.已知脚本报错修复
 ]],
 ["assets"] = {
 {
@@ -1747,13 +1746,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jinxiaobaodian.plist",
-	["u_md5"]="ae96a883093cefdb2834f930f35c2066",
+	["u_md5"]="2f86616a7dd6d8a35e4005aa0dd25eeb",
 	["u_size"]=4.26,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jinxiaobaodian.png",
-	["u_md5"]="2da292497444b1601f65721701a04f96",
-	["u_size"]=43.57,
+	["u_md5"]="37049aba55450f276a4d1e6f6dcf6f75",
+	["u_size"]=46.59,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanbaodadian.plist",
@@ -1777,13 +1776,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanxiaobaodian.plist",
-	["u_md5"]="5b0293ff1b0465b353b2e5ad8e9ed1f7",
+	["u_md5"]="8d65f5382a1abb2e032fbed23c515df2",
 	["u_size"]=11.52,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanxiaobaodian.png",
-	["u_md5"]="2c2f5171f09dc7187d5fdc57a5926791",
-	["u_size"]=65.19,
+	["u_md5"]="4a9aa41c135dee43933abf65089dd957",
+	["u_size"]=67.43,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.plist",
@@ -1917,13 +1916,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yixiaobaodian.plist",
-	["u_md5"]="384bc7e5d90abe0cb91cc428116c2626",
+	["u_md5"]="31c43b1ab0770d5d278896f0251d076a",
 	["u_size"]=11.52,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yixiaobaodian.png",
-	["u_md5"]="54333e699ce9646ed7b9350035188c44",
-	["u_size"]=68.88,
+	["u_md5"]="97dd8e688284ce198a40fab340b0c517",
+	["u_size"]=86.93,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/UIquan.plist",
@@ -3587,8 +3586,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="a099b8d1b87fdd0ba5bc5af01ac34a88",
-	["u_size"]=31.93,
+	["u_md5"]="2bfd3322c342c6522286519d9988b099",
+	["u_size"]=31.88,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3597,8 +3596,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/FishSkill.lua",
-	["u_md5"]="353df8a64bf689938fff6d2561bd93ae",
-	["u_size"]=0.73,
+	["u_md5"]="1320bbbac4212450c0256bb9a4f75ee9",
+	["u_size"]=0.71,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/GCFpersonalhit.lua",
@@ -3632,8 +3631,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="60e5545f896402555b7fa90af3169869",
-	["u_size"]=7.24,
+	["u_md5"]="4efbce3db2ae10cbbfad945449b7db96",
+	["u_size"]=7.19,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/commodity.lua",
@@ -3782,8 +3781,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GConvertSeatMediator.lua",
-	["u_md5"]="a3c08ed5d72ad9af5a1ca32776e81bfd",
-	["u_size"]=4.37,
+	["u_md5"]="7f6b9d0a22cca8a044d0edafd39f2508",
+	["u_size"]=4.99,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GConvertSeatView.lua",

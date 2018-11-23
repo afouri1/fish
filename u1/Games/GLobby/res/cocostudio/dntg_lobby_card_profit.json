@@ -146,7 +146,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 29,
+              "height": 60,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -163,7 +163,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 18,
+              "width": 54,
               "x": -250,
               "y": 382,
               "capInsetsHeight": 1,
@@ -177,8 +177,8 @@
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 29,
-              "scale9Width": 18
+              "scale9Height": 60,
+              "scale9Width": 54
             }
           },
           {
@@ -200,7 +200,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 29,
+              "height": 60,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -217,7 +217,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 18,
+              "width": 54,
               "x": 250,
               "y": 382,
               "capInsetsHeight": 1,
@@ -231,8 +231,8 @@
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 29,
-              "scale9Width": 18
+              "scale9Height": 60,
+              "scale9Width": 54
             }
           },
           {
