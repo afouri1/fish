@@ -4,33 +4,93 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>fishMove02522.png</key>
+            <key>fishMove02507.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{580,284}</string>
+                <string>{963,590}</string>
                 <key>spriteSourceSize</key>
-                <string>{580,284}</string>
+                <string>{963,590}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{580,284}}</string>
+                <string>{{0,0},{963,590}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>fishMove02523.png</key>
+            <key>fishMove02508.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{580,284}</string>
+                <string>{963,590}</string>
                 <key>spriteSourceSize</key>
-                <string>{580,284}</string>
+                <string>{963,590}</string>
                 <key>textureRect</key>
-                <string>{{580,0},{580,284}}</string>
+                <string>{{963,0},{963,590}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>fishMove02509.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{963,590}</string>
+                <key>spriteSourceSize</key>
+                <string>{963,590}</string>
+                <key>textureRect</key>
+                <string>{{0,590},{963,590}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>fishMove02510.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{963,590}</string>
+                <key>spriteSourceSize</key>
+                <string>{963,590}</string>
+                <key>textureRect</key>
+                <string>{{963,590},{963,590}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>fishMove02511.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{963,590}</string>
+                <key>spriteSourceSize</key>
+                <string>{963,590}</string>
+                <key>textureRect</key>
+                <string>{{0,1180},{963,590}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>fishMove02512.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{963,590}</string>
+                <key>spriteSourceSize</key>
+                <string>{963,590}</string>
+                <key>textureRect</key>
+                <string>{{963,1180},{963,590}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -46,9 +106,9 @@
             <key>realTextureFileName</key>
             <string>fishMove025_2.png</string>
             <key>size</key>
-            <string>{1160,284}</string>
+            <string>{1926,1770}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:002d831df68ef6dae4d50ff163a34be6:9a957283b953040d2e3398ae86e243ed:f5d29e6b212d6905bd4b65245963c9bf$</string>
+            <string>$TexturePacker:SmartUpdate:79a1f7fb4506c6a6e1d18cedb6f06f8f:2736a46111a9e0d33e4a9808a3e8e158:f5d29e6b212d6905bd4b65245963c9bf$</string>
             <key>textureFileName</key>
             <string>fishMove025_2.png</string>
         </dict>

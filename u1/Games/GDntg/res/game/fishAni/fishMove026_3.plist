@@ -94,21 +94,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>fishMove02625.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{600,557}</string>
-                <key>spriteSourceSize</key>
-                <string>{600,557}</string>
-                <key>textureRect</key>
-                <string>{{0,1114},{600,557}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -121,9 +106,9 @@
             <key>realTextureFileName</key>
             <string>fishMove026_3.png</string>
             <key>size</key>
-            <string>{1800,1671}</string>
+            <string>{1800,1114}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:a4afa006c4b5ca47fecfd86388052551:a1d634b25eba6157840a655c860bcf7c:02c32dcccfa451a8b387878039158737$</string>
+            <string>$TexturePacker:SmartUpdate:2c2cc6ef7bf427b002f9d36c8f3036a9:42bb5d60f10989099e2047323b4735ee:02c32dcccfa451a8b387878039158737$</string>
             <key>textureFileName</key>
             <string>fishMove026_3.png</string>
         </dict>

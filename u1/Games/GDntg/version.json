@@ -2,21 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.285",
-["packageSize"] = 47905,
-["date"] = "20181123",
+["version"] = "1.1.286",
+["packageSize"] = 50308,
+["date"] = "20181126",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.命中优化
-2.大厅点击区域优化
-3.压后台子弹不碰撞鱼修复
-4.替换炮台优化
-5.游戏记录重复添加优化
-6.单个场次独立出鱼
-7.语音修复
-8.滑动轴优化
-9.已知脚本报错修复
+1.发表情脚本报错修复
+2.下载失败、脚本报错修复
+3.牌局界面卡顿修复
+4.画面跳动修复
+5.新鱼资源替换
+6.技能鱼资源替换
+7.体验场增加提示弹窗
+8.二级界面关闭
+9.扣除子弹不扣除携带数量修复
 ]],
 ["assets"] = {} 
 }
