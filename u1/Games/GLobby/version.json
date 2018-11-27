@@ -2,23 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.286",
-["packageSize"] = 16021,
-["date"] = "20181126",
+["version"] = "1.1.287",
+["packageSize"] = 16022,
+["date"] = "20181127",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.发表情脚本报错修复
-2.下载失败、脚本报错修复
-3.牌局界面卡顿修复
-4.画面跳动修复
-5.新鱼资源替换
-6.技能鱼资源替换
-7.体验场增加提示弹窗
-8.二级界面关闭
-9.扣除子弹不扣除携带数量修复
+1.人气值修复
+2.压后台子弹不清除修复
+3.点击聊天脚本报错修复
+4.更新版本空白提示弹窗修复
+5.添加平视底图及其切换场景-移动
+6.经常性重连修复
+7.新鱼资源替换
+8.游戏内按钮修复及体验场提示弹窗修复
 ]],
 ["assets"] = {} 
 }
