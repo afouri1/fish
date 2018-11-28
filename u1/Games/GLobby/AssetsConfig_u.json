@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.290",
+["version"] = "1.1.291",
 ["packageSize"] = 16318,
 ["date"] = "20181128",
 ["depends"] = {
@@ -2651,8 +2651,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyProfitControlLayerView.lua",
-	["u_md5"]="8a2b2ad75df17e56f9d3bae504a7c843",
-	["u_size"]=9.07,
+	["u_md5"]="231a5ba97753fbda179de82f12f43d96",
+	["u_size"]=9.09,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyProfitRecrodLayerItem.lua",
@@ -2681,8 +2681,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyProfitReportLayerView.lua",
-	["u_md5"]="e43f39fc533997cffe74648d3982f0df",
-	["u_size"]=11.64,
+	["u_md5"]="cd7810df4c31c075dfaf16bb0b1b99a7",
+	["u_size"]=11.44,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbySetManageLayerMediator.lua",
@@ -2776,8 +2776,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="443716d585f831833d42562a8092eed5",
-	["u_size"]=53.42,
+	["u_md5"]="5c82aeaa62b6d458f31ddc603a76efb4",
+	["u_size"]=53.73,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",

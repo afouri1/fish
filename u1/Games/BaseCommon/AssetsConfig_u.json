@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.290",
-["packageSize"] = 7872,
+["version"] = "1.1.291",
+["packageSize"] = 7873,
 ["date"] = "20181128",
 ["depends"] = {
 10002,
@@ -278,8 +278,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TiFunction.lua",
-	["u_md5"]="a3cda0e0eb25ad366ff1fdda663e4391",
-	["u_size"]=56.94,
+	["u_md5"]="3f104f3509887e0a8e970bc9a658bcab",
+	["u_size"]=57.53,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TimeUtil.lua",
