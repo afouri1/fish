@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.298",
+["version"] = "1.1.299",
 ["packageSize"] = 51640,
 ["date"] = "20181129",
 ["depends"] = {
@@ -3879,8 +3879,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
-	["u_md5"]="900a87db996b02e08dce0c85f291e7c7",
-	["u_size"]=5.29,
+	["u_md5"]="c96e41c770179f338ee8ca17ea517bb5",
+	["u_size"]=5.44,
 	},
 {
 	["u_name"]="Games/GDntg/src/GBulletLayer/GBulletLayerMediator.lua",
@@ -3994,8 +3994,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GDntgHelperMediator.lua",
-	["u_md5"]="cc35636023820ea435242d1321d23124",
-	["u_size"]=2.04,
+	["u_md5"]="b53a656f5f3eb53fe46994d9b28202ef",
+	["u_size"]=2.14,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GDntgHelperView.lua",
