@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.294",
+["version"] = "1.1.296",
 ["packageSize"] = 51639,
 ["date"] = "20181129",
 ["depends"] = {
@@ -3969,8 +3969,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GFishLayer/GFishLayerMediator.lua",
-	["u_md5"]="fba116c0b38164ec5b1a04b91195f260",
-	["u_size"]=14.15,
+	["u_md5"]="c1170dd997a0817d1c79bc07688d85cc",
+	["u_size"]=14.24,
 	},
 {
 	["u_name"]="Games/GDntg/src/GFishLayer/GFishLayerView.lua",

@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.294",
+["version"] = "1.1.296",
 ["packageSize"] = 16318,
 ["date"] = "20181129",
 ["depends"] = {
@@ -41,8 +41,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="11ef41e9a3531e543162c8ca33ca3d71",
-	["u_size"]=27.63,
+	["u_md5"]="a859e0640d244a78e79d85ccaaa6a78b",
+	["u_size"]=27.58,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
@@ -2521,8 +2521,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubManageLayerView.lua",
-	["u_md5"]="ae51d507d76286041133992760e98b20",
-	["u_size"]=22.04,
+	["u_md5"]="d3d6c60a62c30ffd1181ad99d8e5195c",
+	["u_size"]=22.15,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubModifyLayerMediator.lua",
@@ -2841,8 +2841,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/Cpp2LuaGlobalFunc.lua",
-	["u_md5"]="092396a0d748fe614a2efbbad4be98e8",
-	["u_size"]=4.18,
+	["u_md5"]="8eda6c11585b59c378e0922e88d3f8a8",
+	["u_size"]=4.38,
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/YaYaData.lua",
@@ -2851,8 +2851,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/YaYaVoiceManage.lua",
-	["u_md5"]="cf932d6d7e2d3c6dabc658e9e230b2c2",
-	["u_size"]=10.55,
+	["u_md5"]="06880a77d163a2b8d0f1e6cbe3190521",
+	["u_size"]=10.58,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/NewsListData.lua",
