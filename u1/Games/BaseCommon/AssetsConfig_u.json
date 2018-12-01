@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.310",
+["version"] = "1.1.313",
 ["packageSize"] = 1930,
 ["date"] = "20181201",
 ["depends"] = {
@@ -18,8 +18,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/CommonFunc.lua",
-	["u_md5"]="457076a8bd07a04d5064a277a6bf4ae8",
-	["u_size"]=20.32,
+	["u_md5"]="b140d52c90c9266ce89ab4ef0c308c76",
+	["u_size"]=20.35,
 	},
 {
 	["u_name"]="Games/BaseCommon/ErrorHandler.lua",
@@ -168,8 +168,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/res/blank.png",
-	["u_md5"]="bc8e1ecdd9e623c97bc53bb554987166",
-	["u_size"]=0.08,
+	["u_md5"]="8353ff2cd353e549c85d3377f4b1eaa8",
+	["u_size"]=2.74,
 	},
 {
 	["u_name"]="Games/BaseCommon/res/comTips/ComTips.json",
@@ -248,8 +248,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/GCommon.lua",
-	["u_md5"]="bcabca4a9e2612dc543ebe2ef795f9e9",
-	["u_size"]=22.59,
+	["u_md5"]="427653b2d26fb4c1612656b785ad6074",
+	["u_size"]=20.14,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/ImageManager.lua",

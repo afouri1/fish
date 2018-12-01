@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.310",
-["packageSize"] = 10762,
+["version"] = "1.1.313",
+["packageSize"] = 10763,
 ["date"] = "20181201",
 ["depends"] = {
 10001,
@@ -31,13 +31,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="7ec220ae8a52119f90070a6c91bc4b38",
-	["u_size"]=27.74,
+	["u_md5"]="41b1b146e569a3a495814d6d2e9b9a8b",
+	["u_size"]=27.83,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
-	["u_md5"]="65a4069273cc80c1155665a872c6225d",
-	["u_size"]=7.07,
+	["u_md5"]="900994f5d71a5efaf09f9b0d0f5255d8",
+	["u_size"]=7.13,
 	},
 {
 	["u_name"]="Games/GLobby/VisibleRect.lua",
@@ -2606,8 +2606,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberManageLayerView.lua",
-	["u_md5"]="15fdcd4c54b86dd7c62cd24d8849a20a",
-	["u_size"]=17.09,
+	["u_md5"]="218c047a74070cbeeab2fef01d258dfe",
+	["u_size"]=17.97,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberRecordLayerItem.lua",
