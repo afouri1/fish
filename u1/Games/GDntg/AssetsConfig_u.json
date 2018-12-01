@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.308",
+["version"] = "1.1.309",
 ["packageSize"] = 40769,
-["date"] = "20181130",
+["date"] = "20181201",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
@@ -4129,8 +4129,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/AddGImageAsync.lua",
-	["u_md5"]="b8d7c6e58216160a68b3ddbe1a742a7b",
-	["u_size"]=8.71,
+	["u_md5"]="2c64bcb91373986f0dfca0bd5fff9fc6",
+	["u_size"]=8.69,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GBg.lua",
