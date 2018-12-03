@@ -2,19 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.315",
-["packageSize"] = 40769,
-["date"] = "20181201",
+["version"] = "1.1.316",
+["packageSize"] = 40944,
+["date"] = "20181203",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.添加聊天昵称及ID显示
-2.聊天信息拉取修复
-3.盈亏显示不一致修复
-4.聊天微信头像修复
-5.炮弹删除修复
-6.大厅调输入法修复
-7.美术资源缩减
+1.大厅图标替换
+2.渔场修改为渔厅
+3.聊天-俱乐部简介错位修复
+4.炮弹充值界面放开，提示标语修改
+5.创建俱乐部条件
+6.游戏内音效-背景资源替换
 ]],
 ["assets"] = {
 {
@@ -79,13 +78,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/Map_3_1.png",
-	["u_md5"]="b1cd8112fe450b1f3f19a1d121eb8a5e",
-	["u_size"]=259.09,
+	["u_md5"]="79056c7c53a33115e5d6c3f07afea1d0",
+	["u_size"]=321.21,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/Map_3_2.png",
-	["u_md5"]="7490b88b462b90fb1f9859d225bc0e41",
-	["u_size"]=255.16,
+	["u_md5"]="3eefcc8820590fc85006e36efb293561",
+	["u_size"]=321.96,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/Map_4.jpg",
@@ -104,13 +103,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/bgboard_3_1.png",
-	["u_md5"]="1d5458921c47924aa2efe379e2bce7ec",
-	["u_size"]=152.55,
+	["u_md5"]="ef06b2c68644072ee4d92c23bbdd16c5",
+	["u_size"]=183.19,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/bgboard_3_2.png",
-	["u_md5"]="2e076aa23ab80f756fd0e9410051de09",
-	["u_size"]=152.85,
+	["u_md5"]="e13e1264c33bdf21a537ae72eb697d1e",
+	["u_size"]=168,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/deskInfo/back.png",
@@ -3779,13 +3778,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="b2d4c96ceb48efaae8b264fe660b7864",
-	["u_size"]=31.89,
+	["u_md5"]="7736392bdcf504c55bdd984014b9152c",
+	["u_size"]=31.88,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
-	["u_md5"]="63fefebb09617f5f05efbc5dc95ebc5f",
-	["u_size"]=11.44,
+	["u_md5"]="a6e3a24bee325511eddfba981b48a71a",
+	["u_size"]=11.39,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/FishSkill.lua",
@@ -3834,8 +3833,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/correctfactor.lua",
-	["u_md5"]="2190e9e65d27827a0be44c98b268cd91",
-	["u_size"]=0.5,
+	["u_md5"]="66c9714d523306003e7e4f382415307f",
+	["u_size"]=0.43,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
@@ -3864,8 +3863,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="53d5d6ba7cb594322ac80fe112d797d8",
-	["u_size"]=45.65,
+	["u_md5"]="80eb79c0f19e1376c1462158fca20f68",
+	["u_size"]=45.97,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -4079,13 +4078,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIMediator.lua",
-	["u_md5"]="f4bcd96539b0a0ed846a3e6f41b6e694",
-	["u_size"]=3.75,
+	["u_md5"]="c02432ead6273b96afe79253d1bc0ae8",
+	["u_size"]=4.16,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIView.lua",
-	["u_md5"]="422177ed8599d91578a5434bac0e45f3",
-	["u_size"]=7.15,
+	["u_md5"]="ea02a9d7a7330acea9121b65ebcc533a",
+	["u_size"]=7.16,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GNoviceGuideLayer.lua",

@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.315",
-["packageSize"] = 1930,
-["date"] = "20181201",
+["version"] = "1.1.316",
+["packageSize"] = 1931,
+["date"] = "20181203",
 ["depends"] = {
 10002,
 10003,
@@ -58,8 +58,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
-	["u_md5"]="d1866696052897b339fe72ced33e9162",
-	["u_size"]=10.12,
+	["u_md5"]="ffa2a08ccc10278712c70433c407f181",
+	["u_size"]=10.28,
 	},
 {
 	["u_name"]="Games/BaseCommon/ProtoBuf/ProtobufParse.lua",
@@ -128,8 +128,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/config.lua",
-	["u_md5"]="3ffffa11f6ccbe59fcb7cc282b019932",
-	["u_size"]=9.49,
+	["u_md5"]="146cd7f63382c62319e536c70b0d2641",
+	["u_size"]=9.75,
 	},
 {
 	["u_name"]="Games/BaseCommon/net/WeChatLoginHttp.lua",
@@ -273,13 +273,13 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/StrUtil.lua",
-	["u_md5"]="88da2cc9954933ab721bd7bbacf3d190",
-	["u_size"]=14.34,
+	["u_md5"]="9bba9605054e1c6a0f15ab19945225bd",
+	["u_size"]=14.36,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TiFunction.lua",
-	["u_md5"]="ca0da2555ea20110490015fe30d38164",
-	["u_size"]=57.77,
+	["u_md5"]="9969bb347d5158314380fd4982fc3d5a",
+	["u_size"]=57.93,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TimeUtil.lua",
