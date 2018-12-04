@@ -4,363 +4,393 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>sunwukongtishi01.png</key>
+            <key>yuhaungdaditis01.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{640,232}}</string>
+                <string>{{0,0},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi02.png</key>
+            <key>yuhaungdaditis02.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{640,0},{640,232}}</string>
+                <string>{{640,0},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi03.png</key>
+            <key>yuhaungdaditis03.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{1280,0},{640,232}}</string>
+                <string>{{1280,0},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi04.png</key>
+            <key>yuhaungdaditis04.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{0,232},{640,232}}</string>
+                <string>{{0,200},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi05.png</key>
+            <key>yuhaungdaditis05.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{640,232},{640,232}}</string>
+                <string>{{640,200},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi06.png</key>
+            <key>yuhaungdaditis06.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{1280,232},{640,232}}</string>
+                <string>{{1280,200},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi07.png</key>
+            <key>yuhaungdaditis07.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{0,464},{640,232}}</string>
+                <string>{{0,400},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi08.png</key>
+            <key>yuhaungdaditis08.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{640,464},{640,232}}</string>
+                <string>{{640,400},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi09.png</key>
+            <key>yuhaungdaditis09.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{1280,464},{640,232}}</string>
+                <string>{{1280,400},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi10.png</key>
+            <key>yuhaungdaditis10.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{0,696},{640,232}}</string>
+                <string>{{0,600},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi11.png</key>
+            <key>yuhaungdaditis11.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{640,696},{640,232}}</string>
+                <string>{{640,600},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi12.png</key>
+            <key>yuhaungdaditis12.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{1280,696},{640,232}}</string>
+                <string>{{1280,600},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi13.png</key>
+            <key>yuhaungdaditis13.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{0,928},{640,232}}</string>
+                <string>{{0,800},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi14.png</key>
+            <key>yuhaungdaditis14.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{640,928},{640,232}}</string>
+                <string>{{640,800},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi15.png</key>
+            <key>yuhaungdaditis15.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{1280,928},{640,232}}</string>
+                <string>{{1280,800},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi16.png</key>
+            <key>yuhaungdaditis16.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{0,1160},{640,232}}</string>
+                <string>{{0,1000},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi17.png</key>
+            <key>yuhaungdaditis17.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{640,1160},{640,232}}</string>
+                <string>{{640,1000},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi18.png</key>
+            <key>yuhaungdaditis18.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{1280,1160},{640,232}}</string>
+                <string>{{1280,1000},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi19.png</key>
+            <key>yuhaungdaditis19.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{0,1392},{640,232}}</string>
+                <string>{{0,1200},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi20.png</key>
+            <key>yuhaungdaditis20.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{640,1392},{640,232}}</string>
+                <string>{{640,1200},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi21.png</key>
+            <key>yuhaungdaditis21.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{1280,1392},{640,232}}</string>
+                <string>{{1280,1200},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi22.png</key>
+            <key>yuhaungdaditis22.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{0,1624},{640,232}}</string>
+                <string>{{0,1400},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi23.png</key>
+            <key>yuhaungdaditis23.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{640,1624},{640,232}}</string>
+                <string>{{640,1400},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>sunwukongtishi24.png</key>
+            <key>yuhaungdaditis24.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,232}</string>
+                <string>{640,200}</string>
                 <key>textureRect</key>
-                <string>{{1280,1624},{640,232}}</string>
+                <string>{{1280,1400},{640,200}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>yuhaungdaditis25.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{640,200}</string>
+                <key>spriteSourceSize</key>
+                <string>{640,200}</string>
+                <key>textureRect</key>
+                <string>{{0,1600},{640,200}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>yuhaungdaditis26.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{640,200}</string>
+                <key>spriteSourceSize</key>
+                <string>{640,200}</string>
+                <key>textureRect</key>
+                <string>{{640,1600},{640,200}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -374,13 +404,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>sunwukongtishi_1.png</string>
+            <string>yuhaungdaditis.png</string>
             <key>size</key>
-            <string>{1920,1856}</string>
+            <string>{1920,1800}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:10206e92b8215b5145c70c7495f79c1e:e3309ab08c66d74da4dd9ca6904adc02:61fce4c0f85514bdaaa7a5144909be8d$</string>
+            <string>$TexturePacker:SmartUpdate:5308eee6df0bd24e99a83383b2c66648:bf36cd949aedd244694e10644bdb1c5a:d4a670584595903f3f777da199ecb308$</string>
             <key>textureFileName</key>
-            <string>sunwukongtishi_1.png</string>
+            <string>yuhaungdaditis.png</string>
         </dict>
     </dict>
 </plist>
