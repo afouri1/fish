@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.323",
+["version"] = "1.1.324",
 ["packageSize"] = 37187,
 ["date"] = "20181205",
 ["depends"] = {
@@ -3681,8 +3681,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="80eb79c0f19e1376c1462158fca20f68",
-	["u_size"]=45.97,
+	["u_md5"]="6c7f93a92157e7277b755c7614d93944",
+	["u_size"]=46.08,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3741,8 +3741,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="d75067e76017f371f9132190994b4915",
-	["u_size"]=13.71,
+	["u_md5"]="c3c52fc2f654a80db022ce576fea032d",
+	["u_size"]=13.78,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GNetMediator.lua",
@@ -3946,8 +3946,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/AddGImageAsync.lua",
-	["u_md5"]="e3953656d474cf1a2fdf71a5e64bd78b",
-	["u_size"]=8.73,
+	["u_md5"]="f4812225532f02dede1d7fba09e5c21e",
+	["u_size"]=8.77,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GBg.lua",
@@ -3971,8 +3971,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
-	["u_md5"]="93b77f876b493a85987f80a135c7a7b1",
-	["u_size"]=7.02,
+	["u_md5"]="343aaa7622ab055cd304443f1afddcbe",
+	["u_size"]=7.05,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GServerSimulation.lua",
