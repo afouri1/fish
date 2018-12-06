@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.349",
+["version"] = "1.1.350",
 ["packageSize"] = 10816,
 ["date"] = "20181206",
 ["depends"] = {
@@ -2425,7 +2425,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubChatLayerMediator.lua",
-	["u_md5"]="4dcb6689a6034de7c5bfdafa88fec0ec",
+	["u_md5"]="522632ff9e124e6662daadbb21fd0fda",
 	["u_size"]=9.72,
 	},
 {
