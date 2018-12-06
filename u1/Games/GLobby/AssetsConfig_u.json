@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.344",
+["version"] = "1.1.345",
 ["packageSize"] = 10816,
 ["date"] = "20181206",
 ["depends"] = {
@@ -30,8 +30,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="7b2be47b36a0d66677cd7e75c373b1a0",
-	["u_size"]=27.98,
+	["u_md5"]="0b9d4a74e39bd3d97ad8a6d9463fd780",
+	["u_size"]=28.08,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
