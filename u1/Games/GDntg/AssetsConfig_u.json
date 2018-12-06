@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.343",
+["version"] = "1.1.344",
 ["packageSize"] = 37190,
 ["date"] = "20181206",
 ["depends"] = {
@@ -3638,8 +3638,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="285a07ce76ddf101c40f7f34a1074a1f",
-	["u_size"]=9.26,
+	["u_md5"]="01b4ef34105bde87bc03ee00e14ec482",
+	["u_size"]=9.27,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/commodity.lua",

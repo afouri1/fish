@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.343",
-["packageSize"] = 10815,
+["version"] = "1.1.344",
+["packageSize"] = 10816,
 ["date"] = "20181206",
 ["depends"] = {
 10001,
@@ -2425,8 +2425,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubChatLayerMediator.lua",
-	["u_md5"]="c99ed067f8bac1d6cdd69fb356a4d632",
-	["u_size"]=9.69,
+	["u_md5"]="4dcb6689a6034de7c5bfdafa88fec0ec",
+	["u_size"]=9.72,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubChatLayerView.lua",
@@ -2840,8 +2840,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyGameRecordLayerView.lua",
-	["u_md5"]="ce727419016c004e8167b0de99c10a94",
-	["u_size"]=9.73,
+	["u_md5"]="166d2954ca2f7e0db8c2c365e71e664c",
+	["u_size"]=10.08,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyHighLightLayerMediator.lua",
