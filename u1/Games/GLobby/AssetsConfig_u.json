@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.357",
-["packageSize"] = 10824,
+["version"] = "1.1.360",
+["packageSize"] = 10762,
 ["date"] = "20181210",
 ["depends"] = {
 10001,
@@ -735,6 +735,11 @@ return {
 	["u_size"]=1.08,
 	},
 {
+	["u_name"]="Games/GLobby/res/club/clubManage/bi.png",
+	["u_md5"]="b982d8bcff21f6be1a5de8c65d6e1f3b",
+	["u_size"]=2.44,
+	},
+{
 	["u_name"]="Games/GLobby/res/club/clubManage/button_xiugai.png",
 	["u_md5"]="840808da167ea62bf133af7fad1f39ae",
 	["u_size"]=1.2,
@@ -1291,8 +1296,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_card_item.json",
-	["u_md5"]="6dab9c907dedc750df7697edc60ba052",
-	["u_size"]=28.76,
+	["u_md5"]="217ce146a377919eb744afb766915ee0",
+	["u_size"]=28.72,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_card_manage.json",
@@ -1311,13 +1316,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_club_manage.json",
-	["u_md5"]="34bcc6a869a14d33e970ecdf10cf0e7c",
-	["u_size"]=69.56,
-	},
-{
-	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_club_manage_new.json",
-	["u_md5"]="b267dacb338ce9cabab2dbc8c1043442",
-	["u_size"]=77.52,
+	["u_md5"]="5e9c736ec1ce90608aa76ca098757a9e",
+	["u_size"]=81.12,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_clublist.json",
@@ -2461,8 +2461,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubManageLayerView.lua",
-	["u_md5"]="0b8c09a6b9beedaba0f9b975ebd29201",
-	["u_size"]=24.71,
+	["u_md5"]="33982c83867f9f171c9059971654e7fc",
+	["u_size"]=25.62,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubModifyLayerMediator.lua",
@@ -2796,8 +2796,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/YaYaVoiceManage.lua",
-	["u_md5"]="8539a59e1e9727ebede3985e8256f19b",
-	["u_size"]=10.83,
+	["u_md5"]="dc60dcfbcdc3a68511828a18752758a2",
+	["u_size"]=11.31,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/NewsListData.lua",
@@ -2821,7 +2821,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubMemberListData.lua",
-	["u_md5"]="b7065be2f4eda01f6ed11d0643cfb189",
+	["u_md5"]="2f0bcce648167d799dd405f0cbba7e4e",
 	["u_size"]=8.79,
 	},
 {
