@@ -2,18 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.356",
-["packageSize"] = 38952,
-["date"] = "20181207",
+["version"] = "1.1.357",
+["packageSize"] = 37930,
+["date"] = "20181210",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.不能发送聊天修复
-2.vivox21全面屏问题修复
-3.牌局管理点击无反应修复
-4.井字鱼阵玉皇大帝调整
-5.ios闪屏页替换
-6.断线重连V币数据显示修复
+1.技能特效鱼替换
+2.人气值修复
+3.大厅全面屏适配
+4.鱼不能打死修复
+5.ios横竖屏切换修复
+6.压后台返回黑屏修复
+7.渔厅界面拉取奔溃修复
 ]],
 ["assets"] = {
 {
@@ -138,73 +139,73 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove02801.png",
-	["u_md5"]="8dfafea0d27173fdd7d286a23562606b",
-	["u_size"]=43.07,
+	["u_md5"]="f5ddf3de3833f1ed88724e8b18706d93",
+	["u_size"]=18.86,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove02901.png",
-	["u_md5"]="d89bb8554ad65c6c14da52dc0d0961d4",
-	["u_size"]=50.75,
+	["u_md5"]="8db4a3369e2dfaf9fa29d6596dae789a",
+	["u_size"]=21.35,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove03001.png",
-	["u_md5"]="516c946d03ac4d009094660fca4a482b",
-	["u_size"]=58.75,
+	["u_md5"]="deaa0afe2021c5fba29235278fecf318",
+	["u_size"]=21.82,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove03101.png",
-	["u_md5"]="730dde5915a75a48b8339a6fe6f61e20",
-	["u_size"]=22.99,
+	["u_md5"]="6127202570da278b037ef2c908b46317",
+	["u_size"]=10.35,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove03102.png",
-	["u_md5"]="2865017fb50605ff5a13c1bcc7220707",
-	["u_size"]=13.73,
+	["u_md5"]="b6ad454ff00a515714500c67d4498b8b",
+	["u_size"]=6.25,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove03201.png",
-	["u_md5"]="83a7fffb0f80587395a91404b97980ea",
-	["u_size"]=25.9,
+	["u_md5"]="26d370db173225310f8a5c7abdc3f87e",
+	["u_size"]=11.19,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove03202.png",
-	["u_md5"]="ca3ed04af40d7b5d2732442f5ebc1e3a",
-	["u_size"]=13.33,
+	["u_md5"]="94a325823e3c56456650675db9661fff",
+	["u_size"]=5.46,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove033.plist",
-	["u_md5"]="bec561219e5d476ae9b928adbaafc067",
-	["u_size"]=7.35,
+	["u_md5"]="f9dfc69752530155c8e547bb24d2923f",
+	["u_size"]=7.34,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove033.png",
-	["u_md5"]="060ca730b26f3661b30897492c4a9db2",
-	["u_size"]=539.13,
+	["u_md5"]="f627c9884597fca8d091166e40c768eb",
+	["u_size"]=375.42,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove03401.png",
-	["u_md5"]="df95924122acd29f5916f9f979397729",
-	["u_size"]=14.06,
+	["u_md5"]="303e217c017cc1f29f366c7404902af1",
+	["u_size"]=10.12,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove035.plist",
-	["u_md5"]="408446706ef9c0a2a334072ad03334e4",
-	["u_size"]=7.35,
+	["u_md5"]="e20532bcba98088ba790dfd06cfb7930",
+	["u_size"]=7.34,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove035.png",
-	["u_md5"]="1b08b2b48cf3d4812c7fdca845d9f99e",
-	["u_size"]=506.05,
+	["u_md5"]="0cb40a420a6c43121682a46489dfa927",
+	["u_size"]=212.82,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove036.plist",
-	["u_md5"]="4a29940826e4a9da2c272cca10b544fd",
-	["u_size"]=9.48,
+	["u_md5"]="71154647e30fcabe3b574140dd885713",
+	["u_size"]=10.55,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishMove036.png",
-	["u_md5"]="63d678944b231fa8873a2b41b7cd85e0",
-	["u_size"]=607.9,
+	["u_md5"]="2ec93eebc54db1b36514525967768a11",
+	["u_size"]=177.96,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effctFish/fishShadow02801.png",
@@ -3608,12 +3609,12 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="3a828b1cfda34a47ea3647b67954c92b",
-	["u_size"]=31.84,
+	["u_md5"]="627d250eeeac929b529b1371ed786d52",
+	["u_size"]=31.89,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
-	["u_md5"]="a6e3a24bee325511eddfba981b48a71a",
+	["u_md5"]="a0e0edfb28ab7a38a21c760f10698e92",
 	["u_size"]=11.39,
 	},
 {
@@ -3638,7 +3639,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
+	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
 	["u_size"]=0.76,
 	},
 {
@@ -3653,8 +3654,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="01b4ef34105bde87bc03ee00e14ec482",
-	["u_size"]=9.27,
+	["u_md5"]="13e1763a40245d1a8faa93b2a488ad9c",
+	["u_size"]=10,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/commodity.lua",
@@ -3753,8 +3754,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="b0a84cb2ff4b2e306fd3df420d001e72",
-	["u_size"]=14.53,
+	["u_md5"]="f918d132f8882919ec531267b5d3a3a2",
+	["u_size"]=14.7,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GNetMediator.lua",
