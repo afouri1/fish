@@ -2,19 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.363",
-["packageSize"] = 38003,
-["date"] = "20181210",
+["version"] = "1.1.365",
+["packageSize"] = 38004,
+["date"] = "20181211",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.技能特效鱼替换
-2.人气值修复
-3.大厅全面屏适配
-4.鱼不能打死修复
-5.ios横竖屏切换修复
-6.压后台返回黑屏修复
-7.渔厅界面拉取奔溃修复
+1.点击公告无反应
+2.牌局管理界面数字显示修复
+3.大厅图标点击无反应修复
+4.申请渔厅倒计时不清除
+5.数字显示修复，万、亿的保留2位小数点
+6.已经脚本报错修复
 ]],
 ["assets"] = {
 {
@@ -3659,8 +3658,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/commodity.lua",
-	["u_md5"]="9c21a443f4d14bdb1f7f4b7c6af94030",
-	["u_size"]=0.71,
+	["u_md5"]="0cc303e4b320689469945a5cae9656d7",
+	["u_size"]=1.27,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/correctfactor.lua",
@@ -3694,8 +3693,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="050dee3c4865fc22d8fb17011192a283",
-	["u_size"]=46.7,
+	["u_md5"]="f91ce92eaa704b3f93afc7d203512a2c",
+	["u_size"]=47.6,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3844,8 +3843,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="814fec8d60b2bf3812e2a0ae4e2f76aa",
-	["u_size"]=15.51,
+	["u_md5"]="682b8027145cac5a5d25dec8b3756673",
+	["u_size"]=15.81,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
@@ -3909,8 +3908,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIMediator.lua",
-	["u_md5"]="c02432ead6273b96afe79253d1bc0ae8",
-	["u_size"]=4.16,
+	["u_md5"]="8540a6d4052cc1dcac9f71619770fc77",
+	["u_size"]=4.17,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIView.lua",
