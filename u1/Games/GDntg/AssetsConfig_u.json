@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.366",
-["packageSize"] = 38138,
+["version"] = "1.1.367",
+["packageSize"] = 38154,
 ["date"] = "20181213",
 ["depends"] = {
 },
@@ -68,13 +68,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/Map_1_1.png",
-	["u_md5"]="7bdfd918cfaf552ea47fa878c26f74b4",
-	["u_size"]=262.44,
+	["u_md5"]="271d8c74cbef81742359e3bee540de35",
+	["u_size"]=273.49,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/Map_1_2.png",
-	["u_md5"]="00de8ce9fe33d10dc227229c8521f535",
-	["u_size"]=250.55,
+	["u_md5"]="3c8aa28ff71ca6a83909e344d15e4036",
+	["u_size"]=255.47,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/Map_2.jpg",
