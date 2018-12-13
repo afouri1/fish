@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.370",
-["packageSize"] = 10789,
+["version"] = "1.1.371",
+["packageSize"] = 10801,
 ["date"] = "20181213",
 ["depends"] = {
 10001,
@@ -1565,8 +1565,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/recharge/dntg_lobby_recharge.json",
-	["u_md5"]="79dc40acecca4865ec5643cc98a02cbd",
-	["u_size"]=100.45,
+	["u_md5"]="5b9939d62a92e4923d91ed3b470e235c",
+	["u_size"]=105.04,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/record/dntg_lobby_record.json",
@@ -2279,6 +2279,36 @@ return {
 	["u_size"]=0.81,
 	},
 {
+	["u_name"]="Games/GLobby/res/recharge/10000yuan.png",
+	["u_md5"]="55efb3e4f0a6ef64fa29acf3c20ca3f2",
+	["u_size"]=1.3,
+	},
+{
+	["u_name"]="Games/GLobby/res/recharge/1000yuan.png",
+	["u_md5"]="fab951ecd7cb1bba142d2487527ae178",
+	["u_size"]=1.23,
+	},
+{
+	["u_name"]="Games/GLobby/res/recharge/100yuan.png",
+	["u_md5"]="bcede79d9f086dd35db6e26b0393379e",
+	["u_size"]=1.07,
+	},
+{
+	["u_name"]="Games/GLobby/res/recharge/50000yuan.png",
+	["u_md5"]="c97dccfa55baac38aa7e452d140a7213",
+	["u_size"]=1.45,
+	},
+{
+	["u_name"]="Games/GLobby/res/recharge/5000yuan.png",
+	["u_md5"]="138bfef7b080599b61826c24e5fa8764",
+	["u_size"]=1.3,
+	},
+{
+	["u_name"]="Games/GLobby/res/recharge/500yuan.png",
+	["u_md5"]="835103bbb80b0e07cc06724a28df0a25",
+	["u_size"]=1.13,
+	},
+{
 	["u_name"]="Games/GLobby/res/recharge/btn_bg.png",
 	["u_md5"]="cf4f35cba5f00d916221f6999cb52d4d",
 	["u_size"]=0.22,
@@ -2715,8 +2745,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageBottom.lua",
-	["u_md5"]="018d6565b95e18082026197e10b01749",
-	["u_size"]=7.21,
+	["u_md5"]="5dc4cc7754bc758c3f3592e68ca44917",
+	["u_size"]=7.37,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
