@@ -2,20 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.376",
-["packageSize"] = 38085,
-["date"] = "20181214",
+["version"] = "1.1.377",
+["packageSize"] = 38088,
+["date"] = "20181217",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.人气值修复
-2.扣除炮弹修复
-3.战绩调整为5分钟一次统计
-4.游戏内帮助、设置、退出界面替换
-5.增加合伙人
-6.炮弹实时同步修复
-7.金币实时同步修复
-8.公告图片替换
+1.金币场景进入高级场提示房间满人修复
+2.充值界面金币没有同步修复
+3.OPPO手机新手指引问题修复
+4.性别只显示一个
+5.击中鱼显示红色别人不显示调整
+6.从右边出的冰冻鱼位置调整
+7.自动开炮会出现卡顿修复
+8.创建牌桌界面调整
+9.手动点击锁定优化
+10.成员权限变修复
 ]],
 ["assets"] = {
 {
@@ -3715,8 +3717,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="8ae00d87f5bde3f831945be7f9c79af0",
-	["u_size"]=47.83,
+	["u_md5"]="708caa2171c08cc1d83bd3b955f1eff0",
+	["u_size"]=48.97,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3770,13 +3772,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
-	["u_md5"]="a9685f5c2da1da8b6ebbfb370616eb25",
-	["u_size"]=21.03,
+	["u_md5"]="747ac742d485fd761ed55e74a4e58114",
+	["u_size"]=21.51,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="8a467cb114815187c0b36cbf38d7992f",
-	["u_size"]=15.43,
+	["u_md5"]="b33b9d46cdff6104eb51de825a67e782",
+	["u_size"]=15.62,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GNetMediator.lua",
@@ -3845,8 +3847,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
-	["u_md5"]="99b9481cb90464f4ac3988cc130e7cb2",
-	["u_size"]=10.09,
+	["u_md5"]="e6b45af2a384ce92f21e52e3957ad2ec",
+	["u_size"]=10.34,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockView.lua",
@@ -3865,8 +3867,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="1890ee3820eff9fc5a5aaeda69ad552e",
-	["u_size"]=16.27,
+	["u_md5"]="bda2cca314171d0a955ff722816455f7",
+	["u_size"]=16.23,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
@@ -4000,8 +4002,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="0be6579d4851f7fa5aa4196c0763ab23",
-	["u_size"]=18.45,
+	["u_md5"]="fbbf1f471cd46c7f43fef7eb8632636a",
+	["u_size"]=18.86,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",

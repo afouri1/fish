@@ -2,22 +2,24 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.376",
-["packageSize"] = 11296,
-["date"] = "20181214",
+["version"] = "1.1.377",
+["packageSize"] = 11298,
+["date"] = "20181217",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.人气值修复
-2.扣除炮弹修复
-3.战绩调整为5分钟一次统计
-4.游戏内帮助、设置、退出界面替换
-5.增加合伙人
-6.炮弹实时同步修复
-7.金币实时同步修复
-8.公告图片替换
+1.金币场景进入高级场提示房间满人修复
+2.充值界面金币没有同步修复
+3.OPPO手机新手指引问题修复
+4.性别只显示一个
+5.击中鱼显示红色别人不显示调整
+6.从右边出的冰冻鱼位置调整
+7.自动开炮会出现卡顿修复
+8.创建牌桌界面调整
+9.手动点击锁定优化
+10.成员权限变修复
 ]],
 ["assets"] = {
 {
@@ -32,8 +34,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="54b6290b890cd277168a24262ed76874",
-	["u_size"]=29.07,
+	["u_md5"]="dde3a9589b864c8be3555f3469f14bbb",
+	["u_size"]=29.08,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
@@ -1547,8 +1549,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_my.json",
-	["u_md5"]="9d62bbd56c4e2d544627aeed5da285b1",
-	["u_size"]=64.03,
+	["u_md5"]="fc76b6f703c1ee5fd1fba0285df11edd",
+	["u_size"]=64.01,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_my_bullet.json",
@@ -2607,8 +2609,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerView.lua",
-	["u_md5"]="0ad4ff49f73e4c320a61e211bb8e68a8",
-	["u_size"]=31.82,
+	["u_md5"]="09deb5ebba24a156334afd9abcdcd3e1",
+	["u_size"]=31.57,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerMediator.lua",
@@ -2902,8 +2904,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyGoldFieldLayerItem.lua",
-	["u_md5"]="d691f57ed8a48075a7d3c1ec8ab7aa7c",
-	["u_size"]=2.47,
+	["u_md5"]="93d7d6d215b73d00df0d2ee33788e3a9",
+	["u_size"]=2.61,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyGoldFieldLayerMediator.lua",
@@ -2912,8 +2914,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyGoldFieldLayerView.lua",
-	["u_md5"]="2d0cf9649ef294504ff554ba10d6d4a5",
-	["u_size"]=4.08,
+	["u_md5"]="93180290e20348770471a2b9ce6f322b",
+	["u_size"]=4.13,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageBottom.lua",
@@ -2927,8 +2929,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="c78397f111f1cc62d96f2a472a963f0b",
-	["u_size"]=60.73,
+	["u_md5"]="946daf623abe29639bbfecad9a50f7e4",
+	["u_size"]=62.09,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
@@ -3177,8 +3179,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyLayerView.lua",
-	["u_md5"]="08843b0d88f3edf000a53f1114fd4ec4",
-	["u_size"]=16.41,
+	["u_md5"]="d7eed1de86d1774a5c4695d0b32f8bc9",
+	["u_size"]=16.74,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyPtRecordLayerItem.lua",

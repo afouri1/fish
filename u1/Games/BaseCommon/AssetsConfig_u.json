@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.376",
-["packageSize"] = 1937,
-["date"] = "20181214",
+["version"] = "1.1.377",
+["packageSize"] = 1941,
+["date"] = "20181217",
 ["depends"] = {
 10002,
 10003,
@@ -18,8 +18,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/CommonFunc.lua",
-	["u_md5"]="c8c2eecc08bf1ff0fdb9053d9c0c7c9e",
-	["u_size"]=22.16,
+	["u_md5"]="6b4c01c1dae943ed7336313eed6cab11",
+	["u_size"]=22.41,
 	},
 {
 	["u_name"]="Games/BaseCommon/ErrorHandler.lua",
@@ -103,8 +103,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TYNode.lua",
-	["u_md5"]="62922fb06766302e004e1f30c07023fa",
-	["u_size"]=23.34,
+	["u_md5"]="1c36f6fa3fc04d4aee20c11ced3c018b",
+	["u_size"]=26.96,
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TaskManager.lua",
