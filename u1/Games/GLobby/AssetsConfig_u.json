@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.390",
+["version"] = "1.1.391",
 ["packageSize"] = 11028,
 ["date"] = "20181221",
 ["depends"] = {
@@ -2739,8 +2739,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerView.lua",
-	["u_md5"]="0a40acc3df5f2aec063c949f340f2a43",
-	["u_size"]=24.06,
+	["u_md5"]="f5b1e8f28e825ccd6b12bd15f2d1c7c4",
+	["u_size"]=24.21,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardProfitLayerItem.lua",
@@ -2854,8 +2854,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCreateCardLayerView.lua",
-	["u_md5"]="bd9c63a385f24d3715fd6222db63e96a",
-	["u_size"]=25.5,
+	["u_md5"]="a4dea105e28b3bb344a97ceab50a94a7",
+	["u_size"]=25.51,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCreateClubLayerMediator.lua",
