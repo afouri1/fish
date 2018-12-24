@@ -2,22 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.396",
-["packageSize"] = 35937,
-["date"] = "20181221",
+["version"] = "1.1.397",
+["packageSize"] = 36138,
+["date"] = "20181224",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.新增合伙人系统
-2.新增炮弹微信充值
-3.牌桌背景替换
-4.大厅图标新增特效
-5.游戏内新手指引修复
-6.手动锁定调整
-7.鱼王倍率修复
-8.体验场命中修复
-9.打死技能鱼携带金币处一次显示
-
+1.母包处理-黑屏
+2.包体新增闪屏页
+3.代理详情界面-代理删除也能显示
+4.牌局显示实际和总人数
+5.补充炮弹修复
+6.1000V币判断添加
+7.炮台位置调整
+8.加减炮资源替换、锁定资源替换
 ]],
 ["assets"] = {
 {
@@ -1371,6 +1369,11 @@ return {
 	["u_size"]=14.46,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/fontNum/paozhinum.png",
+	["u_md5"]="9495ea3916b576318f0ffa023d0922fc",
+	["u_size"]=4.54,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/fontNum/takenum.png",
 	["u_md5"]="2153d4a0b856c9aafcd64517f44d7339",
 	["u_size"]=3.35,
@@ -2107,8 +2110,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/coinbg.png",
-	["u_md5"]="7892f950bb6df24f48cb818d0bc2d5ba",
-	["u_size"]=2.73,
+	["u_md5"]="e2a0bbc16b7dee7e9d0f36b78b84fd01",
+	["u_size"]=3.82,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/coinicon_1.png",
@@ -2177,8 +2180,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/load/dntgtest_Loading_bg.jpg",
-	["u_md5"]="00799a604bf8c47c224479d044edcd06",
-	["u_size"]=167.11,
+	["u_md5"]="5e03e2fe1ab821ec2cc07235980280dd",
+	["u_size"]=347.81,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/load/loadingBg.png",
@@ -2537,23 +2540,18 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/lock/lock_Bg2.png",
-	["u_md5"]="301a68c10091daae38bc91871bc475b2",
-	["u_size"]=2.49,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/lock/lock_btnBg.png",
-	["u_md5"]="5df84b8b8659defbc455e69616402d83",
-	["u_size"]=2.32,
+	["u_md5"]="4620275ec6c21bcfe8c444712034b49d",
+	["u_size"]=3.45,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/lock/lock_changeBg.png",
-	["u_md5"]="309e5f2d53d512f7738a4e40bc657dd1",
-	["u_size"]=3.96,
+	["u_md5"]="29c823d6a51ef03ebc03faa66a1d2816",
+	["u_size"]=6.37,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/lock/lock_changeFIsh.png",
-	["u_md5"]="87a29a5941a0d581161ef029c0c895fb",
-	["u_size"]=3.92,
+	["u_md5"]="a5b9df161d1dfda1f39b21cffc89aa6a",
+	["u_size"]=3.86,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/lock/lock_lockBtn01.png",
@@ -2992,23 +2990,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/gun/jiaPao01.png",
-	["u_md5"]="35aeeea9370525bcb8393485940ddaeb",
-	["u_size"]=2.77,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/playerPlace/gun/jiaPao02.png",
-	["u_md5"]="4ef91277e99e9d38d760b3b95cf82eaf",
-	["u_size"]=2.56,
+	["u_md5"]="fbe8232f8da866966caf895c85f40ace",
+	["u_size"]=2.32,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/gun/jianPao01.png",
-	["u_md5"]="4656fc7c8f1c49314af7af38afcde839",
-	["u_size"]=2.79,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/playerPlace/gun/jianPao02.png",
-	["u_md5"]="15603fd76fdbb866324aae3f51852264",
-	["u_size"]=2.56,
+	["u_md5"]="12d4ded9fcf801299e5e50246145c022",
+	["u_size"]=2.1,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/gunBg.png",
@@ -3131,24 +3119,24 @@ return {
 	["u_size"]=151.98,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/playerPlace/playerSeat1.png",
-	["u_md5"]="ea88e738650dddbf8753363be86c08f8",
-	["u_size"]=3.99,
+	["u_name"]="Games/GDntg/res/game/playerPlace/playerSeat1_1.png",
+	["u_md5"]="767d550e6ace5b467998c0cf7e03ed4e",
+	["u_size"]=7.26,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/playerPlace/playerSeat2.png",
-	["u_md5"]="ea88e738650dddbf8753363be86c08f8",
-	["u_size"]=3.99,
+	["u_name"]="Games/GDntg/res/game/playerPlace/playerSeat1_2.png",
+	["u_md5"]="760f5d45a9c97e0cb04dfb2df0c8884c",
+	["u_size"]=7.87,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/playerPlace/playerSeat3.png",
-	["u_md5"]="54b36e32f44f13c614b7ac93b42ea071",
-	["u_size"]=8.1,
+	["u_name"]="Games/GDntg/res/game/playerPlace/playerSeat2_1.png",
+	["u_md5"]="0500e82ec4f65ebae69f2297dbde7892",
+	["u_size"]=14.14,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/playerPlace/playerSeat4.png",
-	["u_md5"]="6fa01559d3824898640c30c1f843d922",
-	["u_size"]=8.03,
+	["u_name"]="Games/GDntg/res/game/playerPlace/playerSeat2_2.png",
+	["u_md5"]="fd9d79acf71f6fb0cd2277f9acad4d49",
+	["u_size"]=14.88,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/selectGun/baiyin.png",
@@ -3392,7 +3380,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
+	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
 	["u_size"]=0.76,
 	},
 {
@@ -3597,8 +3585,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="05e4179d1828c6f34ec1357bec381735",
-	["u_size"]=30.76,
+	["u_md5"]="d512ee819a85090a790ae8f7c0c87306",
+	["u_size"]=30.88,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -3607,8 +3595,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerView.lua",
-	["u_md5"]="be76da6f26e253b2d799075896ce6deb",
-	["u_size"]=5.83,
+	["u_md5"]="69135c5fe9c66d4c3a86fa90172332ab",
+	["u_size"]=6.21,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSelectGun/GSelectGunMediator.lua",
@@ -3662,8 +3650,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIView.lua",
-	["u_md5"]="ea02a9d7a7330acea9121b65ebcc533a",
-	["u_size"]=7.16,
+	["u_md5"]="fb8e9d53d1d349e4b96b913bfa2923a4",
+	["u_size"]=7.18,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GNoviceGuideLayer.lua",
@@ -3702,8 +3690,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/atext.txt",
-	["u_md5"]="6d32ca6a3ca9b73be1d633534478d3c7",
-	["u_size"]=0.02,
+	["u_md5"]="c4ca4238a0b923820dcc509a6f75849b",
+	["u_size"]=0,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/AddGImageAsync.lua",
@@ -3722,8 +3710,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLoadingGame.lua",
-	["u_md5"]="5d3c5bde8aaafa33100f67437040fc66",
-	["u_size"]=5.03,
+	["u_md5"]="6635411f3d0a27b332ddaf53339ef60f",
+	["u_size"]=5.05,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
