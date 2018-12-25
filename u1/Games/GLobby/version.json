@@ -2,22 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.397",
-["packageSize"] = 11413,
-["date"] = "20181224",
+["version"] = "1.1.400",
+["packageSize"] = 11409,
+["date"] = "20181225",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.母包处理-黑屏
-2.包体新增闪屏页
-3.代理详情界面-代理删除也能显示
-4.牌局显示实际和总人数
-5.补充炮弹修复
-6.1000V币判断添加
-7.炮台位置调整
-8.加减炮资源替换、锁定资源替换
+1.推广系统去掉我的收益
+2.微信不能登录
+3.上分管理可设置多个修复
+4.推广员排版问题
+5.分成比例显示修复
+6.脚本报错修复
+7.参数错误修复
+8.总投注看不见修复
 ]],
 ["assets"] = {} 
 }
