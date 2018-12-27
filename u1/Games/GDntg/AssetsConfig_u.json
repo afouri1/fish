@@ -2,14 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.402",
-["packageSize"] = 36151,
-["date"] = "20181226",
+["version"] = "1.1.401",
+["packageSize"] = 36154,
+["date"] = "20181227",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-协议更新
-
+1.推广员分享
+2.新手命中调整
+3.大厅切换问题修复
+4.V币显示修改
+5.推广员修复
+6.牌桌背景替换
 ]],
 ["assets"] = {
 {
@@ -29,7 +33,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/Panel_set.json",
-	["u_md5"]="8c49d942b6644574b1d297e46e397b43",
+	["u_md5"]="87b8006ba8d545e963375fba6d087d3a",
 	["u_size"]=18.19,
 	},
 {
@@ -3389,7 +3393,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
+	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
 	["u_size"]=0.76,
 	},
 {
@@ -3674,8 +3678,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerView.lua",
-	["u_md5"]="a5b4a00d2f8ba0cedabb116d24d06f3d",
-	["u_size"]=13.54,
+	["u_md5"]="98c842d2a6e0625da899bd639f34d1bf",
+	["u_size"]=15.48,
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/DntgEvent.lua",
@@ -3759,8 +3763,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",
-	["u_md5"]="9c80d932abcdd8146ffa0fc2104e166d",
-	["u_size"]=11.72,
+	["u_md5"]="4dce76faceffc7ad6f21ca82a843dc10",
+	["u_size"]=12.58,
 	},
 } 
 }
