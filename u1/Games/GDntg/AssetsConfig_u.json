@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.403",
-["packageSize"] = 36154,
+["version"] = "1.1.412",
+["packageSize"] = 36505,
 ["date"] = "20181227",
 ["depends"] = {
 },
@@ -78,6 +78,11 @@ return {
 	["u_size"]=155.34,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/bg/Map_2.png",
+	["u_md5"]="c5e025144457ebde0c051a78f885ee8c",
+	["u_size"]=175.25,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/bg/Map_3_1.png",
 	["u_md5"]="d854221b691833af0246a7102989eb06",
 	["u_size"]=312.74,
@@ -91,6 +96,11 @@ return {
 	["u_name"]="Games/GDntg/res/game/bg/Map_4.jpg",
 	["u_md5"]="c761c267ca0df89e4dc3b3ce1f5c563e",
 	["u_size"]=158.55,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/bg/Map_4.png",
+	["u_md5"]="c5e025144457ebde0c051a78f885ee8c",
+	["u_size"]=175.25,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/bgboard_1_1.png",
@@ -3449,8 +3459,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
-	["u_md5"]="344d70fc784c67ce419fd6f7523c471f",
-	["u_size"]=5.46,
+	["u_md5"]="c96e41c770179f338ee8ca17ea517bb5",
+	["u_size"]=5.44,
 	},
 {
 	["u_name"]="Games/GDntg/src/GBulletLayer/GBulletLayerMediator.lua",
@@ -3699,8 +3709,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/ScriptConfig.lua",
-	["u_md5"]="b75306c7ee37ec25b44500f809877fea",
-	["u_size"]=2.63,
+	["u_md5"]="16c373e6ee79160111e71c74170aa654",
+	["u_size"]=2.67,
 	},
 {
 	["u_name"]="Games/GDntg/src/atext.txt",

@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.403",
+["version"] = "1.1.412",
 ["packageSize"] = 1950,
 ["date"] = "20181227",
 ["depends"] = {
@@ -88,8 +88,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/Sandbox.lua",
-	["u_md5"]="f6a98216ed52aeff6513fbaaccd7645a",
-	["u_size"]=4.27,
+	["u_md5"]="f9104a8ab401c5e227ee85f1315d904b",
+	["u_size"]=4.42,
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TYConst.lua",
@@ -113,8 +113,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/class_type.lua",
-	["u_md5"]="b979a33a7dce73fbe51e03b5b3237c91",
-	["u_size"]=3.36,
+	["u_md5"]="0e9fc9d132d99612542244ee9dc81c5f",
+	["u_size"]=3.39,
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/init.lua",
@@ -243,8 +243,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/DeviceUtil.lua",
-	["u_md5"]="1a2ebc7228325874b33fb5f11e740139",
-	["u_size"]=10.38,
+	["u_md5"]="7a6c6908f5a479aa308bc68f07caa54b",
+	["u_size"]=10.4,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/GCommon.lua",
