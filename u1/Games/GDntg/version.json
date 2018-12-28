@@ -2,19 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.412",
-["packageSize"] = 36505,
-["date"] = "20181227",
+["version"] = "1.1.413",
+["packageSize"] = 36611,
+["date"] = "20181228",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.推广员分享
-2.新手命中调整
-3.大厅切换问题修复
-4.V币显示修改
-5.推广员修复
-6.牌桌背景替换
-
+1.新增复制粘贴“码”功能
+2.微信不能登录修复
+3.新手命中优化
+4.盈亏报表控制默认不开发
+5.推广员问题修复
+6.分享说明新增4条
+7.手动开炮不连贯修复
+8.闪退部分修复
+9.创始人一键邀请
+10.管理人员可同时上下分
 ]],
 ["assets"] = {} 
 }

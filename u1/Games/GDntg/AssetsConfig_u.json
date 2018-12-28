@@ -2,19 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.412",
-["packageSize"] = 36505,
-["date"] = "20181227",
+["version"] = "1.1.413",
+["packageSize"] = 36611,
+["date"] = "20181228",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.推广员分享
-2.新手命中调整
-3.大厅切换问题修复
-4.V币显示修改
-5.推广员修复
-6.牌桌背景替换
-
+1.新增复制粘贴“码”功能
+2.微信不能登录修复
+3.新手命中优化
+4.盈亏报表控制默认不开发
+5.推广员问题修复
+6.分享说明新增4条
+7.手动开炮不连贯修复
+8.闪退部分修复
+9.创始人一键邀请
+10.管理人员可同时上下分
 ]],
 ["assets"] = {
 {
@@ -78,11 +81,6 @@ return {
 	["u_size"]=155.34,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/bg/Map_2.png",
-	["u_md5"]="c5e025144457ebde0c051a78f885ee8c",
-	["u_size"]=175.25,
-	},
-{
 	["u_name"]="Games/GDntg/res/game/bg/Map_3_1.png",
 	["u_md5"]="d854221b691833af0246a7102989eb06",
 	["u_size"]=312.74,
@@ -96,11 +94,6 @@ return {
 	["u_name"]="Games/GDntg/res/game/bg/Map_4.jpg",
 	["u_md5"]="c761c267ca0df89e4dc3b3ce1f5c563e",
 	["u_size"]=158.55,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/bg/Map_4.png",
-	["u_md5"]="c5e025144457ebde0c051a78f885ee8c",
-	["u_size"]=175.25,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/bgboard_1_1.png",
@@ -1429,43 +1422,43 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/bingda.plist",
-	["u_md5"]="4494749f86603c4d30c2e979ee6a76ce",
-	["u_size"]=9.66,
+	["u_md5"]="dac6f541668ec2cfff11b6d40813c81f",
+	["u_size"]=9.65,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/bingda.png",
-	["u_md5"]="d0e212a02cadcb06678b83740c5ede0a",
-	["u_size"]=510.31,
+	["u_md5"]="843215bcbaff29179cf65c0583d61ef1",
+	["u_size"]=557.02,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/bingxiao.plist",
-	["u_md5"]="a0f6db41d277002bf54ff658bd3eed1a",
-	["u_size"]=9.7,
+	["u_md5"]="b23218713f4122afd57a3eff63824f4c",
+	["u_size"]=9.69,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/bingxiao.png",
-	["u_md5"]="18b9a1f74041bf491d9dac6c2894a27c",
-	["u_size"]=300.26,
+	["u_md5"]="f82868f1d6a6082906282290051914db",
+	["u_size"]=325.63,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/bingzhong.plist",
-	["u_md5"]="82a9b7efb229cbc4222af7e754f6e017",
-	["u_size"]=9.71,
+	["u_md5"]="f899d408bfeb254592f2be815cad8c34",
+	["u_size"]=9.7,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/bingzhong.png",
-	["u_md5"]="728d8a8b319e76c66c3088043fb0e4fd",
-	["u_size"]=181.22,
+	["u_md5"]="5dab4525e8326490fdc7a2a1c872cc71",
+	["u_size"]=194.85,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/dashandian.plist",
-	["u_md5"]="92efb2708e07cb930b410ed5809c53c7",
+	["u_md5"]="67a72da8dbba6ec51051b6566c40c88d",
 	["u_size"]=3.58,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/dashandian.png",
-	["u_md5"]="00d01254ea449bc7a7fc4de6ef54fb6f",
-	["u_size"]=96.25,
+	["u_md5"]="c0c7ba925d19634c237093f9b60b5140",
+	["u_size"]=99.78,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/dian_1.plist",
@@ -1499,73 +1492,53 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_1.plist",
-	["u_md5"]="d3519b229ebe5399745f9d1a9f52dfb6",
-	["u_size"]=2.05,
+	["u_md5"]="bd29f50f0b560370ca0648a151fe29d5",
+	["u_size"]=2.6,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_1.png",
-	["u_md5"]="8f5d01f3f6516944aaeb346dba486cfc",
-	["u_size"]=276.18,
+	["u_md5"]="6ec374373eb476b46298a7b2647d9694",
+	["u_size"]=459.94,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_2.plist",
-	["u_md5"]="654e71d401cd3a243f0f03abfb213037",
-	["u_size"]=2.05,
+	["u_md5"]="a1351bbfaa550aebaa8371c3ebccf426",
+	["u_size"]=2.6,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_2.png",
-	["u_md5"]="c175c26e0f065459189b27c9cd867e66",
-	["u_size"]=372.83,
+	["u_md5"]="942b1669b372c8bd208e39d829354958",
+	["u_size"]=569.58,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_3.plist",
-	["u_md5"]="ddbfc740de327a0f8d34f663b4e0ee9c",
-	["u_size"]=2.05,
+	["u_md5"]="cbb2bdee44b1707f417e5dd3938c7101",
+	["u_size"]=2.6,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_3.png",
-	["u_md5"]="5ee759a4629892f538694628cacafb13",
-	["u_size"]=381.97,
+	["u_md5"]="0034e2b176313808af655f47ec4cb831",
+	["u_size"]=613.38,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_4.plist",
-	["u_md5"]="3a9414151d27bac414f455fb13d92f7a",
-	["u_size"]=2.05,
+	["u_md5"]="ecd199d01fb4e7c3214e1684a7b805b3",
+	["u_size"]=2.6,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_4.png",
-	["u_md5"]="8a83ee4caa9f868bba5dd91280e08ed1",
-	["u_size"]=414.22,
+	["u_md5"]="d095924ee9af09833f258d403330a171",
+	["u_size"]=520.43,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_5.plist",
-	["u_md5"]="e6fdbd82dec83203dacd608f10e7d683",
+	["u_md5"]="ed1185761911b85363626b3a1e393cac",
 	["u_size"]=2.05,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_5.png",
-	["u_md5"]="f619d72b702ac4ef8a755f1cb7d7390b",
-	["u_size"]=386.86,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_6.plist",
-	["u_md5"]="6f6787fb8033ed69a219dd88ca25fd84",
-	["u_size"]=2.05,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_6.png",
-	["u_md5"]="ffe12bbdf3865625817a750b97f2046c",
-	["u_size"]=331.9,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_7.plist",
-	["u_md5"]="01c7d35b41d168914135ad4aefa6de53",
-	["u_size"]=2.05,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/fenghuolun_7.png",
-	["u_md5"]="8622306e9a1d9e8615312f9201e566d4",
-	["u_size"]=116.21,
+	["u_md5"]="7641c1e3b9a525caea29f8a126960908",
+	["u_size"]=142.18,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jiguang.plist",
@@ -1579,283 +1552,253 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jindabaodian_1.plist",
-	["u_md5"]="6b35a8b2fbd0ceb225e93dd4378c88d5",
-	["u_size"]=3.18,
+	["u_md5"]="5adb11565747e94f69683a64f0e46372",
+	["u_size"]=3.15,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jindabaodian_1.png",
-	["u_md5"]="c80f181d5da7f351b2a83d9b2c6b96e5",
-	["u_size"]=291.12,
+	["u_md5"]="59a2dedf7afdcee8bc0b22c223759572",
+	["u_size"]=293.11,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jindabaodian_2.plist",
-	["u_md5"]="e90d7506dc76ec7c5d8c102da2817621",
-	["u_size"]=3.18,
+	["u_md5"]="497090473cb5db294cfe230f604e4dfc",
+	["u_size"]=3.15,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jindabaodian_2.png",
-	["u_md5"]="86e114287b03c8995679d7ee59c04ea7",
-	["u_size"]=295.17,
+	["u_md5"]="19f512fe3df4e22a674da857db10d20f",
+	["u_size"]=292.37,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jindabaodian_3.plist",
-	["u_md5"]="d93472c720d87b6b0082539cfd57cb0b",
-	["u_size"]=1.51,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jindabaodian_3.png",
-	["u_md5"]="15a6a67682ab08d8d96028c3df416277",
-	["u_size"]=5.82,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jinfenxing.plist",
-	["u_md5"]="696f5d1ceae43d8ef0b3ed43ccb00640",
-	["u_size"]=3.14,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jinfenxing.png",
-	["u_md5"]="15a6434b78c01f45081e948904edde01",
-	["u_size"]=42.45,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_1.plist",
-	["u_md5"]="5ddbeb4f35597cf56d8b28799a3e9fae",
-	["u_size"]=2.05,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_1.png",
-	["u_md5"]="e734273ff3f60d5e374ae6ce27df69e3",
-	["u_size"]=316.26,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_2.plist",
-	["u_md5"]="833edbd226dd21c7681390eb811ec025",
-	["u_size"]=2.05,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_2.png",
-	["u_md5"]="2d73dc79c24ebfb87d2a1ef9fbe0d9bd",
-	["u_size"]=387.7,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_3.plist",
-	["u_md5"]="f6285a46fb77cd3b23e7d45e22e7c35c",
-	["u_size"]=2.05,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_3.png",
-	["u_md5"]="af346edd0b429ef678282e708e8d9692",
-	["u_size"]=360.98,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_4.plist",
-	["u_md5"]="23e844fda70965e8dc0e49b387e8f1a0",
-	["u_size"]=2.05,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_4.png",
-	["u_md5"]="655b53af4458ab2392767cf1dd4b9982",
-	["u_size"]=199.82,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_5.plist",
-	["u_md5"]="27ad89a1cd6481afd3177076be614467",
-	["u_size"]=2.05,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_5.png",
-	["u_md5"]="6da1bd8b9785491481170e9d2927f802",
-	["u_size"]=137.58,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_6.plist",
-	["u_md5"]="d1b64f26a1899fe8c37092c4fe6a785c",
-	["u_size"]=2.05,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_6.png",
-	["u_md5"]="d8db04ee27c0dba38062e22458213786",
-	["u_size"]=78.94,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_7.plist",
-	["u_md5"]="457a141fae3be514fca97e1ef5ffa276",
+	["u_md5"]="a725fe060f2bc8c7f4e116bd1a63f2fb",
 	["u_size"]=1.5,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_7.png",
-	["u_md5"]="14850966341c58fb77f9bb12e8cdaf54",
-	["u_size"]=11.74,
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jindabaodian_3.png",
+	["u_md5"]="99ad57414aa488da194fdc0251e7f8c3",
+	["u_size"]=6.33,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jinfenxing.plist",
+	["u_md5"]="a552111a8877d9fa0bb26e499c0d600b",
+	["u_size"]=3.12,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jinfenxing.png",
+	["u_md5"]="56d27ac15827420334a4aee5e51839f0",
+	["u_size"]=40.02,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_1.plist",
+	["u_md5"]="e2b1cf61c26759699fbee8190c6615e5",
+	["u_size"]=3.14,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_1.png",
+	["u_md5"]="0d298744061ec177bcec3dbd46846315",
+	["u_size"]=702.79,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_2.plist",
+	["u_md5"]="91acfa1448a184c6d10ccf5d0263ae78",
+	["u_size"]=3.14,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_2.png",
+	["u_md5"]="ac26875d3714443671b555a8bf294d74",
+	["u_size"]=586.22,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_3.plist",
+	["u_md5"]="3a65f6bb923b3f2acd497fa4b956d383",
+	["u_size"]=3.14,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_3.png",
+	["u_md5"]="32429ea9598552cd02bd923b0e44535b",
+	["u_size"]=323.2,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_4.plist",
+	["u_md5"]="ce630af195ba6da393542e3fe29412a4",
+	["u_size"]=1.5,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_4.png",
+	["u_md5"]="05ec0265c25f10adf73d521b615ae1eb",
+	["u_size"]=14.21,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jinxiaobaodian.plist",
-	["u_md5"]="2f86616a7dd6d8a35e4005aa0dd25eeb",
+	["u_md5"]="91a05c7ba7d3d9b9f72ed5a531360360",
 	["u_size"]=4.26,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jinxiaobaodian.png",
-	["u_md5"]="241f5eba0f6950e57f0f67563eddb946",
-	["u_size"]=43.6,
+	["u_md5"]="cc5790f7b27acd51f65ea781894808c4",
+	["u_size"]=41.52,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanbaodadian.plist",
-	["u_md5"]="c50cd56c5648a3e25976c9a94ea08796",
+	["u_md5"]="c590391270110c95123a9b9edebc1507",
 	["u_size"]=11.53,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanbaodadian.png",
-	["u_md5"]="217b68202234f5c989011f827a0cff7d",
-	["u_size"]=243.38,
+	["u_md5"]="825c60bb3f9bbd4e07130a7b23aa3625",
+	["u_size"]=246.34,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanfeixing.plist",
-	["u_md5"]="32fe9c71539e10a24f92e715f69611c5",
+	["u_md5"]="fde12b40607a19eecb11d413315bd1b3",
 	["u_size"]=11.35,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanfeixing.png",
-	["u_md5"]="477a97bbf4d624f4d2882166f3be60fd",
-	["u_size"]=7.97,
+	["u_md5"]="c768ad84b4b4a8c469e40e3ff2365dd7",
+	["u_size"]=8.89,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanxiaobaodian.plist",
-	["u_md5"]="8d65f5382a1abb2e032fbed23c515df2",
-	["u_size"]=11.52,
+	["u_md5"]="53eb48bd1b9f31638a6ac0296979c76b",
+	["u_size"]=11.51,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/sanxiaobaodian.png",
-	["u_md5"]="8834ab0157b3d6e6a5449eb37ab8ede1",
-	["u_size"]=63.68,
+	["u_md5"]="aa14e70d6c19bff666705024a51fcedc",
+	["u_size"]=64.01,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.plist",
-	["u_md5"]="1de2b6a0c3e417947d5e6e851b8c2349",
+	["u_md5"]="d186ae33281f678a4f1d5eb8e21db2ed",
 	["u_size"]=6.41,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.png",
-	["u_md5"]="3387816ed919b09b8d5c8246768d3f91",
-	["u_size"]=156.28,
+	["u_md5"]="5b22c972c45ce2f2ab62f16e00319f9b",
+	["u_size"]=162.43,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_2.plist",
-	["u_md5"]="dee4e7eccd8fc6da5aee3a66fa7c3c3a",
-	["u_size"]=9.38,
+	["u_md5"]="4cd6fb7867d2369ca2842c92c449d597",
+	["u_size"]=9.36,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_2.png",
-	["u_md5"]="23d32b364f489de8cc7dcb18bfa64c42",
-	["u_size"]=87.51,
+	["u_md5"]="094644a880c83cc6d8f8047b6e69e509",
+	["u_size"]=83.46,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_1.plist",
-	["u_md5"]="51a857f5e8b3992063ff3411a87b1c4a",
+	["u_md5"]="e2bbd560f1427164303f27db6e86188f",
 	["u_size"]=2.05,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_1.png",
-	["u_md5"]="5330797e1a66d63e23284559ee4c7633",
-	["u_size"]=191.11,
+	["u_md5"]="3ecf471b2af5712002938ef6e56fe21b",
+	["u_size"]=196.63,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_2.plist",
-	["u_md5"]="b5c583acc8654708beddbeb705aec63d",
+	["u_md5"]="2aa1f13c4e1e2686bcbcf4a930801e77",
 	["u_size"]=2.05,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_2.png",
-	["u_md5"]="d9413c3e95a380de987f50d23c261c36",
-	["u_size"]=422.16,
+	["u_md5"]="a57381ee5f303b2dbf980235b1e2af3e",
+	["u_size"]=430.82,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_3.plist",
-	["u_md5"]="d84c93f72ec2d5dd333e264da2033232",
+	["u_md5"]="3bc0ec5b5bf738cfa3755261174fdd12",
 	["u_size"]=2.05,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_3.png",
-	["u_md5"]="868f7d44a8e471633577c98c309d3664",
-	["u_size"]=489.62,
+	["u_md5"]="caed66546a775f25d85ab22eed909877",
+	["u_size"]=499.3,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_4.plist",
-	["u_md5"]="fc17326b29a6005ceecc5c5f7debdfa1",
+	["u_md5"]="12d7be3cec37b8041a5694de6a2815b2",
 	["u_size"]=2.05,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_4.png",
-	["u_md5"]="16323c9f1f383f5dd4253327155036a5",
-	["u_size"]=514.45,
+	["u_md5"]="6f8faa537b72fa183b708281340a99cf",
+	["u_size"]=527.47,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_5.plist",
-	["u_md5"]="64ae13841024296aad63acc67fd36cf1",
+	["u_md5"]="55024275e2ebab202d7d2edbfb9e2e0e",
 	["u_size"]=2.05,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_5.png",
-	["u_md5"]="6074652c3a6fe4a248a9e05d57884668",
-	["u_size"]=522.6,
+	["u_md5"]="c111b3518bf7cb5ca0d30216903d2f71",
+	["u_size"]=541.65,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_6.plist",
-	["u_md5"]="19a1e433afb833621d9df657dc00fd82",
+	["u_md5"]="efe32c0e0c8c676f6d73ecedb2328c0b",
 	["u_size"]=2.05,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_6.png",
-	["u_md5"]="08bbd36908993b39b38ea2451c1eabd6",
-	["u_size"]=432.36,
+	["u_md5"]="91c0da78b902457f381649498d066679",
+	["u_size"]=458.16,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_7.plist",
-	["u_md5"]="de67fa005ee99c086e86828ddd955b26",
+	["u_md5"]="1ba492eb9230d8e376ac1c942b07de1d",
 	["u_size"]=2.05,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_7.png",
-	["u_md5"]="3f9229e7d44516edcef62d01ac6950ab",
-	["u_size"]=353.05,
+	["u_md5"]="f2a23b858c774d53164ed02031c26eaa",
+	["u_size"]=384.03,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_8.plist",
-	["u_md5"]="900d79c88c7c8fcb7e53768aca6f871a",
+	["u_md5"]="45b93708a150d107bb50e7534098686b",
 	["u_size"]=2.05,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_8.png",
-	["u_md5"]="1736380de597e7d09bb15bdd328f922c",
-	["u_size"]=390.65,
+	["u_md5"]="cc0eebbab0e7af60f08d81ebb49d77c2",
+	["u_size"]=464.44,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/xiaoshandian.plist",
-	["u_md5"]="d3b907cc8067f00a76ecebfdf4fd95b0",
+	["u_md5"]="f1e2c7cf9102299187662e4eef0b083b",
 	["u_size"]=6.28,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/xiaoshandian.png",
-	["u_md5"]="33cce06800ab0a6fab2cf65fb3018eb9",
-	["u_size"]=187.57,
+	["u_md5"]="d740145ec682618f0cfeba69179532fa",
+	["u_size"]=198.05,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yidabaodian.plist",
-	["u_md5"]="a7e11b564aba4b630765a3f3ed56621e",
+	["u_md5"]="268afea5eeaaadcb4c4d81ae90dc9af9",
 	["u_size"]=11.57,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yidabaodian.png",
-	["u_md5"]="39b79b33b126676ee426ea0bb0fd44ef",
-	["u_size"]=373.39,
+	["u_md5"]="265230aa631f598ed3dfdc2f145b91bd",
+	["u_size"]=383.85,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yifeixing.plist",
-	["u_md5"]="3afb30af6a8b7cb0afab4c2ae5b22a82",
-	["u_size"]=11.33,
+	["u_md5"]="52a63cf287b5f8296d03db56a71d0878",
+	["u_size"]=11.37,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yifeixing.png",
-	["u_md5"]="65c9bf6c46cb8b8eecbc3e1d07769af8",
-	["u_size"]=22.99,
+	["u_md5"]="8c5b4a97472683d9b135a22b310c2fda",
+	["u_size"]=27.7,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yixiaobaodian.plist",
@@ -3404,7 +3347,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
+	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
 	["u_size"]=0.76,
 	},
 {
@@ -3604,8 +3547,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="bda2cca314171d0a955ff722816455f7",
-	["u_size"]=16.23,
+	["u_md5"]="801a6d16bb1aaa612a98bda685aa5713",
+	["u_size"]=16.26,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
