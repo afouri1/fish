@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.413",
+["version"] = "1.1.414",
 ["packageSize"] = 36611,
 ["date"] = "20181228",
 ["depends"] = {
@@ -3317,8 +3317,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="1940b8e1bf25353adbdafd5160c5fb30",
-	["u_size"]=32.52,
+	["u_md5"]="90106f31cb9980aaa2f8e5e0e786656f",
+	["u_size"]=32.47,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3347,7 +3347,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
+	["u_md5"]="7092426863d32eb0279a4d3d7b1f1962",
 	["u_size"]=0.76,
 	},
 {
@@ -3362,8 +3362,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="c7895c115b2eecd44f692f380cc376b1",
-	["u_size"]=9.83,
+	["u_md5"]="5cb3e77b7f94b9f96919b98b44dca36e",
+	["u_size"]=9.84,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/correctfactor.lua",
@@ -3372,12 +3372,12 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="bb55173d55a18a1d45a1b3f9dcd203b1",
-	["u_size"]=88.81,
+	["u_md5"]="7edcda64fb97c099fde3f6372a66c56f",
+	["u_size"]=88.74,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="648d25e9620db124b05d6109956b6066",
+	["u_md5"]="f1462397ef5fb0ad798264c1be015721",
 	["u_size"]=2.71,
 	},
 {
