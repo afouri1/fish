@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.414",
+["version"] = "1.1.416",
 ["packageSize"] = 36611,
 ["date"] = "20181228",
 ["depends"] = {
@@ -3347,7 +3347,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="7092426863d32eb0279a4d3d7b1f1962",
+	["u_md5"]="4dbf72ddfd40e4331a067bd2ac1d361c",
 	["u_size"]=0.76,
 	},
 {
@@ -3362,8 +3362,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="5cb3e77b7f94b9f96919b98b44dca36e",
-	["u_size"]=9.84,
+	["u_md5"]="2e1498fd74f339801f912f6fe2aa801a",
+	["u_size"]=9.88,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/correctfactor.lua",
@@ -3377,8 +3377,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="f1462397ef5fb0ad798264c1be015721",
-	["u_size"]=2.71,
+	["u_md5"]="f76024b1b748d1a5d449ecfd3a9a064f",
+	["u_size"]=2.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",

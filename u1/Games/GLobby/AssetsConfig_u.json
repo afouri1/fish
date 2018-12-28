@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.414",
-["packageSize"] = 11638,
+["version"] = "1.1.416",
+["packageSize"] = 11645,
 ["date"] = "20181228",
 ["depends"] = {
 10001,
@@ -1368,6 +1368,11 @@ return {
 	["u_size"]=1.32,
 	},
 {
+	["u_name"]="Games/GLobby/res/club/proSys/txt_sdbd.png",
+	["u_md5"]="9a25ba79688d5ecaacd3e9605741471c",
+	["u_size"]=4.59,
+	},
+{
 	["u_name"]="Games/GLobby/res/club/profitReport/baipao.png",
 	["u_md5"]="522984bf7be68cd975c7a8b23b3ff00b",
 	["u_size"]=0.63,
@@ -1879,8 +1884,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/proSys/dntg_lobby_bind_pro.json",
-	["u_md5"]="39e5696b7ef2bd6d3662b92da507d29b",
-	["u_size"]=13.47,
+	["u_md5"]="95d040222498ff53022ec2eb5f112fb5",
+	["u_size"]=15.34,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/proSys/dntg_lobby_extract_details.json",
@@ -3329,8 +3334,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/location/GLobbyKeyInviteLayerView.lua",
-	["u_md5"]="d1817f8c8384eebc8ce8e3c93e4c84e6",
-	["u_size"]=2.46,
+	["u_md5"]="1d1d50f10f9ab883cc16fec18f1475e4",
+	["u_size"]=2.47,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/location/GLobbySelectAddrLayerItem.lua",
@@ -3619,8 +3624,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubMemberListData.lua",
-	["u_md5"]="5720787c29c05be02ca7545232617120",
-	["u_size"]=8.86,
+	["u_md5"]="2dcceb4f65dfa9f39e18475f943c1dcd",
+	["u_size"]=9.27,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubRoomListData.lua",
