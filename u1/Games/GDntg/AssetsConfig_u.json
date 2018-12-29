@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.418",
-["packageSize"] = 36608,
+["version"] = "1.1.419",
+["packageSize"] = 36617,
 ["date"] = "20181229",
 ["depends"] = {
 },
@@ -2426,6 +2426,11 @@ return {
 	["u_size"]=3.16,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/gameUi/zhuan_pan/txt_29.png",
+	["u_md5"]="2847fbcb52f7ef11716ad752ebdcaab5",
+	["u_size"]=3.23,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/gameUi/zhuan_pan/txt_30.png",
 	["u_md5"]="a0a4c47a2fe7e70d4698aac56c2f391e",
 	["u_size"]=2.76,
@@ -2454,6 +2459,11 @@ return {
 	["u_name"]="Games/GDntg/res/game/gameUi/zhuan_pan/txt_35.png",
 	["u_md5"]="fe8690fed3bfa27690aa09fe4aeb7335",
 	["u_size"]=3.65,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameUi/zhuan_pan/txt_36.png",
+	["u_md5"]="a58a108152239a1dfc6f3dee28324c09",
+	["u_size"]=5.84,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/zhuan_pan/zhuanpan.plist",
@@ -3552,8 +3562,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="d512ee819a85090a790ae8f7c0c87306",
-	["u_size"]=30.88,
+	["u_md5"]="4b5bb172beade846ae681235c7c79237",
+	["u_size"]=30.89,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -3597,7 +3607,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillMediator.lua",
-	["u_md5"]="b388cd35eed42631974ea2674e83d1fa",
+	["u_md5"]="13954ab191a0a5bf54b51cd0a107f228",
 	["u_size"]=15.99,
 	},
 {
