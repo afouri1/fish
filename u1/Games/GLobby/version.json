@@ -2,27 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.423",
-["packageSize"] = 11650,
-["date"] = "20181229",
+["version"] = "1.1.426",
+["packageSize"] = 11654,
+["date"] = "20190102",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.进游戏加载界面新增logo
-2.炮台旋转位置调整
-3.初中高三个场次的背景替换
-4.新增推广员
-5.管理员权限修改
-6.大厅界面调整
-7.新增闪屏页
-8.命中调整优化
-9.场次准入门槛调整
-10.推广员/创始人分享邀请
-11.大圣闹海和定屏炸弹倍率修改为30倍
-12.新增渔厅列表/定位
-13.大厅及游戏内已知BUG修复
+1.修复大厅图标点击无反应
+2.输入框数字居中修复
+3.修复前端炮弹显示不同步
+4.小蓝鲨碰撞区域修复
+5.成员管理界面在线离线玩家排列修复
+6.输入申请码界面修复
+7.金币同步刷新修复
+8.大厅部分压后台异常修复
 ]],
 ["assets"] = {} 
 }
