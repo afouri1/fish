@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.430",
-["packageSize"] = 11657,
-["date"] = "20190103",
+["version"] = "1.1.431",
+["packageSize"] = 11670,
+["date"] = "20190104",
 ["depends"] = {
 10001,
 1001,
@@ -15,6 +15,11 @@ return {
 3.合伙人数据刷新修复
 4.代理界面会出现闪动问题
 5.逐出渔场的需要去掉绑定
+6.俱乐部聊天屏蔽
+7.充值界面选择问题
+8.GM后台炮弹消耗，精确查找
+9.自动退出/界面红色遮罩修复
+10.新的微信登录/充值替换
 ]],
 ["assets"] = {
 {
@@ -24,8 +29,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="b0355809399cc91221bd35ca959cf0e4",
-	["u_size"]=17.64,
+	["u_md5"]="14728059bb38fafe6e3bc46c099bc283",
+	["u_size"]=17.98,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -1684,8 +1689,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_member_item.json",
-	["u_md5"]="a8c877a555c7638b284283d69dc38f32",
-	["u_size"]=24.53,
+	["u_md5"]="71b82ac424af513086f2e5ac3c2cfe25",
+	["u_size"]=30.96,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_member_manage.json",
@@ -2053,6 +2058,11 @@ return {
 	["u_size"]=0.81,
 	},
 {
+	["u_name"]="Games/GLobby/res/common/nan.png",
+	["u_md5"]="9ac44a4c8b0d1cd56e6e711776626aa2",
+	["u_size"]=1.8,
+	},
+{
 	["u_name"]="Games/GLobby/res/common/nav.png",
 	["u_md5"]="65776e1a885502f25ecce7bd5521fffa",
 	["u_size"]=0.1,
@@ -2061,6 +2071,11 @@ return {
 	["u_name"]="Games/GLobby/res/common/noTimeDate.png",
 	["u_md5"]="9e55f5fe06fda60d2a2ea23bd47cd0f5",
 	["u_size"]=4.79,
+	},
+{
+	["u_name"]="Games/GLobby/res/common/nv.png",
+	["u_md5"]="3d5a3b3de080c07b15e24099bc5f1706",
+	["u_size"]=1.78,
 	},
 {
 	["u_name"]="Games/GLobby/res/common/paomadeng_img.png",
@@ -3079,8 +3094,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerView.lua",
-	["u_md5"]="7e6b27dac486f74f445f0d8619669353",
-	["u_size"]=31.67,
+	["u_md5"]="4e3b8b5b39e533844ab196414643c395",
+	["u_size"]=31.84,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerMediator.lua",
@@ -3229,8 +3244,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberManageLayerItem.lua",
-	["u_md5"]="850c3a3c951b37e282085b399eb85ef7",
-	["u_size"]=10.15,
+	["u_md5"]="121eeb5cb1659e459bf48b0c5865c832",
+	["u_size"]=10.73,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberManageLayerMediator.lua",
@@ -3604,7 +3619,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/YaYaVoiceManage.lua",
-	["u_md5"]="5f122a72e8c4ccf6a72c68b5cf172a0f",
+	["u_md5"]="15d83c48c20a73d38dbe348c2692a986",
 	["u_size"]=11.86,
 	},
 {
@@ -3634,8 +3649,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubMemberListData.lua",
-	["u_md5"]="8359dbde838258054ead5f472243390f",
-	["u_size"]=9.42,
+	["u_md5"]="2be6b64479e8cf4ce28eeb7e3476ac92",
+	["u_size"]=9.46,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubRoomListData.lua",
@@ -3764,8 +3779,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyGoldLayerView.lua",
-	["u_md5"]="5c4896425bf8c64d11b5ffa0f57fa7c2",
-	["u_size"]=1.82,
+	["u_md5"]="5408982fe9058829249f71e8d4f85e9c",
+	["u_size"]=1.92,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyLayerMediator.lua",
@@ -3774,8 +3789,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyLayerView.lua",
-	["u_md5"]="99cd73b10aa7458a0a476be8694564a9",
-	["u_size"]=17.4,
+	["u_md5"]="2b623b879d003c02d0742b1bc9889e7e",
+	["u_size"]=17.51,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyPtRecordLayerItem.lua",
@@ -3809,8 +3824,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Basis.pb",
-	["u_md5"]="7009801b900d0c876c2e51cb837bccb3",
-	["u_size"]=2.06,
+	["u_md5"]="a38b43fcac59670cc4cea2581febb582",
+	["u_size"]=2.08,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Cmd.pb",
@@ -3834,8 +3849,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/s2c.pb",
-	["u_md5"]="bcd1ba1eae20a3ac7634d25c1bd3a51a",
-	["u_size"]=1.17,
+	["u_md5"]="e095d86a0d197b3e4bb0cbc1e7a592bb",
+	["u_size"]=1.24,
 	},
 {
 	["u_name"]="Games/GLobby/src/recharge/GLobbyRechargeLayerMediator.lua",
@@ -3844,8 +3859,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/recharge/GLobbyRechargeLayerView.lua",
-	["u_md5"]="30a1eb2f8da8423b394e46719291baf2",
-	["u_size"]=21.8,
+	["u_md5"]="7803e55c1d84524a73288b6339783974",
+	["u_size"]=23.07,
 	},
 {
 	["u_name"]="Games/GLobby/src/record/GLobbyRecordLayerItem.lua",
