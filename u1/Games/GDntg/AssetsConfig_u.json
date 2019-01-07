@@ -2,22 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.431",
-["packageSize"] = 34865,
-["date"] = "20190104",
+["version"] = "1.1.435",
+["packageSize"] = 34866,
+["date"] = "20190107",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.新鱼资源替换
-2.GM后台修复精确查找
-3.合伙人数据刷新修复
-4.代理界面会出现闪动问题
-5.逐出渔场的需要去掉绑定
-6.俱乐部聊天屏蔽
-7.充值界面选择问题
-8.GM后台炮弹消耗，精确查找
-9.自动退出/界面红色遮罩修复
-10.新的微信登录/充值替换
+1.盈亏记录没有统计修复
+2.点击座位崩溃修复
+3.逐出渔厅提示非法操作修复
+4.兑换码添加
+5.成员管理界面排版修复
+6.金币场门槛修复
+7.已知大厅报错修复
 ]],
 ["assets"] = {
 {
@@ -777,7 +774,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishMove026_1.plist",
-	["u_md5"]="e45b48d093fbc14c67ee67d3c72bb8af",
+	["u_md5"]="f1bbbf8ca9ea91eb5f136ea36ea972e1",
 	["u_size"]=5.74,
 	},
 {
@@ -1107,7 +1104,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishShadow026_1.plist",
-	["u_md5"]="42e4f5bb93bd82b38dff75bd2a67cf9a",
+	["u_md5"]="45b3385325c7ea97ac940a7599d3c146",
 	["u_size"]=5.76,
 	},
 {
@@ -3277,8 +3274,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletView.lua",
-	["u_md5"]="943af33db082b152e4bfa84be9e207a1",
-	["u_size"]=12.66,
+	["u_md5"]="fe4a955c64df18352425faa3ec23e809",
+	["u_size"]=13.03,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
@@ -3337,8 +3334,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GConvertSeatMediator.lua",
-	["u_md5"]="bedfce19f3808bb6993bfa6ef787874d",
-	["u_size"]=8.84,
+	["u_md5"]="4e55e3b49161b3d8fa76597a66dd3bf0",
+	["u_size"]=9.37,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GConvertSeatView.lua",
@@ -3377,8 +3374,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="36a8d0f88b0198df9ae08f7a17a26b55",
-	["u_size"]=16.28,
+	["u_md5"]="61d8da39121cc4f92635ab2f624dd35c",
+	["u_size"]=16.46,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
