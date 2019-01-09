@@ -2,21 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.443",
-["packageSize"] = 11830,
-["date"] = "20190108",
+["version"] = "1.1.446",
+["packageSize"] = 11828,
+["date"] = "20190109",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.推广员分享
-2.新手命中调整
-3.大厅切换问题修复
-4.V币显示修改
-5.推广员修复
-6.牌桌背景替换
-
+1.金币场命中调整
+2.人气值修复
+3.boss鱼出现不能出现特效鱼
+4.v币赠送问题修复
+5.渠道包不能支付及登陆
 ]],
 ["assets"] = {
 {
@@ -26,8 +24,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="7e46fdd0448b02f20b3ceb8f295eda51",
-	["u_size"]=19.55,
+	["u_md5"]="14728059bb38fafe6e3bc46c099bc283",
+	["u_size"]=17.98,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -46,8 +44,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/Words.lua",
-	["u_md5"]="b554007dc36c4e4b834bbb574211f7f7",
-	["u_size"]=3.68,
+	["u_md5"]="f404aec2d2ba520714763b621a0d3b93",
+	["u_size"]=3.81,
 	},
 {
 	["u_name"]="Games/GLobby/config.lua",
@@ -56,7 +54,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="58e441f910eb2fd7b4862b67dc6b2893",
+	["u_md5"]="80ba5a37b59fd4db242249cc26d043d1",
 	["u_size"]=4.18,
 	},
 {
@@ -3736,7 +3734,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyAgentDetailsLayerItem.lua",
-	["u_md5"]="406b070b2998e9a763fa506af2460143",
+	["u_md5"]="047308c7b6ee5a802fedb9960941c914",
 	["u_size"]=1.58,
 	},
 {
@@ -3756,8 +3754,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyAgentSystemLayerView.lua",
-	["u_md5"]="d4afdeebfef145addb97a0a3718f43f9",
-	["u_size"]=8.43,
+	["u_md5"]="5cf874cfdbbec8b9035199d46218f037",
+	["u_size"]=8.45,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyBindAgentLayerMediator.lua",
@@ -3781,7 +3779,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyCashDetailsLayerItem.lua",
-	["u_md5"]="9feb44f7fc3b089cb97b610a057fea1c",
+	["u_md5"]="27abf436b7f5dd390a46f20d6ae8397f",
 	["u_size"]=1.7,
 	},
 {
