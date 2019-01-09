@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.452",
+["version"] = "1.1.453",
 ["packageSize"] = 11830,
 ["date"] = "20190109",
 ["depends"] = {
@@ -40,8 +40,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/VisibleRect.lua",
-	["u_md5"]="5ddfce0ab4c8218638955100b1263a85",
-	["u_size"]=9.47,
+	["u_md5"]="5c1c7616d1bf260f966990338d18185c",
+	["u_size"]=9.48,
 	},
 {
 	["u_name"]="Games/GLobby/Words.lua",
