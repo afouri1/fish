@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.446",
-["packageSize"] = 11828,
+["version"] = "1.1.450",
+["packageSize"] = 11830,
 ["date"] = "20190109",
 ["depends"] = {
 10001,
@@ -15,6 +15,7 @@ return {
 3.boss鱼出现不能出现特效鱼
 4.v币赠送问题修复
 5.渠道包不能支付及登陆
+
 ]],
 ["assets"] = {} 
 }

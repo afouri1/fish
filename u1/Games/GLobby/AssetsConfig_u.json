@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.446",
-["packageSize"] = 11828,
+["version"] = "1.1.450",
+["packageSize"] = 11830,
 ["date"] = "20190109",
 ["depends"] = {
 10001,
@@ -15,6 +15,7 @@ return {
 3.boss鱼出现不能出现特效鱼
 4.v币赠送问题修复
 5.渠道包不能支付及登陆
+
 ]],
 ["assets"] = {
 {
@@ -24,8 +25,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="14728059bb38fafe6e3bc46c099bc283",
-	["u_size"]=17.98,
+	["u_md5"]="7e46fdd0448b02f20b3ceb8f295eda51",
+	["u_size"]=19.55,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -39,8 +40,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/VisibleRect.lua",
-	["u_md5"]="4fad8ecbc6913139bebfe78f29ea8c3f",
-	["u_size"]=9.44,
+	["u_md5"]="1329d814a957e8e7452f10c3c38ebb5f",
+	["u_size"]=9.43,
 	},
 {
 	["u_name"]="Games/GLobby/Words.lua",
@@ -54,8 +55,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="80ba5a37b59fd4db242249cc26d043d1",
-	["u_size"]=4.18,
+	["u_md5"]="3cd4baf6b57d1dbed4bd893ffd0a8359",
+	["u_size"]=4.24,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
@@ -3134,8 +3135,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyApplyAndCreateClubLayerMediator.lua",
-	["u_md5"]="1ea0864d6333d9b4bcda80020194869c",
-	["u_size"]=7.75,
+	["u_md5"]="2db21a9fe8bb2e95725c2c3766a72e87",
+	["u_size"]=7.76,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyApplyAndCreateClubLayerView.lua",
@@ -3754,8 +3755,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyAgentSystemLayerView.lua",
-	["u_md5"]="5cf874cfdbbec8b9035199d46218f037",
-	["u_size"]=8.45,
+	["u_md5"]="b7a87f6dc51b7e4e1247ec17cb490a9f",
+	["u_size"]=8.51,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyBindAgentLayerMediator.lua",
@@ -3859,8 +3860,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyLayerView.lua",
-	["u_md5"]="10dddfce141ef88d1500ade9a9f97408",
-	["u_size"]=18.01,
+	["u_md5"]="18a8d89ba7d419a4c3626bd0dbfe793a",
+	["u_size"]=18.08,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyPtRecordLayerItem.lua",
