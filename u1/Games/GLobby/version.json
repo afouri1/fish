@@ -2,20 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.453",
-["packageSize"] = 11830,
-["date"] = "20190109",
+["version"] = "1.1.451",
+["packageSize"] = 11836,
+["date"] = "20190110",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.金币场命中调整
-2.人气值修复
-3.boss鱼出现不能出现特效鱼
-4.v币赠送问题修复
-5.渠道包不能支付及登陆
-
+1.千分符区分修复
+2.大厅动画在二级界面没有去掉修复
+3.推荐列表排序修复
+4.一键邀请界面调整
+5.输入框修复
+6.脚本报错修复
+7.成员列表显示性别和V币修复
 ]],
 ["assets"] = {} 
 }
