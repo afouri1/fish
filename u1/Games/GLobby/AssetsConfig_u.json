@@ -2,21 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.453",
-["packageSize"] = 11836,
-["date"] = "20190111",
+["version"] = "1.1.456",
+["packageSize"] = 11837,
+["date"] = "20190115",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.提取详情界面修复
-2.微信头像不显示修复
-3.成员列表显示性别和V币
-4.重启服务器V币对应不上
-5.大厅特效不清除修复
-6.大厅已知脚本报错修复
-7.大厅图标特效优化
+1.游戏内挂机卡死修复
+2.全面屏适配修复
+3.佛像方向相反修复
+4.断线重连修复
+5.座位替换修复
+6.部分崩溃修复
 ]],
 ["assets"] = {
 {
@@ -31,7 +30,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="4806ce6ebfa21a6ef169abf8006a1802",
+	["u_md5"]="30897559e34cb5459864580aead14455",
 	["u_size"]=31.06,
 	},
 {
@@ -3646,8 +3645,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerMediator.lua",
-	["u_md5"]="cc13ac116e257aeec2c05ddc64f135d4",
-	["u_size"]=11.01,
+	["u_md5"]="70ae49f4091d7913f44eaaad4bda52ce",
+	["u_size"]=11.05,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
@@ -3696,8 +3695,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/config/commodity.lua",
-	["u_md5"]="6714d6ebdd5e26759d41f85de78c8986",
-	["u_size"]=1.7,
+	["u_md5"]="5a3a79f51a2b575ec0a7d7f5db5b82a1",
+	["u_size"]=1.5,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/NewsListData.lua",
@@ -3911,18 +3910,18 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Cmd.pb",
-	["u_md5"]="9888c47d6a036046e70daa71bc1a5296",
-	["u_size"]=3.27,
+	["u_md5"]="1f63170fc6c0205229247df002616da5",
+	["u_size"]=3.36,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_c2s.pb",
-	["u_md5"]="1b339f9455ad64db0b745553822c6503",
-	["u_size"]=3.49,
+	["u_md5"]="bfabc1bbb5eb6943b88d82a3dfb974c3",
+	["u_size"]=3.56,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_s2c.pb",
-	["u_md5"]="7de8c689fd072001cb9e031f56e7f8d6",
-	["u_size"]=7.74,
+	["u_md5"]="c69cf61aae641bc80c2df9223bdc0e77",
+	["u_size"]=8.03,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/c2s.pb",
@@ -3941,8 +3940,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/recharge/GLobbyRechargeLayerView.lua",
-	["u_md5"]="18c4180af12c81c92bbee79d06d89ccd",
-	["u_size"]=23.46,
+	["u_md5"]="bbd820930386878b67c8f30353694d1d",
+	["u_size"]=23.84,
 	},
 {
 	["u_name"]="Games/GLobby/src/record/GLobbyRecordLayerItem.lua",
