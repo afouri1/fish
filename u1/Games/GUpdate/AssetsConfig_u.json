@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
-["version"] = "1.1.456",
+["version"] = "1.1.464",
 ["packageSize"] = 683,
-["date"] = "20190115",
+["date"] = "20190117",
 ["depends"] = {
 10001,
 },
@@ -62,7 +62,7 @@ return {
 	},
 {
 	["u_name"]="Games/GUpdate/channelConfig.json",
-	["u_md5"]="6365cef718445bcf83aeb7bf0047ea45",
+	["u_md5"]="bc2dd88ad528d462823abc23ee365a62",
 	["u_size"]=1.24,
 	},
 {

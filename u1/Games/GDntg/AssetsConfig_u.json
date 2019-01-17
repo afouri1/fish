@@ -2,18 +2,14 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.456",
-["packageSize"] = 34869,
-["date"] = "20190115",
+["version"] = "1.1.464",
+["packageSize"] = 34876,
+["date"] = "20190117",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.游戏内挂机卡死修复
-2.全面屏适配修复
-3.佛像方向相反修复
-4.断线重连修复
-5.座位替换修复
-6.部分崩溃修复
+1.新增聊天-广播
+2.新增游戏内弹窗放大缩小
 ]],
 ["assets"] = {
 {
@@ -3223,8 +3219,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="cce1c19f1dbd830f2bc7eb1ec5440036",
-	["u_size"]=50.07,
+	["u_md5"]="dca0c2b4bf424c7e46e89e0d4822fe87",
+	["u_size"]=52.74,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3268,13 +3264,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletMediator.lua",
-	["u_md5"]="9c5636868402b5221a553123694d1eb1",
-	["u_size"]=3.26,
+	["u_md5"]="86e7314ce9f6db020bfbefd9c2250a95",
+	["u_size"]=3.22,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletView.lua",
-	["u_md5"]="4c0d5838455d03b0465eb89c284a12b1",
-	["u_size"]=13.03,
+	["u_md5"]="e35e75c79a7d27c0c2a00bdb2d87484d",
+	["u_size"]=12.91,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
@@ -3353,13 +3349,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
-	["u_md5"]="7317ddd13bd74f4980879e40c3baac1c",
-	["u_size"]=10.33,
+	["u_md5"]="baaf8f76d31985916683a6d4c64dd2c0",
+	["u_size"]=10.47,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockView.lua",
-	["u_md5"]="b1b5fcfd6aa741aa1d912132d4023473",
-	["u_size"]=3.29,
+	["u_md5"]="61e5df165b5813c4a56ad574c3176712",
+	["u_size"]=3.17,
 	},
 {
 	["u_name"]="Games/GDntg/src/GNetLayer/GNetLayerMediator.lua",
@@ -3373,8 +3369,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="61d8da39121cc4f92635ab2f624dd35c",
-	["u_size"]=16.46,
+	["u_md5"]="c2bc9073ba4e2cecbaa6268c25f4f21e",
+	["u_size"]=19.99,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
@@ -3383,13 +3379,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
-	["u_md5"]="cfbe926b7c8a492c53627c019e4754e2",
-	["u_size"]=5.27,
+	["u_md5"]="99a3545c255659be3a4923d77d92de48",
+	["u_size"]=5.36,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerView.lua",
-	["u_md5"]="6d6fe58c0eab42c5d0dbdd76f5fbbee3",
-	["u_size"]=6.28,
+	["u_md5"]="f4946564e6e6fcca9f474b6500fa9334",
+	["u_size"]=6.35,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSelectGun/GSelectGunMediator.lua",
@@ -3508,13 +3504,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="fbbf1f471cd46c7f43fef7eb8632636a",
-	["u_size"]=18.86,
+	["u_md5"]="dd69502b5f327d9fe650185ee9ac4514",
+	["u_size"]=18.92,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
-	["u_md5"]="343aaa7622ab055cd304443f1afddcbe",
-	["u_size"]=7.05,
+	["u_md5"]="00e15dbcc857e18910cf5385b952a9b2",
+	["u_size"]=7.57,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GServerSimulation.lua",
