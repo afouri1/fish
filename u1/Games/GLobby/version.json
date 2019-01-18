@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.464",
-["packageSize"] = 11932,
-["date"] = "20190117",
+["version"] = "1.1.465",
+["packageSize"] = 11934,
+["date"] = "20190118",
 ["depends"] = {
 10001,
 1001,
@@ -12,6 +12,7 @@ return {
 ["newDetails"] = [[版本更新内容：
 1.新增聊天-广播
 2.新增游戏内弹窗放大缩小
+
 ]],
 ["assets"] = {} 
 }

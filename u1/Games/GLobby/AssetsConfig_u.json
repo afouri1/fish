@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.464",
-["packageSize"] = 11932,
-["date"] = "20190117",
+["version"] = "1.1.465",
+["packageSize"] = 11934,
+["date"] = "20190118",
 ["depends"] = {
 10001,
 1001,
@@ -12,6 +12,7 @@ return {
 ["newDetails"] = [[版本更新内容：
 1.新增聊天-广播
 2.新增游戏内弹窗放大缩小
+
 ]],
 ["assets"] = {
 {
@@ -21,13 +22,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="14728059bb38fafe6e3bc46c099bc283",
-	["u_size"]=17.98,
+	["u_md5"]="cec1699c2b65b4f0cf7b18bd8134501a",
+	["u_size"]=20.03,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="4c139d960445352344a32ee9fa655e5d",
-	["u_size"]=31.06,
+	["u_md5"]="60ab66cb067b1a663982c54746ec642d",
+	["u_size"]=31.08,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
@@ -36,8 +37,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/VisibleRect.lua",
-	["u_md5"]="fbcbeef2595bf2a87ae462b024e801c0",
-	["u_size"]=9.51,
+	["u_md5"]="e4b840b5c9180d82eddfcbd19e6898df",
+	["u_size"]=9.48,
 	},
 {
 	["u_name"]="Games/GLobby/Words.lua",
@@ -51,8 +52,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="6f3cf456272b61562ec53c6cf5435557",
-	["u_size"]=4.25,
+	["u_md5"]="1622fe7f7b16a0df11fddcc0edca0ad3",
+	["u_size"]=4.28,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
@@ -3746,8 +3747,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
-	["u_md5"]="b50bfdab5c16e436f565077d5d6f30dd",
-	["u_size"]=13.13,
+	["u_md5"]="3464c7f987ac92a0483b8f3da19a32d3",
+	["u_size"]=13.12,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLogin_logic.lua",
