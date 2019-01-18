@@ -2,15 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.465",
-["packageSize"] = 34876,
+["version"] = "1.1.466",
+["packageSize"] = 35147,
 ["date"] = "20190118",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.新增聊天-广播
-2.新增游戏内弹窗放大缩小
-
+1.新增大厅/游戏内弹窗放大缩小效果
+2.新增推荐渔厅
+3.新增游戏内全面屏
+4.提示断线重连修复
+5.万佛朝宗资源位置修复
+6.游戏内部分异常退出修复
+7.玩家游戏内座位报错修复
+8.大厅及游戏内常规bug修复
 ]],
 ["assets"] = {
 {
@@ -107,6 +112,46 @@ return {
 	["u_name"]="Games/GDntg/res/game/bg/bgboard_3_2.png",
 	["u_md5"]="1f55a6554c42fd0398e2de837ad6cfcc",
 	["u_size"]=162.73,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/bg/ef/474.png",
+	["u_md5"]="ff6e7581ccb751bfa57eff1b6a84caf8",
+	["u_size"]=22.45,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/bg/ef/glow.png",
+	["u_md5"]="fe503d0c10cf042397eceed2fe0615f7",
+	["u_size"]=34.73,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/bg/ef/images.plist",
+	["u_md5"]="7d4c70359c74406b6de9395cd5a8d080",
+	["u_size"]=9.38,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/bg/ef/images.png",
+	["u_md5"]="70bc340b7ac17aa0a1d921c5cbedc7df",
+	["u_size"]=170.54,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/bg/ef/lizi1.plist",
+	["u_md5"]="76891882c3b6699a6fd738378feedb9d",
+	["u_size"]=7.65,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/bg/ef/lizi2.plist",
+	["u_md5"]="9793352a264c3c00876db388f7194c3e",
+	["u_size"]=7.64,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/bg/ef/qipao.plist",
+	["u_md5"]="b9ee3677a2a7bb6bd8141491ebf36d89",
+	["u_size"]=5.86,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/bg/ef/qipaobg.plist",
+	["u_md5"]="56449238d886358a036312dbcf3ce7dc",
+	["u_size"]=5.86,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/deskInfo/back.png",
@@ -3159,6 +3204,11 @@ return {
 	["u_size"]=0.89,
 	},
 {
+	["u_name"]="Games/GDntg/src/Configs/SEposition.lua",
+	["u_md5"]="e870fe94f0a222d3a6305f8538c35551",
+	["u_size"]=5.96,
+	},
+{
 	["u_name"]="Games/GDntg/src/Configs/SceneCreate01.lua",
 	["u_md5"]="089ce0462d56549c56ce76cab779ad80",
 	["u_size"]=11.67,
@@ -3170,7 +3220,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
+	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
 	["u_size"]=0.76,
 	},
 {
@@ -3195,13 +3245,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="bb55173d55a18a1d45a1b3f9dcd203b1",
-	["u_size"]=88.81,
+	["u_md5"]="7edcda64fb97c099fde3f6372a66c56f",
+	["u_size"]=88.74,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="f76024b1b748d1a5d449ecfd3a9a064f",
-	["u_size"]=2.72,
+	["u_md5"]="f1462397ef5fb0ad798264c1be015721",
+	["u_size"]=2.71,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
@@ -3490,8 +3540,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GBg.lua",
-	["u_md5"]="c9244dcf725aaa5a5ba4342e0b7c5c0c",
-	["u_size"]=10.96,
+	["u_md5"]="d13683d77cad47191c86a5783cd25e16",
+	["u_size"]=11.79,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GConfigManager.lua",
