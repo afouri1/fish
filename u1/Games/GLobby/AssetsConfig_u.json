@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.466",
+["version"] = "1.1.468",
 ["packageSize"] = 12066,
 ["date"] = "20190118",
 ["depends"] = {
@@ -57,7 +57,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="6f3cf456272b61562ec53c6cf5435557",
+	["u_md5"]="f7d6ce790ba0ed0187b64d5a81a27a30",
 	["u_size"]=4.25,
 	},
 {

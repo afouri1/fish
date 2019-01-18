@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.466",
-["packageSize"] = 35147,
+["version"] = "1.1.468",
+["packageSize"] = 35148,
 ["date"] = "20190118",
 ["depends"] = {
 },
@@ -3540,8 +3540,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GBg.lua",
-	["u_md5"]="d13683d77cad47191c86a5783cd25e16",
-	["u_size"]=11.79,
+	["u_md5"]="7107b02724b9cd78489a3e08875100c7",
+	["u_size"]=12.48,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GConfigManager.lua",
