@@ -2,15 +2,15 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.474",
+["version"] = "1.1.475",
 ["packageSize"] = 35143,
 ["date"] = "20190122",
 ["depends"] = {
 },
-["newDetails"] = [[版本更新内容：
-1.聊天广播修复
+["newDetails"] = [[1.聊天广播修复
 2.俱乐部新增机器人
 3.特效背景位置修复
+
 ]],
 ["assets"] = {
 {
@@ -3225,7 +3225,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
+	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
 	["u_size"]=0.76,
 	},
 {
@@ -3250,13 +3250,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="7edcda64fb97c099fde3f6372a66c56f",
-	["u_size"]=88.74,
+	["u_md5"]="bb55173d55a18a1d45a1b3f9dcd203b1",
+	["u_size"]=88.81,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="f1462397ef5fb0ad798264c1be015721",
-	["u_size"]=2.71,
+	["u_md5"]="f76024b1b748d1a5d449ecfd3a9a064f",
+	["u_size"]=2.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
@@ -3275,8 +3275,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="64295123ca609608b1921401b23c7df5",
-	["u_size"]=53.51,
+	["u_md5"]="1f14caefbb00e3575d77742afca80bfc",
+	["u_size"]=53.58,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3425,8 +3425,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="b1e948743afdbd874a38dcc46a9a933e",
-	["u_size"]=20.35,
+	["u_md5"]="daf322dfa87bf64cd01ee41733894eca",
+	["u_size"]=20.29,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
@@ -3450,8 +3450,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSelectGun/GSelectGunView.lua",
-	["u_md5"]="26b2b2e66442482ed5565d9c42d3b357",
-	["u_size"]=2.37,
+	["u_md5"]="4210d7098eb6f307ddb5e4a1cb6ba700",
+	["u_size"]=2.56,
 	},
 {
 	["u_name"]="Games/GDntg/src/GShadowLayer/GShadowLayerMediator.lua",

@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.474",
+["version"] = "1.1.475",
 ["packageSize"] = 1970,
 ["date"] = "20190122",
 ["depends"] = {
@@ -48,8 +48,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/TimeServer.lua",
-	["u_md5"]="086e30a211a661f4cea432e4c162e0dd",
-	["u_size"]=3.94,
+	["u_md5"]="c1f53fa568811d2e85186c5c71e1f084",
+	["u_size"]=3.97,
 	},
 {
 	["u_name"]="Games/BaseCommon/GameUserData.lua",

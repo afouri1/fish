@@ -2,17 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.474",
-["packageSize"] = 12072,
+["version"] = "1.1.475",
+["packageSize"] = 12074,
 ["date"] = "20190122",
 ["depends"] = {
 10001,
 1001,
 },
-["newDetails"] = [[版本更新内容：
-1.聊天广播修复
+["newDetails"] = [[1.聊天广播修复
 2.俱乐部新增机器人
 3.特效背景位置修复
+
 ]],
 ["assets"] = {
 {
@@ -22,8 +22,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="14728059bb38fafe6e3bc46c099bc283",
-	["u_size"]=17.98,
+	["u_md5"]="6e67e52f1504d229fb5a56f6942c6c9c",
+	["u_size"]=20.04,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -37,8 +37,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/VisibleRect.lua",
-	["u_md5"]="fbcbeef2595bf2a87ae462b024e801c0",
-	["u_size"]=9.51,
+	["u_md5"]="e4b840b5c9180d82eddfcbd19e6898df",
+	["u_size"]=9.48,
 	},
 {
 	["u_name"]="Games/GLobby/Words.lua",
@@ -52,8 +52,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="f7d6ce790ba0ed0187b64d5a81a27a30",
-	["u_size"]=4.25,
+	["u_md5"]="1622fe7f7b16a0df11fddcc0edca0ad3",
+	["u_size"]=4.28,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
@@ -3902,8 +3902,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/helper/GBroadcastView.lua",
-	["u_md5"]="430aa42609278e727808e1ff97d7db51",
-	["u_size"]=8.4,
+	["u_md5"]="cfb751c8fe38631df3e3e0fc3c968c94",
+	["u_size"]=8.41,
 	},
 {
 	["u_name"]="Games/GLobby/src/helper/GGetSrvHostHelper.lua",

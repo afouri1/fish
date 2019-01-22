@@ -2,15 +2,15 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.474",
+["version"] = "1.1.475",
 ["packageSize"] = 35143,
 ["date"] = "20190122",
 ["depends"] = {
 },
-["newDetails"] = [[版本更新内容：
-1.聊天广播修复
+["newDetails"] = [[1.聊天广播修复
 2.俱乐部新增机器人
 3.特效背景位置修复
+
 ]],
 ["assets"] = {} 
 }
