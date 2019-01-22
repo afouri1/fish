@@ -2,15 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.477",
+["version"] = "1.1.475",
 ["packageSize"] = 35143,
 ["date"] = "20190122",
 ["depends"] = {
 },
-["newDetails"] = [[1.聊天广播修复
-2.俱乐部新增机器人
-3.特效背景位置修复
-
+["newDetails"] = [[版本更新内容：
+1.聊天广播修复
+2.俱乐部机器人问题修复
+3.背景特效全面屏修复
+4.1亿炮弹兑换码
+5.桌子人物显示不正确修复
 ]],
 ["assets"] = {} 
 }
