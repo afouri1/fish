@@ -2,22 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.471",
-["packageSize"] = 12066,
-["date"] = "20190121",
+["version"] = "1.1.474",
+["packageSize"] = 12072,
+["date"] = "20190122",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.新增大厅/游戏内弹窗放大缩小效果
-2.新增推荐渔厅
-3.新增游戏内全面屏
-4.提示断线重连修复
-5.万佛朝宗资源位置修复
-6.游戏内部分异常退出修复
-7.玩家游戏内座位报错修复
-8.大厅及游戏内常规bug修复
+1.聊天广播修复
+2.俱乐部新增机器人
+3.特效背景位置修复
 ]],
 ["assets"] = {
 {
@@ -47,7 +42,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/Words.lua",
-	["u_md5"]="00597501ca3b131d9f38ce72a19c41b9",
+	["u_md5"]="477c559094d0e00360fd85a3bfbccbfc",
 	["u_size"]=3.98,
 	},
 {
@@ -1702,12 +1697,12 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/chat/dntg_lobby_world_chat.json",
-	["u_md5"]="3c264a411545b571258ab2aef58bf89b",
-	["u_size"]=26.49,
+	["u_md5"]="869b7176b6b4896510df9a24bcb4fc20",
+	["u_size"]=28.58,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/chat/dntg_lobby_world_chat_item.json",
-	["u_md5"]="93e3359fbe25cfec47269f0b60e86dfd",
+	["u_md5"]="e42f792351979a487c23029ba67ac033",
 	["u_size"]=6.46,
 	},
 {
@@ -3747,8 +3742,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageBottom.lua",
-	["u_md5"]="526a0d65d0e7bd21b30adc78d7f5ee8c",
-	["u_size"]=9.27,
+	["u_md5"]="e82d75c10439b40ab424636b80d6efdd",
+	["u_size"]=9.26,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
@@ -3832,8 +3827,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/WorldChat/GLobbyWorldChatLayerItem.lua",
-	["u_md5"]="f975ffe39e138b6d18ef20d48fd2b7ef",
-	["u_size"]=4.38,
+	["u_md5"]="6e3387c04ca3e77afdc9df8d8894b07e",
+	["u_size"]=6.07,
 	},
 {
 	["u_name"]="Games/GLobby/src/WorldChat/GLobbyWorldChatLayerMediator.lua",
@@ -3842,8 +3837,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/WorldChat/GLobbyWorldChatLayerView.lua",
-	["u_md5"]="3b55969df9bb8f48736899cba8192a50",
-	["u_size"]=23.52,
+	["u_md5"]="958df158e74c0ea4886c826fdc052406",
+	["u_size"]=25.57,
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/Cpp2LuaGlobalFunc.lua",
@@ -3877,8 +3872,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/WorldChatListData.lua",
-	["u_md5"]="4bce5b8a0d1d779177fa840292e3dc39",
-	["u_size"]=3.68,
+	["u_md5"]="2df228957e685bfb850c0a6feb4a8d82",
+	["u_size"]=3.7,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubGiftRecordData.lua",
@@ -3907,8 +3902,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/helper/GBroadcastView.lua",
-	["u_md5"]="0c63edfb8d6dbf8e0bcc42a412974ea8",
-	["u_size"]=8.57,
+	["u_md5"]="430aa42609278e727808e1ff97d7db51",
+	["u_size"]=8.4,
 	},
 {
 	["u_name"]="Games/GLobby/src/helper/GGetSrvHostHelper.lua",
@@ -4112,8 +4107,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/recharge/GLobbyRechargeLayerView.lua",
-	["u_md5"]="bbd820930386878b67c8f30353694d1d",
-	["u_size"]=23.84,
+	["u_md5"]="027296025d912935e7be6c7ec2f4de8b",
+	["u_size"]=23.82,
 	},
 {
 	["u_name"]="Games/GLobby/src/record/GLobbyRecordLayerItem.lua",
