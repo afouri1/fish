@@ -2,18 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.481",
-["packageSize"] = 35504,
+["version"] = "1.1.495",
+["packageSize"] = 35458,
 ["date"] = "20190123",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.聊天广播修复
-2.俱乐部机器人问题修复
-3.背景特效全面屏修复
-4.1亿炮弹兑换码
-5.桌子人物显示不正确修复
-
+1.1亿炮弹兑换码脚本报错修复
+2.推荐列表和渔厅列表人数对应不上修复
+3.新增聊天内点击能直接跳转
+4.游戏列表人数未刷新修复
+5.3个真人，中途会加入机器人修复
+6.机器人一直不加入房间修复
 ]],
 ["assets"] = {
 {
@@ -3213,8 +3213,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="2d14f6b0dcf95ce2719b546610b80789",
-	["u_size"]=32.49,
+	["u_md5"]="e081d104c9ec148bf193cd1b4377a451",
+	["u_size"]=32.44,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3233,8 +3233,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/SEposition.lua",
-	["u_md5"]="6d40e5d6d99c1dfbdf21c8662d46f428",
-	["u_size"]=5.87,
+	["u_md5"]="ed7696d13b8e7b4815060c88a9a6395e",
+	["u_size"]=6.22,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/SceneCreate01.lua",
@@ -3248,13 +3248,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
+	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
 	["u_size"]=0.76,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/clubhit.lua",
-	["u_md5"]="5bf8fb0adc6f0ab05f3200bcc09f7e7a",
-	["u_size"]=0.84,
+	["u_md5"]="1385e9b504debda54af5ed8c19a4274a",
+	["u_size"]=0.89,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/clubpersonalhit.lua",
@@ -3263,23 +3263,23 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="950dba60dec26e84728d29d7080c21ad",
-	["u_size"]=10,
+	["u_md5"]="81ff9810991dafb17e5dd543dfd98239",
+	["u_size"]=9.96,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/correctfactor.lua",
-	["u_md5"]="66c9714d523306003e7e4f382415307f",
-	["u_size"]=0.43,
+	["u_md5"]="a91532be50da6d7bc8c83529e0e90281",
+	["u_size"]=0.42,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="bb55173d55a18a1d45a1b3f9dcd203b1",
-	["u_size"]=88.81,
+	["u_md5"]="7edcda64fb97c099fde3f6372a66c56f",
+	["u_size"]=88.74,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="ffc1f9ea5b1a590cfdb6a3242480c98d",
-	["u_size"]=2.72,
+	["u_md5"]="52b346878170bee6ee28ccb330a80bc2",
+	["u_size"]=2.71,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
@@ -3288,13 +3288,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/goldcoinhit.lua",
-	["u_md5"]="49810950f1a52f6f6ac38b8c7ef69263",
+	["u_md5"]="535b0206f14bcefe9f0cc8bc0f101dc1",
 	["u_size"]=0.83,
-	},
-{
-	["u_name"]="Games/GDntg/src/Configs/outfishsurface.lua",
-	["u_md5"]="435e92f46f7ffcf42f996fe1500d116b",
-	["u_size"]=46.24,
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
@@ -3568,8 +3563,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GBg.lua",
-	["u_md5"]="2a07120b52e5b2e97c1f5922c5afe16c",
-	["u_size"]=12.79,
+	["u_md5"]="fc3cce586ccd865462bbc3f478cd6c5b",
+	["u_size"]=13.41,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GConfigManager.lua",
