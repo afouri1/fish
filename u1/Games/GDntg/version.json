@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.479",
-["packageSize"] = 35143,
-["date"] = "20190122",
+["version"] = "1.1.480",
+["packageSize"] = 35145,
+["date"] = "20190123",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
@@ -13,6 +13,7 @@ return {
 3.背景特效全面屏修复
 4.1亿炮弹兑换码
 5.桌子人物显示不正确修复
+
 ]],
 ["assets"] = {} 
 }
