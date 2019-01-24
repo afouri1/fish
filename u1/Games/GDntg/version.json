@@ -2,18 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.496",
-["packageSize"] = 35504,
+["version"] = "1.1.497",
+["packageSize"] = 35505,
 ["date"] = "20190124",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.1亿炮弹兑换码脚本报错修复
-2.推荐列表和渔厅列表人数对应不上修复
-3.新增聊天内点击能直接跳转
-4.游戏列表人数未刷新修复
-5.3个真人，中途会加入机器人修复
-6.机器人一直不加入房间修复
+1.背景新增特效
+2.新增聊天/广播
+3.弹窗新增放大缩小效果
+4.游戏内全面屏适配修复
+5.充值成功之后，金币没有实时显示修复
+6.美人鱼资源替换
+7.大厅/游戏内已知bug修复
 ]],
 ["assets"] = {} 
 }
