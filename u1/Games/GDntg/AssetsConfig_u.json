@@ -2,19 +2,12 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.498",
-["packageSize"] = 35505,
-["date"] = "20190124",
+["version"] = "1.1.499",
+["packageSize"] = 36045,
+["date"] = "20190125",
 ["depends"] = {
 },
-["newDetails"] = [[版本更新内容：
-1.背景新增特效
-2.新增聊天/广播
-3.弹窗新增放大缩小效果
-4.游戏内全面屏适配修复
-5.充值成功之后，金币没有实时显示修复
-6.美人鱼资源替换
-7.大厅/游戏内已知bug修复
+["newDetails"] = [[
 ]],
 ["assets"] = {
 {
@@ -804,33 +797,43 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishMove025_1.plist",
-	["u_md5"]="84b615b8803723886277b20e0e7bf4b3",
+	["u_md5"]="6b285dabaa1467b5badb977582b85f90",
 	["u_size"]=4.13,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishMove025_1.png",
-	["u_md5"]="b48b6c872be0202506a7c27bca0979cf",
-	["u_size"]=362.2,
+	["u_md5"]="bea57d4edb6fa457c444ce1946cd784b",
+	["u_size"]=332.37,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishMove025_2.plist",
-	["u_md5"]="b9d010891382a7e0ab1d0d425fd864ca",
+	["u_md5"]="767bdc064996a13446158df6d5c03c2d",
 	["u_size"]=4.13,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishMove025_2.png",
-	["u_md5"]="f97bcff344329b729b5a85155e340327",
-	["u_size"]=369.57,
+	["u_md5"]="827fdc5fe1783be73772dc9e4b45a0e3",
+	["u_size"]=336.8,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishMove025_3.plist",
-	["u_md5"]="480debecc9490874a88941ea0b90fdbd",
-	["u_size"]=3.06,
+	["u_md5"]="f4a3b5977a10719d7cfc0306589cbd8c",
+	["u_size"]=4.13,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishMove025_3.png",
-	["u_md5"]="84d8198d0718f7f5496f39d8960ce775",
-	["u_size"]=248.13,
+	["u_md5"]="fb7ce093114939ea3f6b40d5c7221b15",
+	["u_size"]=346.75,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/fishAni/fishMove025_4.plist",
+	["u_md5"]="39ff8128900b58248edb68606a66b8e0",
+	["u_size"]=4.25,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/fishAni/fishMove025_4.png",
+	["u_md5"]="a48d023814ad3a56179c41a4aedfb2d6",
+	["u_size"]=341.12,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishMove026_1.plist",
@@ -1144,33 +1147,43 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishShadow025_1.plist",
-	["u_md5"]="ed20db8cb8fc4970470d458a1af600ef",
+	["u_md5"]="bf0801ecd57a9cef56893ad82ca0795b",
 	["u_size"]=4.15,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishShadow025_1.png",
-	["u_md5"]="713924994c7f6901522af65f894e3262",
-	["u_size"]=130.1,
+	["u_md5"]="cce75b8214388ae400e4dfa6ff945503",
+	["u_size"]=125.41,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishShadow025_2.plist",
-	["u_md5"]="fbf99458bbe9fb999a32a94bdb4dac2e",
+	["u_md5"]="51809b001033756bb79ab1c6ac042310",
 	["u_size"]=4.15,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishShadow025_2.png",
-	["u_md5"]="f4ba00aeea5905c6d48b2a9b81e54238",
-	["u_size"]=129.08,
+	["u_md5"]="201ed8a59aed488404cb2f09b8fcbf5d",
+	["u_size"]=125.28,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishShadow025_3.plist",
-	["u_md5"]="a8ee5475a844bbf5eafe84d9ce4ca543",
-	["u_size"]=3.08,
+	["u_md5"]="dbfb22e835b70f4263e9c8ca0ff2c83e",
+	["u_size"]=4.15,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishShadow025_3.png",
-	["u_md5"]="76dfcfa85115da301cc990380347e624",
-	["u_size"]=91.78,
+	["u_md5"]="af8674bd4e9d0215724a0c86bad484e3",
+	["u_size"]=123.77,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/fishAni/fishShadow025_4.plist",
+	["u_md5"]="aa411f6262ee7a9d7d2b5ba0af9a1932",
+	["u_size"]=4.26,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/fishAni/fishShadow025_4.png",
+	["u_md5"]="84d3b1e0084a1cb8ccb2f611ac03c1ac",
+	["u_size"]=127.9,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishShadow026_1.plist",
@@ -3299,7 +3312,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="309124b09f0bbaa32816e28c9eae58f2",
+	["u_md5"]="b777b088f41895ec9c152e5ac3b099fb",
 	["u_size"]=54.39,
 	},
 {
@@ -3474,8 +3487,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSelectGun/GSelectGunView.lua",
-	["u_md5"]="4210d7098eb6f307ddb5e4a1cb6ba700",
-	["u_size"]=2.56,
+	["u_md5"]="16fc7447c4b669b3dd10481214d9453b",
+	["u_size"]=2.89,
 	},
 {
 	["u_name"]="Games/GDntg/src/GShadowLayer/GShadowLayerMediator.lua",
@@ -3509,8 +3522,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GGameTipsLayer.lua",
-	["u_md5"]="8aaba0b5b5060fd2f2b07e20fbd9d10b",
-	["u_size"]=1.16,
+	["u_md5"]="956e797bb3ece5b580d3cccf29759cef",
+	["u_size"]=1.29,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIMediator.lua",
@@ -3534,8 +3547,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerView.lua",
-	["u_md5"]="d782205d3c5c40e3a9e38616068c8e7f",
-	["u_size"]=17.1,
+	["u_md5"]="55d2977e3b2d390818981291946d9139",
+	["u_size"]=17.84,
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/DntgEvent.lua",
@@ -3569,8 +3582,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GBg.lua",
-	["u_md5"]="07bd5df2e9cbce782578c39a22d3cf88",
-	["u_size"]=13.04,
+	["u_md5"]="dd39520138637e0289cc4ffa4c23f85d",
+	["u_size"]=12.95,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GConfigManager.lua",
