@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.501",
-["packageSize"] = 12117,
+["version"] = "1.1.502",
+["packageSize"] = 12120,
 ["date"] = "20190125",
 ["depends"] = {
 10001,
@@ -1724,8 +1724,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/chat/dntg_lobby_world_chat.json",
-	["u_md5"]="5ec30099ed7173815a008d18290a172b",
-	["u_size"]=22.38,
+	["u_md5"]="98b9eb7fa8c8ae10bb9aae43862b99b6",
+	["u_size"]=24.53,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/chat/dntg_lobby_world_chat_item.json",
@@ -3874,8 +3874,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/WorldChat/GLobbyWorldChatLayerView.lua",
-	["u_md5"]="7ffc6892502d6cfbf644680d76623928",
-	["u_size"]=23.8,
+	["u_md5"]="9eeef69bc1c16b1bfc020d2add9a52b8",
+	["u_size"]=25.05,
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/Cpp2LuaGlobalFunc.lua",
