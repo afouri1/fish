@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.504",
+["version"] = "1.1.505",
 ["packageSize"] = 36785,
-["date"] = "20190129",
+["date"] = "20190130",
 ["depends"] = {
 },
 ["newDetails"] = [[
@@ -3492,8 +3492,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="7b952aace33af3409fc559ce61fdab68",
-	["u_size"]=8.39,
+	["u_md5"]="949c2a8bf7747dcda862423d0996a94d",
+	["u_size"]=8.4,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
