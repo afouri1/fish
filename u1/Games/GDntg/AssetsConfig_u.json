@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.505",
+["version"] = "1.1.506",
 ["packageSize"] = 36785,
 ["date"] = "20190130",
 ["depends"] = {
@@ -647,8 +647,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/exchGold/shuoming.png",
-	["u_md5"]="a372da6fa394f769055f0d52ab72ccd0",
-	["u_size"]=64.12,
+	["u_md5"]="4c4067410db49e1ffb71b9ea0d61f86a",
+	["u_size"]=62.36,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/exchGold/txt_hld.png",
@@ -3457,8 +3457,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="78cd8c62aba5437ca1962b670d9a9871",
-	["u_size"]=54.99,
+	["u_md5"]="a0bfc60e6238b697d383394b697e7fca",
+	["u_size"]=54.58,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3492,8 +3492,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="949c2a8bf7747dcda862423d0996a94d",
-	["u_size"]=8.4,
+	["u_md5"]="38ce09db381682242f33987cffff2598",
+	["u_size"]=10.66,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
@@ -3587,13 +3587,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GExchangeGoldMediator.lua",
-	["u_md5"]="912e8fe0fd31495a68fd1d3750dd411d",
-	["u_size"]=4.02,
+	["u_md5"]="2896333b7b158a1587991e34d572716b",
+	["u_size"]=4.03,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GExchangeGoldView.lua",
-	["u_md5"]="f14fbbd97f7e754780458217ca5d0786",
-	["u_size"]=5.7,
+	["u_md5"]="4eded01f7ae56f110790bc46925649b3",
+	["u_size"]=5.81,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
