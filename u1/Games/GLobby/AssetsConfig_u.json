@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.508",
+["version"] = "1.1.510",
 ["packageSize"] = 12181,
 ["date"] = "20190130",
 ["depends"] = {
@@ -10,11 +10,13 @@ return {
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.全面屏背景特效修复
-2.新增渔厅聊天
-3.大厅聊天界面调整
-4.新鱼资源优化
-5.游戏内弹窗位置修复
+1.体验场兑换金币bug修复
+2.俱乐部聊天红点
+3.聊天界面调整
+4.大厅按钮点击大厅动画停止
+5.总盈亏显示不一致
+6.推荐渔厅显示第一位置
+7.全面屏登陆界面修复
 ]],
 ["assets"] = {
 {

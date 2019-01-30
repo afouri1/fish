@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.508",
-["packageSize"] = 36785,
+["version"] = "1.1.510",
+["packageSize"] = 36774,
 ["date"] = "20190130",
 ["depends"] = {
 },
@@ -647,8 +647,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/exchGold/shuoming.png",
-	["u_md5"]="4c4067410db49e1ffb71b9ea0d61f86a",
-	["u_size"]=62.36,
+	["u_md5"]="6bf781d64e18cc0e91dc016eb6a843c8",
+	["u_size"]=51.34,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/exchGold/txt_hld.png",
