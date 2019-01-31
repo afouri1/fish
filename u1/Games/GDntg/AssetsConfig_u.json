@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.510",
-["packageSize"] = 36774,
-["date"] = "20190130",
+["version"] = "1.1.511",
+["packageSize"] = 36778,
+["date"] = "20190131",
 ["depends"] = {
 },
 ["newDetails"] = [[
@@ -17,18 +17,18 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/Panel_exit.json",
-	["u_md5"]="b07a2b15f4dc17efa86432f42d6c3ecc",
-	["u_size"]=11.3,
+	["u_md5"]="f6f37a240b2335a0fde99ad41dc8f61f",
+	["u_size"]=11.28,
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/Panel_fishScore.json",
-	["u_md5"]="0fa4b10839939e531fc5987e22fe5b67",
-	["u_size"]=22.87,
+	["u_md5"]="7c894ab30857d7d0c03d1cd106ec489f",
+	["u_size"]=27.32,
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/Panel_set.json",
-	["u_md5"]="87b8006ba8d545e963375fba6d087d3a",
-	["u_size"]=18.19,
+	["u_md5"]="b3cfdea672c08b6b17ffcc0eff06f9cc",
+	["u_size"]=14.63,
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/Panel_xiala.json",
@@ -1926,14 +1926,24 @@ return {
 	["u_size"]=9.64,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/meirenyutis.plist",
-	["u_md5"]="3af17d2ecdf4d3e5a4760ee8d2eab6f6",
-	["u_size"]=14.84,
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/meirenyutis_1.plist",
+	["u_md5"]="fe5d86e3bcf0f92819b4eb70ff40f0de",
+	["u_size"]=14.15,
 	},
 {
-	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/meirenyutis.png",
-	["u_md5"]="0639f3b74e5129a669f66552e6aa5e0e",
-	["u_size"]=480.63,
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/meirenyutis_1.png",
+	["u_md5"]="92f482ae2d56a976326ea0c2864e349e",
+	["u_size"]=459.17,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/meirenyutis_2.plist",
+	["u_md5"]="d573b78b2cf8dbffe4254cb3b08faafc",
+	["u_size"]=2.05,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/meirenyutis_2.png",
+	["u_md5"]="1b865ca5eb5da15c47df929d7e8493fe",
+	["u_size"]=23.14,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/nezhatis.plist",
@@ -3497,8 +3507,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
-	["u_md5"]="07bbc648036738a5f3d9b0aa275f3673",
-	["u_size"]=15.87,
+	["u_md5"]="8c257a8bc895bdcc0df9c3b90344fbae",
+	["u_size"]=15.88,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletMediator.lua",
@@ -3702,8 +3712,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerView.lua",
-	["u_md5"]="a91d0725592f1a0520232d8056b6ad68",
-	["u_size"]=17.88,
+	["u_md5"]="2b4d7287414eac44cbe4b0913f28170c",
+	["u_size"]=18.28,
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/DntgEvent.lua",
