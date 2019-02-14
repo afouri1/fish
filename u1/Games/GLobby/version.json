@@ -2,19 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.518",
-["packageSize"] = 12187,
-["date"] = "20190212",
+["version"] = "1.1.519",
+["packageSize"] = 12222,
+["date"] = "20190214",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.牌局界面修复
-2.美人鱼碰撞范围优化
-3.大厅空白区域优化
-4.充值金额刷新修复
-5.GM后台数据不全修复
+1.创建加入渔厅界面修复
+2.创建渔厅提示语修改
+3.GM后台在线状态修复
+4.大厅崩溃修复
+5.红点不同步修复
+6.添加金币场机器人
+7.渠道包替换头像
 ]],
 ["assets"] = {} 
 }
