@@ -2,21 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.524",
-["packageSize"] = 12225,
+["version"] = "1.1.525",
+["packageSize"] = 12226,
 ["date"] = "20190215",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.创建加入渔厅界面修复
-2.创建渔厅提示语修改
-3.GM后台在线状态修复
-4.大厅崩溃修复
-5.红点不同步修复
-6.添加金币场机器人
-7.渠道包替换头像
+1.美人鱼碰撞体积优化
+2.渔厅界面优化调整
+3.解决部分手机聊天时崩溃
+4.充值金币之后未刷新修复
+5.公告图片替换
+6.聊天/游戏内部分体验优化
 ]],
 ["assets"] = {
 {
@@ -2491,23 +2490,23 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/homepage/img_banner1.png",
-	["u_md5"]="412462deb7691200d2e2923d2b1e5439",
-	["u_size"]=63.96,
+	["u_md5"]="3cb1a1c4751f38c825e2d4d2fab6afb5",
+	["u_size"]=68.19,
 	},
 {
 	["u_name"]="Games/GLobby/res/homepage/img_banner2.png",
-	["u_md5"]="5131f96a5eea24df9c6470b982fbd0d0",
-	["u_size"]=56.83,
+	["u_md5"]="d2fca707ad26de6f2eca9c6a4358176f",
+	["u_size"]=51.35,
 	},
 {
 	["u_name"]="Games/GLobby/res/homepage/img_banner3.png",
-	["u_md5"]="5df87406611bab2c8ab697ea4480fc2f",
-	["u_size"]=56.37,
+	["u_md5"]="45832015bf9f367565851626f4971523",
+	["u_size"]=53.17,
 	},
 {
 	["u_name"]="Games/GLobby/res/homepage/img_banner4.png",
-	["u_md5"]="987063d3e518867f845419d62450f009",
-	["u_size"]=58.88,
+	["u_md5"]="238d5a1a2a7915aac512bb8e1b2450d3",
+	["u_size"]=59.97,
 	},
 {
 	["u_name"]="Games/GLobby/res/homepage/img_blue.png",
@@ -3381,8 +3380,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerView.lua",
-	["u_md5"]="db21c37d63780db8602090909093a77a",
-	["u_size"]=34.81,
+	["u_md5"]="b4f5c64702d856edbf19812395f109d1",
+	["u_size"]=36.72,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerMediator.lua",
@@ -3821,8 +3820,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageBottom.lua",
-	["u_md5"]="c1f469ef58cd511c5f32697d4530a852",
-	["u_size"]=9.5,
+	["u_md5"]="980e547bdc3e237d7372701cfbec780f",
+	["u_size"]=10.64,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
@@ -3831,8 +3830,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="85f874103e87feb764b6e4b62d45f8e8",
-	["u_size"]=86.41,
+	["u_md5"]="b1f173232765eceebd3cefa580dc9926",
+	["u_size"]=86.91,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
@@ -3901,8 +3900,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/NetworkConfig/LobbyNetworkCmd.lua",
-	["u_md5"]="182cbe297677e06a2766a935a07aa389",
-	["u_size"]=28.02,
+	["u_md5"]="b0464d27a903d38de8632812cfa41018",
+	["u_size"]=28.35,
 	},
 {
 	["u_name"]="Games/GLobby/src/WorldChat/GLobbyWorldChatLayerItem.lua",
@@ -3916,8 +3915,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/WorldChat/GLobbyWorldChatLayerView.lua",
-	["u_md5"]="52baf6ccf2499e5574c624669de8ef8c",
-	["u_size"]=29.13,
+	["u_md5"]="834e532646584f688778dc29964f55a8",
+	["u_size"]=29.16,
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/Cpp2LuaGlobalFunc.lua",
@@ -3951,8 +3950,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/WorldChatListData.lua",
-	["u_md5"]="908f439ac9e484e16c094ff15aa9f08a",
-	["u_size"]=5.59,
+	["u_md5"]="aa030eb41f2890e5b7a62cc605c0548d",
+	["u_size"]=5.62,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubGiftRecordData.lua",
@@ -4166,18 +4165,18 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Cmd.pb",
-	["u_md5"]="c2f497ee8d70cafa4bf1bd4de2a27ccb",
-	["u_size"]=3.47,
+	["u_md5"]="c260fa242fe165d220116665648467d3",
+	["u_size"]=3.52,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_c2s.pb",
-	["u_md5"]="4d0de6070c70bcca7844d3660978ce69",
-	["u_size"]=3.76,
+	["u_md5"]="921b73024d40d89fbaafd5a5c983c4fa",
+	["u_size"]=3.8,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_s2c.pb",
-	["u_md5"]="5428e150431224b8976bb71b4a60ecda",
-	["u_size"]=8.32,
+	["u_md5"]="540acc20048467a0afdfc803f383809a",
+	["u_size"]=8.4,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/c2s.pb",
