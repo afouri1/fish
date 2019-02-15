@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.525",
+["version"] = "1.1.526",
 ["packageSize"] = 12226,
 ["date"] = "20190215",
 ["depends"] = {
@@ -3820,8 +3820,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageBottom.lua",
-	["u_md5"]="980e547bdc3e237d7372701cfbec780f",
-	["u_size"]=10.64,
+	["u_md5"]="9e178e64abd2ae0c636761f54a458cc9",
+	["u_size"]=10.75,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
@@ -3830,8 +3830,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="b1f173232765eceebd3cefa580dc9926",
-	["u_size"]=86.91,
+	["u_md5"]="96b1258ac49ca4677841c8578c73858d",
+	["u_size"]=87.27,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
