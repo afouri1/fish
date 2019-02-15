@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.523",
-["packageSize"] = 12222,
+["version"] = "1.1.524",
+["packageSize"] = 12225,
 ["date"] = "20190215",
 ["depends"] = {
 10001,
@@ -3381,8 +3381,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerView.lua",
-	["u_md5"]="57de4c481511a6109f6d213929fd2fa0",
-	["u_size"]=34.79,
+	["u_md5"]="db21c37d63780db8602090909093a77a",
+	["u_size"]=34.81,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerMediator.lua",
@@ -3446,8 +3446,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubManageLayerView.lua",
-	["u_md5"]="f3248a76ec38ef9a4da7ba0f1e1a3126",
-	["u_size"]=33.63,
+	["u_md5"]="0eece03348a2e61607222383b0126a41",
+	["u_size"]=34.52,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubModifyLayerMediator.lua",
@@ -3961,8 +3961,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubListData.lua",
-	["u_md5"]="19057c40a5f521f243931064df6e7101",
-	["u_size"]=4.71,
+	["u_md5"]="cff8dc691a724f1b8f8b5e7579d2bd61",
+	["u_size"]=6.26,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubMemberListData.lua",
@@ -4126,8 +4126,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyLayerView.lua",
-	["u_md5"]="9a73e6c8be831845cce461a2148af3d2",
-	["u_size"]=28.43,
+	["u_md5"]="3d844761d6ece635699c749efc1890ad",
+	["u_size"]=29.01,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyPtRecordLayerItem.lua",
