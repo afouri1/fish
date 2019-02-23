@@ -2,21 +2,23 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.533",
-["packageSize"] = 13968,
+["version"] = "1.1.534",
+["packageSize"] = 14013,
 ["date"] = "20190223",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.体验场新增兑换金币
-2.渔厅内新增聊天
-3.美人鱼横幅优化
-4.推荐渔厅优化
-5.大厅聊天界面优化
-6.金币场数值调整优化
-7.其他大厅及游戏内已知bug修复
+1.“我的”内图标点击区域优化
+2.渔厅成员管理新增玩家信息
+3.牌桌界面调整优化
+4.新增背包系统
+5.新增鱼雷道具
+6.新增大转盘
+7.大厅新增活动标签
+8.新增渔厅列表详细信息查看
+9.大厅/游戏内常规BUG修复
 
 ]],
 ["assets"] = {
@@ -597,23 +599,23 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/club/cardInfo/seatRole1.png",
-	["u_md5"]="41edcc5df3babb62e1fc6f2385f9573b",
-	["u_size"]=7.24,
+	["u_md5"]="a3dbe2df28ea31c481e8c4a02d559010",
+	["u_size"]=23.57,
 	},
 {
 	["u_name"]="Games/GLobby/res/club/cardInfo/seatRole2.png",
-	["u_md5"]="50eab6273335b5faec1917aee7d58e57",
-	["u_size"]=4.33,
+	["u_md5"]="877ca44c520d2df4aa4a631924dca8b3",
+	["u_size"]=13.9,
 	},
 {
 	["u_name"]="Games/GLobby/res/club/cardInfo/seatRole3.png",
-	["u_md5"]="d1c47a303afd1775ea526224f0f6fc4e",
-	["u_size"]=4.74,
+	["u_md5"]="45d67f19a9f3f9ee5a86a31ed393b3fd",
+	["u_size"]=15.28,
 	},
 {
 	["u_name"]="Games/GLobby/res/club/cardInfo/seatRole4.png",
-	["u_md5"]="8dce168d2e55863efd13277b33cfb4f3",
-	["u_size"]=3.33,
+	["u_md5"]="ac56702be8c6d211e77652c901c87a29",
+	["u_size"]=9.59,
 	},
 {
 	["u_name"]="Games/GLobby/res/club/cardInfo/top_intr_bg.png",
@@ -3912,7 +3914,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerItem.lua",
-	["u_md5"]="0458f6de3248929142d02cc550e6b619",
+	["u_md5"]="14768493ee1588ed77fbbec5ac5e68aa",
 	["u_size"]=18.59,
 	},
 {
@@ -3922,8 +3924,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerView.lua",
-	["u_md5"]="68ba5deb01dd040e9283a4f86d136166",
-	["u_size"]=38.69,
+	["u_md5"]="e0b60f6301695723c1faf759354f1e07",
+	["u_size"]=40.7,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerMediator.lua",
@@ -3977,8 +3979,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubListLayerView.lua",
-	["u_md5"]="e7906b39662ddcea43112e53c0f8254c",
-	["u_size"]=15.06,
+	["u_md5"]="221c5c72dee913717f902d7076202a01",
+	["u_size"]=15.07,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubManageLayerMediator.lua",
@@ -4407,8 +4409,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="5ccb346ed0a7319caf4ab7e570b05779",
-	["u_size"]=93.17,
+	["u_md5"]="6617ef445cb83866c045aad4179b2474",
+	["u_size"]=93.13,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
@@ -4477,13 +4479,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/NetworkConfig/LobbyNetworkCmd.lua",
-	["u_md5"]="d95ac99387f4a3f0981cb63b5382f95f",
-	["u_size"]=30.33,
+	["u_md5"]="895bd5a24775f79ebebcc5e4acfd7955",
+	["u_size"]=30.38,
 	},
 {
 	["u_name"]="Games/GLobby/src/WorldChat/GLobbyWorldChatLayerItem.lua",
-	["u_md5"]="9ed98891eb90c133c3158938e6a117a7",
-	["u_size"]=11.95,
+	["u_md5"]="a56c3050b1694be9f2401d579c7d254d",
+	["u_size"]=12.54,
 	},
 {
 	["u_name"]="Games/GLobby/src/WorldChat/GLobbyWorldChatLayerMediator.lua",
@@ -4787,18 +4789,18 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Cmd.pb",
-	["u_md5"]="ed6d6cd1398ef5a0066449439efefc3b",
-	["u_size"]=3.78,
+	["u_md5"]="9f3056b1a6bc33019aa1dd7bf94e5dd6",
+	["u_size"]=3.84,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_c2s.pb",
-	["u_md5"]="2e5ff06d7bee82517fe95c65a9779025",
-	["u_size"]=3.97,
+	["u_md5"]="39e1d28dc405873f2c2573efb86ffd8f",
+	["u_size"]=4.02,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_s2c.pb",
-	["u_md5"]="5b89de1e205199d5508947c6568b4ad4",
-	["u_size"]=8.87,
+	["u_md5"]="0d3bfdf777c1bc3ee2dd5ccad94cc8d3",
+	["u_size"]=8.98,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/c2s.pb",
