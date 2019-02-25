@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.540",
-["packageSize"] = 14152,
+["version"] = "1.1.541",
+["packageSize"] = 14182,
 ["date"] = "20190225",
 ["depends"] = {
 10001,
@@ -502,6 +502,16 @@ return {
 	["u_name"]="Games/GLobby/res/club/animation/zhuanquan.png",
 	["u_md5"]="fbcca2fb67285cf3eb7d3d4570a6698f",
 	["u_size"]=3.31,
+	},
+{
+	["u_name"]="Games/GLobby/res/club/animation/zyjiantou.plist",
+	["u_md5"]="0e16fb85475e6c38216e6f068e8f3b82",
+	["u_size"]=7.97,
+	},
+{
+	["u_name"]="Games/GLobby/res/club/animation/zyjiantou.png",
+	["u_md5"]="f3dc66df62bf71c8dcfdf8328d15d29e",
+	["u_size"]=19.41,
 	},
 {
 	["u_name"]="Games/GLobby/res/club/button_accept.png",
@@ -2375,8 +2385,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_bind_agent.json",
-	["u_md5"]="d85f314180a59d7d8a4876ddcb866d9e",
-	["u_size"]=13.45,
+	["u_md5"]="1b71842603869b1cb1015c7655f48654",
+	["u_size"]=15.12,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_bind_expe.json",
@@ -4005,8 +4015,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerView.lua",
-	["u_md5"]="913c7f72baa78803cb1a405a4e9002e7",
-	["u_size"]=40.7,
+	["u_md5"]="6bd361ab78dc47c3e1561f7cf17eb694",
+	["u_size"]=42.16,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerMediator.lua",
@@ -4935,8 +4945,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/recharge/GLobbyRechargeLayerView.lua",
-	["u_md5"]="9419a699c583a6d312a3842a41633832",
-	["u_size"]=23.86,
+	["u_md5"]="cf388be7e26c0f1d8a1c805cb162a61c",
+	["u_size"]=23.94,
 	},
 {
 	["u_name"]="Games/GLobby/src/record/GLobbyRecordLayerItem.lua",
