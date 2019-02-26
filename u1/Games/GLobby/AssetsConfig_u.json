@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.541",
+["version"] = "1.1.546",
 ["packageSize"] = 14182,
-["date"] = "20190225",
+["date"] = "20190226",
 ["depends"] = {
 10001,
 1001,
@@ -4540,8 +4540,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerMediator.lua",
-	["u_md5"]="42f63b1002990a5d55574b3b140d7aa6",
-	["u_size"]=13.79,
+	["u_md5"]="c80b89d9560303747ab3f12dfa24a8c9",
+	["u_size"]=13.8,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
