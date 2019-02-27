@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.546",
-["packageSize"] = 37400,
-["date"] = "20190226",
+["version"] = "1.1.550",
+["packageSize"] = 38020,
+["date"] = "20190227",
 ["depends"] = {
 },
 ["newDetails"] = [[
@@ -362,6 +362,31 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation/SYYLAnimation1.png",
+	["u_md5"]="161a2b5aabe687a8f549cc66dfa3a995",
+	["u_size"]=260.67,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation10/SYYLAnimation/SYYLAnimation.ExportJson",
+	["u_md5"]="63414ac963362542022cead47eb0f122",
+	["u_size"]=21.91,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation10/SYYLAnimation/SYYLAnimation0_1.plist",
+	["u_md5"]="65b7ad1510653537223c638c418081d4",
+	["u_size"]=2.74,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation10/SYYLAnimation/SYYLAnimation0_1.png",
+	["u_md5"]="217956d1027518542c32e43bd14366c5",
+	["u_size"]=323.88,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation10/SYYLAnimation/SYYLAnimation1_1.plist",
+	["u_md5"]="12909272b7a87bdc30ba7e70c6949abf",
+	["u_size"]=1.9,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation10/SYYLAnimation/SYYLAnimation1_1.png",
 	["u_md5"]="161a2b5aabe687a8f549cc66dfa3a995",
 	["u_size"]=260.67,
 	},
@@ -3634,6 +3659,16 @@ return {
 	["u_name"]="Games/GDntg/src/GHelper/GExchangeGoldView.lua",
 	["u_md5"]="64b4997dcb40b6adb05c36bd7d1b72e5",
 	["u_size"]=5.93,
+	},
+{
+	["u_name"]="Games/GDntg/src/GHelper/GJackpotMediator.lua",
+	["u_md5"]="b80bc6cecf71465d7dbb005411a0d0cd",
+	["u_size"]=0.62,
+	},
+{
+	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
+	["u_md5"]="50fe59a20ecaa2632a045a674a96720e",
+	["u_size"]=7.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
