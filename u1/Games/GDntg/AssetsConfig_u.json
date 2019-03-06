@@ -2,12 +2,14 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.556",
-["packageSize"] = 38754,
-["date"] = "20190304",
+["version"] = "1.1.562",
+["packageSize"] = 38756,
+["date"] = "20190306",
 ["depends"] = {
 },
-["newDetails"] = [[
+["newDetails"] = [[版本更新内容：
+1.赠送渔厅V币不到账修复
+2.常见bug修复
 ]],
 ["assets"] = {
 {
@@ -3677,8 +3679,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="51b70c163e1e4575f1434be19edb7cff",
-	["u_size"]=57.5,
+	["u_md5"]="62f13adc620ae448d96667fa3db7f93e",
+	["u_size"]=57.54,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3732,8 +3734,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
-	["u_md5"]="8dbe12f7a312dea0df50bf2d7c8121af",
-	["u_size"]=21.54,
+	["u_md5"]="ab331d66a4f9bd60f414d048b0086d92",
+	["u_size"]=21.77,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
@@ -3822,13 +3824,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
-	["u_md5"]="165d38660a0529ebce12d1fb5a007c20",
-	["u_size"]=12.94,
+	["u_md5"]="b747a640fb0e032c857988e5557b4e5e",
+	["u_size"]=13.12,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
-	["u_md5"]="fa9f0b006b52684d5d3b1f8461fc9c16",
-	["u_size"]=10.53,
+	["u_md5"]="2b02a9c4b3d293a3424b36024bf4c691",
+	["u_size"]=10.98,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockView.lua",
@@ -3847,8 +3849,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="3c05639ff7c304d247f3c6ed2b2a9cd1",
-	["u_size"]=21.76,
+	["u_md5"]="fd974cff79958489ae3ada92a7ed2c86",
+	["u_size"]=23.33,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
@@ -3937,8 +3939,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/DntgEvent.lua",
-	["u_md5"]="eb0d7ac5f1970976d10a556238b0ff7e",
-	["u_size"]=0.63,
+	["u_md5"]="1b25e4c84edf0b747135705e006911a2",
+	["u_size"]=0.7,
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/GameConst.lua",
