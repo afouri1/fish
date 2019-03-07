@@ -2,15 +2,12 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.562",
-["packageSize"] = 38756,
-["date"] = "20190306",
+["version"] = "1.1.563",
+["packageSize"] = 38757,
+["date"] = "20190307",
 ["depends"] = {
 },
-["newDetails"] = [[版本更新内容：
-1.赠送渔厅V币不到账修复
-2.常见bug修复
-]],
+["newDetails"] = [[]],
 ["assets"] = {
 {
 	["u_name"]="Games/GDntg/res/cocostudio/DeskInfo.json",
@@ -3679,8 +3676,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="62f13adc620ae448d96667fa3db7f93e",
-	["u_size"]=57.54,
+	["u_md5"]="211becb190382147b841039e69f412e1",
+	["u_size"]=57.58,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3824,8 +3821,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
-	["u_md5"]="b747a640fb0e032c857988e5557b4e5e",
-	["u_size"]=13.12,
+	["u_md5"]="92fbed55870646fcf2cb595cca943a10",
+	["u_size"]=13.17,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
@@ -3849,8 +3846,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="fd974cff79958489ae3ada92a7ed2c86",
-	["u_size"]=23.33,
+	["u_md5"]="9d56a73f9ec0a76a53e672df01595271",
+	["u_size"]=23.49,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
@@ -3909,8 +3906,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GGameTipsLayer.lua",
-	["u_md5"]="956e797bb3ece5b580d3cccf29759cef",
-	["u_size"]=1.29,
+	["u_md5"]="0631c66da52f58a1233a986fbecbbb84",
+	["u_size"]=1.34,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIMediator.lua",
