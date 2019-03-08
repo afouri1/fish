@@ -2,12 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.564",
-["packageSize"] = 38757,
-["date"] = "20190307",
+["version"] = "1.1.565",
+["packageSize"] = 38963,
+["date"] = "20190308",
 ["depends"] = {
 },
-["newDetails"] = [[]],
+["newDetails"] = [[版本更新内容：
+1.新增成就/任务
+2.新增jackpot
+3.推荐渔厅
+
+]],
 ["assets"] = {
 {
 	["u_name"]="Games/GDntg/res/cocostudio/DeskInfo.json",
@@ -178,6 +183,16 @@ return {
 	["u_name"]="Games/GDntg/res/game/deskInfo/yzid.png",
 	["u_md5"]="08b05bb3443c5d8187efe673f34d146d",
 	["u_size"]=1.14,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/dntgCom/bg.png",
+	["u_md5"]="89de9e80ce93a6a8bee52aae3ad99459",
+	["u_size"]=131.1,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/dntgCom/button_queding.png",
+	["u_md5"]="3b6e01a2a8cb67023aff54ad019c7f69",
+	["u_size"]=5.86,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/dntgCom/cutLine.png",
@@ -2636,8 +2651,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/dntg_JackPot.json",
-	["u_md5"]="c0a6c45456f8389c3159f720618af1cd",
-	["u_size"]=87.27,
+	["u_md5"]="f57615580491e8afa1f547b2820bc327",
+	["u_size"]=87.16,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/getAward/awardSp_1.png",
@@ -2726,8 +2741,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/img_jackpot.png",
-	["u_md5"]="17986d4dc7c65e9e7dfb4c3997f400d6",
-	["u_size"]=11.78,
+	["u_md5"]="01ba1aa0eebab0e116394b02db5acfea",
+	["u_size"]=50.91,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/kuang.png",
@@ -2738,6 +2753,11 @@ return {
 	["u_name"]="Games/GDntg/res/game/jackpot/nezhajiang.png",
 	["u_md5"]="2a49ff95316c2d0531f98cf0e9cafc52",
 	["u_size"]=4.2,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/num_dim.png",
+	["u_md5"]="bdbf6fadc002bcad7a5f435ab0db615c",
+	["u_size"]=25.32,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/num_jackpot.png",
@@ -3591,8 +3611,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="e081d104c9ec148bf193cd1b4377a451",
-	["u_size"]=32.44,
+	["u_md5"]="2d14f6b0dcf95ce2719b546610b80789",
+	["u_size"]=32.49,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3626,7 +3646,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
+	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
 	["u_size"]=0.76,
 	},
 {
@@ -3651,13 +3671,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="7edcda64fb97c099fde3f6372a66c56f",
-	["u_size"]=88.74,
+	["u_md5"]="bb55173d55a18a1d45a1b3f9dcd203b1",
+	["u_size"]=88.81,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="52b346878170bee6ee28ccb330a80bc2",
-	["u_size"]=2.71,
+	["u_md5"]="ffc1f9ea5b1a590cfdb6a3242480c98d",
+	["u_size"]=2.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
@@ -3676,7 +3696,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="211becb190382147b841039e69f412e1",
+	["u_md5"]="24347f4ef1808ebafb89ec997807052e",
 	["u_size"]=57.58,
 	},
 {
@@ -3821,8 +3841,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
-	["u_md5"]="92fbed55870646fcf2cb595cca943a10",
-	["u_size"]=13.17,
+	["u_md5"]="782025046a8128e8ef69d5dcb7f8b34e",
+	["u_size"]=17.13,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
@@ -3846,8 +3866,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="9d56a73f9ec0a76a53e672df01595271",
-	["u_size"]=23.49,
+	["u_md5"]="9dde18936b0f1c56872ff617ec34ad7b",
+	["u_size"]=23.46,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
@@ -3906,8 +3926,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GGameTipsLayer.lua",
-	["u_md5"]="0631c66da52f58a1233a986fbecbbb84",
-	["u_size"]=1.34,
+	["u_md5"]="ef5e7af7ee46c2783787fe318e46df51",
+	["u_size"]=2.11,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIMediator.lua",

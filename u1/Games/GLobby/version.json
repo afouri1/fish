@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.564",
-["packageSize"] = 16735,
-["date"] = "20190307",
+["version"] = "1.1.565",
+["packageSize"] = 16708,
+["date"] = "20190308",
 ["depends"] = {
 10001,
 1001,
@@ -13,6 +13,7 @@ return {
 1.新增成就/任务
 2.新增jackpot
 3.推荐渔厅
+
 ]],
 ["assets"] = {} 
 }
