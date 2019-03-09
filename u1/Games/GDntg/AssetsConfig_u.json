@@ -2,22 +2,12 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.569",
+["version"] = "1.1.571",
 ["packageSize"] = 40647,
 ["date"] = "20190309",
 ["depends"] = {
 },
-["newDetails"] = [[版本更新内容：
-1.新增积分奖励记录
-2.推荐渔厅优化
-3.金币场初级场门槛调整
-4.新增成就/任务
-5.新增鱼雷赠送记录
-6.新增活动免费赚币入口
-7.金币场新增jackpot
-8.其他已知bug修复
-
-]],
+["newDetails"] = [[]],
 ["assets"] = {
 {
 	["u_name"]="Games/GDntg/res/cocostudio/DeskInfo.json",
@@ -3681,8 +3671,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="2d14f6b0dcf95ce2719b546610b80789",
-	["u_size"]=32.49,
+	["u_md5"]="e081d104c9ec148bf193cd1b4377a451",
+	["u_size"]=32.44,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3716,7 +3706,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
+	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
 	["u_size"]=0.76,
 	},
 {
@@ -3741,13 +3731,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="bb55173d55a18a1d45a1b3f9dcd203b1",
-	["u_size"]=88.81,
+	["u_md5"]="7edcda64fb97c099fde3f6372a66c56f",
+	["u_size"]=88.74,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="ffc1f9ea5b1a590cfdb6a3242480c98d",
-	["u_size"]=2.72,
+	["u_md5"]="52b346878170bee6ee28ccb330a80bc2",
+	["u_size"]=2.71,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
