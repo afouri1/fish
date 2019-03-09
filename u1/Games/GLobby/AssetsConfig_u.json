@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.568",
-["packageSize"] = 16710,
+["version"] = "1.1.569",
+["packageSize"] = 16733,
 ["date"] = "20190309",
 ["depends"] = {
 10001,
@@ -485,6 +485,21 @@ return {
 	["u_name"]="Games/GLobby/res/activity/task/button_wwc.png",
 	["u_md5"]="d4a6e6e98fb49d3c51e1861d3e2a24a3",
 	["u_size"]=1.15,
+	},
+{
+	["u_name"]="Games/GLobby/res/activity/task/getBox/baoxiang/baoxiang.ExportJson",
+	["u_md5"]="2a824a848a77aa7633212914713bacbf",
+	["u_size"]=4.23,
+	},
+{
+	["u_name"]="Games/GLobby/res/activity/task/getBox/baoxiang/baoxiang0.plist",
+	["u_md5"]="1d76266dd49fc7ff899fc0bbb86969c8",
+	["u_size"]=1.08,
+	},
+{
+	["u_name"]="Games/GLobby/res/activity/task/getBox/baoxiang/baoxiang0.png",
+	["u_md5"]="3a89b62afde0b2beee1ca5afd0fbf010",
+	["u_size"]=15.44,
 	},
 {
 	["u_name"]="Games/GLobby/res/activity/task/ico1.png",
@@ -2568,8 +2583,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/activity/dntg_lobby_task.json",
-	["u_md5"]="1ae3695ce31874ecbd5887873e12e6c1",
-	["u_size"]=69.57,
+	["u_md5"]="5cf9e5292ba5d92815581ab7ce81e8b3",
+	["u_size"]=69.56,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/activity/dntg_lobby_task_item.json",
@@ -5278,8 +5293,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyTaskLayerView.lua",
-	["u_md5"]="7668a3f15b4c959ba6fa741fe0faa241",
-	["u_size"]=20.26,
+	["u_md5"]="e89440d45ced9689f6560aeb1a62f068",
+	["u_size"]=22.53,
 	},
 {
 	["u_name"]="Games/GLobby/src/backwater/GLobbyBackwaterLayerMediator.lua",
