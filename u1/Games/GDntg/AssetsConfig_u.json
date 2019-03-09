@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.574",
+["version"] = "1.1.575",
 ["packageSize"] = 40647,
 ["date"] = "20190309",
 ["depends"] = {
@@ -3901,8 +3901,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
-	["u_md5"]="bc5e41337ce009d149a324e184acc123",
-	["u_size"]=20.53,
+	["u_md5"]="1562bc24499472fd2db1757d44095513",
+	["u_size"]=20.6,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
