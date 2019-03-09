@@ -2,17 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.565",
-["packageSize"] = 16708,
-["date"] = "20190308",
+["version"] = "1.1.566",
+["packageSize"] = 16710,
+["date"] = "20190309",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.新增成就/任务
-2.新增jackpot
-3.推荐渔厅
+1.新增积分奖励记录
+2.推荐渔厅优化
+3.金币场初级场门槛调整
+4.新增成就/任务
+5.新增鱼雷赠送记录
+6.新增活动免费赚币入口
+7.金币场新增jackpot
+8.其他已知bug修复
 
 ]],
 ["assets"] = {
@@ -5078,8 +5083,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
-	["u_md5"]="219036ad2d0551694d4d8217db1699f4",
-	["u_size"]=15.98,
+	["u_md5"]="a305428359fdcb3c5803b258fba33687",
+	["u_size"]=16.19,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyLoadingView.lua",
@@ -5203,8 +5208,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyActivityLayerView.lua",
-	["u_md5"]="a9b1f1d71dd0b32b60a77c3b1ac34b4a",
-	["u_size"]=9.06,
+	["u_md5"]="3c49fc916ee63d1e3555054b9c5ba6f5",
+	["u_size"]=9.07,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyBackpackLayerMediator.lua",
@@ -5263,8 +5268,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyTaskLayerItem.lua",
-	["u_md5"]="d3ffe5f923ca1577e99be09eed0af3f2",
-	["u_size"]=5.78,
+	["u_md5"]="c95791580b7ef3cb4c6233087b554acc",
+	["u_size"]=5.85,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyTaskLayerMediator.lua",
@@ -5273,8 +5278,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyTaskLayerView.lua",
-	["u_md5"]="0d899c087b37a42d08addc55e7df3cf8",
-	["u_size"]=18.38,
+	["u_md5"]="7668a3f15b4c959ba6fa741fe0faa241",
+	["u_size"]=20.26,
 	},
 {
 	["u_name"]="Games/GLobby/src/backwater/GLobbyBackwaterLayerMediator.lua",

@@ -2,15 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.565",
-["packageSize"] = 38963,
-["date"] = "20190308",
+["version"] = "1.1.566",
+["packageSize"] = 40174,
+["date"] = "20190309",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.新增成就/任务
-2.新增jackpot
-3.推荐渔厅
+1.新增积分奖励记录
+2.推荐渔厅优化
+3.金币场初级场门槛调整
+4.新增成就/任务
+5.新增鱼雷赠送记录
+6.新增活动免费赚币入口
+7.金币场新增jackpot
+8.其他已知bug修复
 
 ]],
 ["assets"] = {
@@ -2635,9 +2640,19 @@ return {
 	["u_size"]=15.08,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/jackpot/award_bbg.png",
+	["u_md5"]="effbf1a1351d336bc7bdb6bafe2e0881",
+	["u_size"]=27.89,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/jackpot/bg.png",
 	["u_md5"]="b8622617aa2746a785efbbbbc6f245f7",
 	["u_size"]=135.27,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/choujiang_num.png",
+	["u_md5"]="0d0e1cbd1271360454c911a12ce648e0",
+	["u_size"]=4.69,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/close.png",
@@ -2646,38 +2661,48 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/dashengjiang.png",
-	["u_md5"]="baa8620e10ab03f05a8abf8a2a4fe64f",
-	["u_size"]=4.05,
+	["u_md5"]="a15b20c122be4e28accbdad21745c1a6",
+	["u_size"]=2.14,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/dntg_JackPot.json",
-	["u_md5"]="f57615580491e8afa1f547b2820bc327",
-	["u_size"]=87.16,
+	["u_md5"]="97938314d59926eb6162cf6e2fd75656",
+	["u_size"]=100.97,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/getAward/awardSp_1.png",
-	["u_md5"]="9ba083ea90d2fa8e9b2da0e0daa47fb7",
-	["u_size"]=29.48,
+	["u_md5"]="feafcdf8305865693ba6ccf660696854",
+	["u_size"]=11.49,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/getAward/awardSp_2.png",
-	["u_md5"]="608e196bf5aec6a74832f183ed61dc0a",
-	["u_size"]=29.9,
+	["u_md5"]="2e6c5303fc1f045105cab9df32a38be4",
+	["u_size"]=11.61,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/getAward/awardSp_3.png",
-	["u_md5"]="0400462187ea7c245450977d6e6734ee",
-	["u_size"]=30.06,
+	["u_md5"]="d99089a473d5eec5683f04bd71aa0ae3",
+	["u_size"]=12.15,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/getAward/awardSp_4.png",
-	["u_md5"]="d9a845847bb53a61ab27f05c2119eeb6",
-	["u_size"]=30.1,
+	["u_md5"]="9dcfa9d88f1cbc02a6f29663f1c4914c",
+	["u_size"]=11.59,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/getAward/img_1.png",
 	["u_md5"]="d43e1215d6a654075fe298ae407e3c8c",
 	["u_size"]=100.11,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/getAward/jackpot_awardbg.png",
+	["u_md5"]="65be29c580f119671e92195c6179327e",
+	["u_size"]=26.14,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/getAward/jp_getAwardNum.png",
+	["u_md5"]="d3c9770b2de8f2036a3d7b838a2e575e",
+	["u_size"]=6.09,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/getAward/zhongjiangjinbi.plist",
@@ -2750,9 +2775,24 @@ return {
 	["u_size"]=2.24,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/jackpot/mianban/mianban.ExportJson",
+	["u_md5"]="98fca3e54148f034ee37365463330bac",
+	["u_size"]=17.02,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/mianban/mianban0.plist",
+	["u_md5"]="b4fec1c293645c7786389637000bff38",
+	["u_size"]=1.87,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/mianban/mianban0.png",
+	["u_md5"]="85c0958642752feac16f72ce239230b2",
+	["u_size"]=999.83,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/jackpot/nezhajiang.png",
-	["u_md5"]="2a49ff95316c2d0531f98cf0e9cafc52",
-	["u_size"]=4.2,
+	["u_md5"]="f6f4ccdfc4f53b1cfd9273f66474d5e3",
+	["u_size"]=2.28,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/num_dim.png",
@@ -2766,13 +2806,28 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/renyujiang.png",
-	["u_md5"]="2983387b0bdd31b11033700d39f56d36",
-	["u_size"]=3.95,
+	["u_md5"]="88a93e1aa690aec06cd1193f28e7b25d",
+	["u_size"]=2.14,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/shuoming.png",
 	["u_md5"]="f6aaa6e5e292d2e8497c73dd32324d82",
 	["u_size"]=51.09,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/wenhao/wenhao.ExportJson",
+	["u_md5"]="9b39ae6bef1fd20095b8dd09ccbaa915",
+	["u_size"]=13.09,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/wenhao/wenhao0.plist",
+	["u_md5"]="950ee6127ab08054a2bdb4ceb347bbe4",
+	["u_size"]=1.88,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/wenhao/wenhao0.png",
+	["u_md5"]="452311b8dc18efff9427ef9b997848c7",
+	["u_size"]=177.28,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/xuanzhongkuang.png",
@@ -2781,8 +2836,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/yudijiang.png",
-	["u_md5"]="b2df678328bda77ca3d063749b93b7d7",
-	["u_size"]=3.97,
+	["u_md5"]="8fb9bb0a3774a69cf138e57d26c31795",
+	["u_size"]=2.09,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/lock/autoShootBtn01.png",
@@ -3696,8 +3751,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="24347f4ef1808ebafb89ec997807052e",
-	["u_size"]=57.58,
+	["u_md5"]="2c16109ad01af15e67ebf0d6346579a9",
+	["u_size"]=57.62,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3841,8 +3896,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
-	["u_md5"]="782025046a8128e8ef69d5dcb7f8b34e",
-	["u_size"]=17.13,
+	["u_md5"]="06d12987b22189a6b55a9a336147a41b",
+	["u_size"]=18.66,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
@@ -4031,8 +4086,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_s2c.pb",
-	["u_md5"]="06ec9cd4c94d811f35dd700cf2ecae89",
-	["u_size"]=2.91,
+	["u_md5"]="eeade8c467af4e929232ea78b3f052ec",
+	["u_size"]=2.98,
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",
