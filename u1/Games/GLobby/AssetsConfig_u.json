@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.572",
+["version"] = "1.1.573",
 ["packageSize"] = 16730,
 ["date"] = "20190309",
 ["depends"] = {
@@ -5292,8 +5292,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyTaskLayerView.lua",
-	["u_md5"]="9e5854641699eb9654ffc23fbdbb0321",
-	["u_size"]=22.68,
+	["u_md5"]="3c419e9e723d84bf3ced5c46768a689a",
+	["u_size"]=22.69,
 	},
 {
 	["u_name"]="Games/GLobby/src/backwater/GLobbyBackwaterLayerMediator.lua",
