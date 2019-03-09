@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.567",
-["packageSize"] = 40174,
+["version"] = "1.1.568",
+["packageSize"] = 40647,
 ["date"] = "20190309",
 ["depends"] = {
 },
@@ -2670,6 +2670,21 @@ return {
 	["u_size"]=100.97,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/jackpot/fanpan/fanpan.ExportJson",
+	["u_md5"]="2571747e87baf9f85c6d4c2cfdb4ec13",
+	["u_size"]=34.27,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/fanpan/fanpan0.plist",
+	["u_md5"]="bbd63ccc77bb0d7dc2279418b66f4bbc",
+	["u_size"]=13.19,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/fanpan/fanpan0.png",
+	["u_md5"]="e319795d935b11c5fb32937470db2d92",
+	["u_size"]=423.72,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/jackpot/getAward/awardSp_1.png",
 	["u_md5"]="feafcdf8305865693ba6ccf660696854",
 	["u_size"]=11.49,
@@ -3896,8 +3911,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
-	["u_md5"]="159ce4c986dcbbc6ab176ce46cb3400e",
-	["u_size"]=18.69,
+	["u_md5"]="36e3275074858f191a1704c8c16db7e8",
+	["u_size"]=20.47,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
