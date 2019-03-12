@@ -2,20 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.580",
-["packageSize"] = 16886,
-["date"] = "20190311",
+["version"] = "1.1.583",
+["packageSize"] = 20138,
+["date"] = "20190312",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.推荐渔厅优化
-2.金币场初级场门槛调整
-3.新增成就/任务
-4.新增鱼雷赠送记录
-5.金币场新增jackpot
-6.其他已知bug修复
+1.jackpot新增中奖消息
+2.活动新增免费赚币
+3.活动新增BUG反馈
+4.已知BUG修改
 ]],
 ["assets"] = {
 {
@@ -429,6 +427,11 @@ return {
 	["u_size"]=8.36,
 	},
 {
+	["u_name"]="Games/GLobby/res/activity/ico_feedback.png",
+	["u_md5"]="bd3bb60c3222295f203d54b2d481f47d",
+	["u_size"]=6.56,
+	},
+{
 	["u_name"]="Games/GLobby/res/activity/ico_renwu.png",
 	["u_md5"]="b46b778100f551c015f0f3cb5634dbf5",
 	["u_size"]=5.6,
@@ -437,6 +440,11 @@ return {
 	["u_name"]="Games/GLobby/res/activity/img1.png",
 	["u_md5"]="fe8c239e53a51ba506560a408e344fbe",
 	["u_size"]=115.11,
+	},
+{
+	["u_name"]="Games/GLobby/res/activity/img2.png",
+	["u_md5"]="29a6d5daa0e28e33fd77c6d4490f2a97",
+	["u_size"]=114.26,
 	},
 {
 	["u_name"]="Games/GLobby/res/activity/jifenjiangli.png",
@@ -2565,8 +2573,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/activity/dntg_lobby_activity.json",
-	["u_md5"]="95e65005ed11898a711dd93f8e80e0ea",
-	["u_size"]=16.59,
+	["u_md5"]="ac640b2d13216e311bc372626ddb81be",
+	["u_size"]=18.44,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/activity/dntg_lobby_backpack.json",
@@ -2577,6 +2585,11 @@ return {
 	["u_name"]="Games/GLobby/res/cocostudio/activity/dntg_lobby_bind_phone.json",
 	["u_md5"]="8d836890e476c0aabafe4fca92e79dd8",
 	["u_size"]=26.61,
+	},
+{
+	["u_name"]="Games/GLobby/res/cocostudio/activity/dntg_lobby_feedback.json",
+	["u_md5"]="ab3c02186ceb865073b634e5a032e18f",
+	["u_size"]=9.36,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/activity/dntg_lobby_fish_give.json",
@@ -2852,6 +2865,11 @@ return {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_validate_message_item.json",
 	["u_md5"]="cd61f4ef9d8e10b4653efd669f38c7cc",
 	["u_size"]=16.23,
+	},
+{
+	["u_name"]="Games/GLobby/res/cocostudio/jackpot/dntg_lobby_jackpot.json",
+	["u_md5"]="a684dd62b877b086968a0a112feb6365",
+	["u_size"]=20.13,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/location/dntg_lobby_fishhall_info.json",
@@ -3697,6 +3715,91 @@ return {
 	["u_name"]="Games/GLobby/res/homepage/txt_zwkf.png",
 	["u_md5"]="2062743a62094114d9f9d305be0c8819",
 	["u_size"]=0.78,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/FZY4JW.TTF",
+	["u_md5"]="2b853be76b11f1ba5ab6d777a2bc9238",
+	["u_size"]=2758.63,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/animation/huangyh.plist",
+	["u_md5"]="ac0af2ab83c84fd3b25604a404603b2e",
+	["u_size"]=15.13,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/animation/huangyh.png",
+	["u_md5"]="44fb77e0b40b1268d6d6f0252b171d41",
+	["u_size"]=142.29,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/animation/yanhua.plist",
+	["u_md5"]="7fce12dc64eba2414d540ba1444304dd",
+	["u_size"]=9.1,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/animation/yanhua.png",
+	["u_md5"]="10060ff878b08a46fadc1bd3fea8c745",
+	["u_size"]=125.08,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/bg.png",
+	["u_md5"]="91bfba0d47c879be54e5ac5be9ad0154",
+	["u_size"]=3.17,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/bg2.png",
+	["u_md5"]="834184b01751801f2a3fff23381645cb",
+	["u_size"]=1.59,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/dajiang.png",
+	["u_md5"]="93f5b78dd04af0b943d29fc1d380a0a8",
+	["u_size"]=3.77,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/dasheng.png",
+	["u_md5"]="d41502cd7e0c3944b7ce72cbf286ab47",
+	["u_size"]=3.35,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/gongxi.png",
+	["u_md5"]="5ae2065eb28582bf6fdbd86cd491357e",
+	["u_size"]=3.54,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/nezha.png",
+	["u_md5"]="c0e4efc23d99af272497c81874f0f4a0",
+	["u_size"]=3.69,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/num.png",
+	["u_md5"]="9c45984502f83424ee61ed42a5c7e3f0",
+	["u_size"]=3.64,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/renyu.png",
+	["u_md5"]="638c442683d2d6f419ca263c7e0dcd43",
+	["u_size"]=3.04,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/txt2.png",
+	["u_md5"]="18b50b2bc96730e8f935e1bc378b52c9",
+	["u_size"]=7.92,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/yudi.png",
+	["u_md5"]="afadaeb52da6cbc9d6692c1e7daa3e3e",
+	["u_size"]=3.14,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/zai.png",
+	["u_md5"]="d55c5358593584aded9636b3df99083e",
+	["u_size"]=11.32,
+	},
+{
+	["u_name"]="Games/GLobby/res/jackpot/��.png",
+	["u_md5"]="0b51aeffa66cccb367627e82718407ef",
+	["u_size"]=1,
 	},
 {
 	["u_name"]="Games/GLobby/res/login/bg.png",
@@ -5240,8 +5343,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyActivityLayerView.lua",
-	["u_md5"]="924c4caad4184820687d548389d2bd43",
-	["u_size"]=10.79,
+	["u_md5"]="5b6478456ab6e3714d3f5a9c800a52f5",
+	["u_size"]=11.83,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyBackpackLayerMediator.lua",
