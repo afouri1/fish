@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.587",
-["packageSize"] = 42005,
-["date"] = "20190312",
+["version"] = "1.1.588",
+["packageSize"] = 42776,
+["date"] = "20190313",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
@@ -568,6 +568,21 @@ return {
 	["u_name"]="Games/GDntg/res/game/effect/lanzidan.png",
 	["u_md5"]="3bd8c27047ff7a22798621437403c277",
 	["u_size"]=16.9,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/longwangbz.plist",
+	["u_md5"]="a84c4ff6ad3b5c47acd599945e634a91",
+	["u_size"]=5.19,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/longwangbz.png",
+	["u_md5"]="9602efa8f6bd0eba8fff9e8c3049a355",
+	["u_size"]=44.44,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/lwpBullet.png",
+	["u_md5"]="d92e082d4abbdbe6535cbc637646b6e3",
+	["u_size"]=6.01,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/shaoguang.plist",
@@ -3395,14 +3410,49 @@ return {
 	["u_size"]=5.46,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/Armature_yuwangqipao.plist",
+	["u_md5"]="c47fada83f36c42f68eeaf91d33a8ce1",
+	["u_size"]=8,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/Armature_yuwangqipao.png",
+	["u_md5"]="649b1bdb43d29a64c905b080c58f543d",
+	["u_size"]=290.41,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/bg.png",
 	["u_md5"]="937b9e6f5197cf4a882b8a03eaeda6ab",
 	["u_size"]=7.07,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/longwang/longwang.ExportJson",
+	["u_md5"]="5af3f45efbc69ba34cbe4f4a176babbc",
+	["u_size"]=24.62,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/longwang/longwang0.plist",
+	["u_md5"]="8ed23f326f0b389b722630e12a74f802",
+	["u_size"]=11.24,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/longwang/longwang0.png",
+	["u_md5"]="95f5b52e44ea758cfd36e023940c5fcb",
+	["u_size"]=226.47,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/lwpNum.png",
 	["u_md5"]="0d17cedba5f8512cdffb52ea20ac20ee",
 	["u_size"]=3.79,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/paotaitihuan.plist",
+	["u_md5"]="42b563c92ff7f04f32e9ac23b5f1dbcf",
+	["u_size"]=10.56,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/paotaitihuan.png",
+	["u_md5"]="7a38d303b2c5eda994d6ef60edf5ed95",
+	["u_size"]=144.72,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/shengyu.png",
@@ -3841,8 +3891,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="194a88bb26029866f4ddf387a234b477",
-	["u_size"]=65.15,
+	["u_md5"]="47a92910c2fa8230df1dfe3c3df73773",
+	["u_size"]=65.37,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
