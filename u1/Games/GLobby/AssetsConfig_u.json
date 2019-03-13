@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.588",
+["version"] = "1.1.589",
 ["packageSize"] = 20140,
 ["date"] = "20190313",
 ["depends"] = {
@@ -11,9 +11,10 @@ return {
 },
 ["newDetails"] = [[版本更新内容：
 1.jackpot新增中奖消息
-2.活动新增免费赚币
-3.活动新增BUG反馈
-4.已知BUG修改
+2.活动新增免费赚币入口
+3.活动新增BUG反馈入口
+4.官方包新增游客登录
+5.已知BUG修改
 ]],
 ["assets"] = {
 {
@@ -28,7 +29,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="203941267ab3f9fcab62854f33dc71fb",
+	["u_md5"]="4cbb2490db019c1a1ce3a39f6d72a981",
 	["u_size"]=31.19,
 	},
 {
@@ -5248,8 +5249,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerMediator.lua",
-	["u_md5"]="2aea2cc2493aa32280fdba4ac0669906",
-	["u_size"]=14.94,
+	["u_md5"]="937054b619cdec80b02e0f7d6296f270",
+	["u_size"]=15.04,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
@@ -5683,8 +5684,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/c2s.pb",
-	["u_md5"]="a0d48e02a02e6117871751e4de27aa6b",
-	["u_size"]=0.79,
+	["u_md5"]="d39468bce078483aaa7191ff0703eb8e",
+	["u_size"]=0.81,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/s2c.pb",
