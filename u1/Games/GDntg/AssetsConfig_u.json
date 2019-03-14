@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.589",
+["version"] = "1.1.591",
 ["packageSize"] = 42801,
-["date"] = "20190313",
+["date"] = "20190314",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
@@ -2682,8 +2682,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/dntg_JackPot.json",
-	["u_md5"]="97938314d59926eb6162cf6e2fd75656",
-	["u_size"]=100.97,
+	["u_md5"]="70044f55400e8d51ea238c2567706ff6",
+	["u_size"]=100.99,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/fanpan/fanpan.ExportJson",
@@ -2807,8 +2807,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo.ExportJson",
-	["u_md5"]="704a71fb0de2f9d885f12ce04107f123",
-	["u_size"]=69.3,
+	["u_md5"]="3daab933bcd5e14d1a17b6416797a6c6",
+	["u_size"]=69.32,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo0.plist",
@@ -3897,8 +3897,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="f6cf7a211bed162303e67d9f6090c0dd",
-	["u_size"]=65.61,
+	["u_md5"]="7c087bf7919597cd59d1a48dec79beb9",
+	["u_size"]=65.51,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3957,8 +3957,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="8e4711202b58cc0c3fbddd07c0b427b1",
-	["u_size"]=17.86,
+	["u_md5"]="8c645fbc81eeb5d67f5754b2afd57109",
+	["u_size"]=17.92,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GNetMediator.lua",
@@ -4042,8 +4042,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
-	["u_md5"]="3e1152a2b3c8793a7b47593adce26624",
-	["u_size"]=21.61,
+	["u_md5"]="510d6d00414c0dfe57876568e54ed4e1",
+	["u_size"]=21.89,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
@@ -4202,8 +4202,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="a51a26e89486f3c33823c37d9d229783",
-	["u_size"]=17.75,
+	["u_md5"]="e19a4014c93f2daa60f96c30af24be91",
+	["u_size"]=17.77,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
