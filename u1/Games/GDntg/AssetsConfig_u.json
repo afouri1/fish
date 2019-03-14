@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.592",
+["version"] = "1.1.593",
 ["packageSize"] = 43617,
 ["date"] = "20190314",
 ["depends"] = {
@@ -4087,8 +4087,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
-	["u_md5"]="dcfb80046712c1fd4d20c4c22c97aa9b",
-	["u_size"]=11.58,
+	["u_md5"]="d7a9f0c562dc298f11de2544ada6f874",
+	["u_size"]=11.75,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockView.lua",
@@ -4107,13 +4107,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="2cf2b8d3c2dbb0c13a8c01c68fa8d663",
-	["u_size"]=27.52,
+	["u_md5"]="00226c25bd1f5a26108f9dc4aa11d0e9",
+	["u_size"]=27.57,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="af3b29db16e8aa68bf9272864c71dcac",
-	["u_size"]=33.37,
+	["u_md5"]="8ad47e277d45a0a722726816e4868bf4",
+	["u_size"]=33.45,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
