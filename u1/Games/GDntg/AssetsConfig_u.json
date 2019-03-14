@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.591",
-["packageSize"] = 42801,
+["version"] = "1.1.592",
+["packageSize"] = 43617,
 ["date"] = "20190314",
 ["depends"] = {
 },
@@ -2016,6 +2016,46 @@ return {
 	["u_size"]=14.74,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/longwangpao_1.plist",
+	["u_md5"]="0c0039f498911bbd069ae0b4f59e9d7a",
+	["u_size"]=4.15,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/longwangpao_1.png",
+	["u_md5"]="3458be9cbc8c2554901738a5b7e325e9",
+	["u_size"]=138.88,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/longwangpao_2.plist",
+	["u_md5"]="7581754cb335ddf6a674b602cff621be",
+	["u_size"]=4.15,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/longwangpao_2.png",
+	["u_md5"]="c4063f88a6da5eb6b6fea78a735808b0",
+	["u_size"]=328.31,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/longwangpao_3.plist",
+	["u_md5"]="5364431f8f8d481d49035e1932aeffeb",
+	["u_size"]=4.15,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/longwangpao_3.png",
+	["u_md5"]="77b58fc2704ce720fa83ed32e12b7d02",
+	["u_size"]=278.66,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/longwangpao_4.plist",
+	["u_md5"]="1d1f3380230e23fa63c489ca3a6adf1a",
+	["u_size"]=2.54,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/longwangpao_4.png",
+	["u_md5"]="99002c2fc2c7f9b288fffd46d69e6423",
+	["u_size"]=54.01,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/meirenyutis_1.plist",
 	["u_md5"]="fe5d86e3bcf0f92819b4eb70ff40f0de",
 	["u_size"]=14.15,
@@ -3427,8 +3467,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/bg.png",
-	["u_md5"]="937b9e6f5197cf4a882b8a03eaeda6ab",
-	["u_size"]=7.07,
+	["u_md5"]="479a1790d59ab1f55240fe26e8195412",
+	["u_size"]=6.38,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/longwang/longwang.ExportJson",
@@ -3447,8 +3487,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/lwpNum.png",
-	["u_md5"]="0d17cedba5f8512cdffb52ea20ac20ee",
-	["u_size"]=3.79,
+	["u_md5"]="9ef7ef52073bcf00bdb07a8fbed04240",
+	["u_size"]=5.68,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/paotaitihuan.plist",
@@ -3462,8 +3502,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/shengyu.png",
-	["u_md5"]="c198f359effd09a9c9add37f99b76e76",
-	["u_size"]=3.56,
+	["u_md5"]="283b913026034d385f4296716968a4cc",
+	["u_size"]=5.23,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/yinying.png",
@@ -3897,8 +3937,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="7c087bf7919597cd59d1a48dec79beb9",
-	["u_size"]=65.51,
+	["u_md5"]="71f7579416f00e61617fbc455b5981df",
+	["u_size"]=65.5,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3937,8 +3977,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
-	["u_md5"]="e0ea1342e067b2fdf06e39cabe7d056f",
-	["u_size"]=17.27,
+	["u_md5"]="3d42652999db5cc8873ad96409a885de",
+	["u_size"]=14.67,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletMediator.lua",
@@ -4047,8 +4087,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
-	["u_md5"]="2b02a9c4b3d293a3424b36024bf4c691",
-	["u_size"]=10.98,
+	["u_md5"]="dcfb80046712c1fd4d20c4c22c97aa9b",
+	["u_size"]=11.58,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockView.lua",
@@ -4067,13 +4107,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="ccc93cee4b0880cebe9912d91c636e43",
-	["u_size"]=27.28,
+	["u_md5"]="2cf2b8d3c2dbb0c13a8c01c68fa8d663",
+	["u_size"]=27.52,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="d7fb8c2e773d2babc4f62fd86c6bb2a1",
-	["u_size"]=33.08,
+	["u_md5"]="af3b29db16e8aa68bf9272864c71dcac",
+	["u_size"]=33.37,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -4202,8 +4242,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="e19a4014c93f2daa60f96c30af24be91",
-	["u_size"]=17.77,
+	["u_md5"]="04c8c9ed024ce36878fe48d32bcf3d0b",
+	["u_size"]=17.33,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
