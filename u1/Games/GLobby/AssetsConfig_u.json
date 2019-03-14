@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.593",
-["packageSize"] = 20178,
+["version"] = "1.1.594",
+["packageSize"] = 20960,
 ["date"] = "20190314",
 ["depends"] = {
 10001,
@@ -3329,6 +3329,31 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/dntg_getTorpedo/HDYL10/HDYL/HDYL1_1.png",
+	["u_md5"]="0b14328e9322bbeaf297498c7e0d4a08",
+	["u_size"]=106.28,
+	},
+{
+	["u_name"]="Games/GLobby/res/dntg_getTorpedo/HDYL1000/HDYL/HDYL.ExportJson",
+	["u_md5"]="77a0fba3edadae2a43c13866a7fd4c7c",
+	["u_size"]=41.45,
+	},
+{
+	["u_name"]="Games/GLobby/res/dntg_getTorpedo/HDYL1000/HDYL/HDYL0_HD_1000.plist",
+	["u_md5"]="9838d18dcfb750e9433580275f4ca9b2",
+	["u_size"]=2.77,
+	},
+{
+	["u_name"]="Games/GLobby/res/dntg_getTorpedo/HDYL1000/HDYL/HDYL0_HD_1000.png",
+	["u_md5"]="e58215d3431e8568a2d2cf15492f0e00",
+	["u_size"]=631.22,
+	},
+{
+	["u_name"]="Games/GLobby/res/dntg_getTorpedo/HDYL1000/HDYL/HDYL1_HD_1000.plist",
+	["u_md5"]="82471f85a7b463e49924d7bb2ebf08bf",
+	["u_size"]=1.06,
+	},
+{
+	["u_name"]="Games/GLobby/res/dntg_getTorpedo/HDYL1000/HDYL/HDYL1_HD_1000.png",
 	["u_md5"]="0b14328e9322bbeaf297498c7e0d4a08",
 	["u_size"]=106.28,
 	},

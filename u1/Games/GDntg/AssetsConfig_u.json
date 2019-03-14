@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.593",
-["packageSize"] = 43617,
+["version"] = "1.1.594",
+["packageSize"] = 44225,
 ["date"] = "20190314",
 ["depends"] = {
 },
@@ -402,6 +402,31 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation10/SYYLAnimation/SYYLAnimation1_1.png",
+	["u_md5"]="161a2b5aabe687a8f549cc66dfa3a995",
+	["u_size"]=260.67,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation1000/SYYLAnimation/SYYLAnimation.ExportJson",
+	["u_md5"]="91fbf777c07d29bbc164d747495030e6",
+	["u_size"]=21.94,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation1000/SYYLAnimation/SYYLAnimation0_1000.plist",
+	["u_md5"]="2d5abc4229932b75cddb89f97c52202f",
+	["u_size"]=2.76,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation1000/SYYLAnimation/SYYLAnimation0_1000.png",
+	["u_md5"]="e38cba0e0c62adcefeeb56b3931d301d",
+	["u_size"]=323.62,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation1000/SYYLAnimation/SYYLAnimation1_1000.plist",
+	["u_md5"]="b62a0a1e0ba577c7786acf00395ae86c",
+	["u_size"]=1.91,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation1000/SYYLAnimation/SYYLAnimation1_1000.png",
 	["u_md5"]="161a2b5aabe687a8f549cc66dfa3a995",
 	["u_size"]=260.67,
 	},
@@ -3487,8 +3512,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/lwpNum.png",
-	["u_md5"]="9ef7ef52073bcf00bdb07a8fbed04240",
-	["u_size"]=5.68,
+	["u_md5"]="7341036941eac8f30d99efaa82de82b9",
+	["u_size"]=2.9,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/paotaitihuan.plist",
@@ -3502,8 +3527,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/shengyu.png",
-	["u_md5"]="283b913026034d385f4296716968a4cc",
-	["u_size"]=5.23,
+	["u_md5"]="da24c9e356fd8597cb3b0ed495190a9f",
+	["u_size"]=5.3,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/yinying.png",
@@ -4112,8 +4137,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="8ad47e277d45a0a722726816e4868bf4",
-	["u_size"]=33.45,
+	["u_md5"]="c2d79c227e3a7b72f79c1ff6055ab7ab",
+	["u_size"]=33.46,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
