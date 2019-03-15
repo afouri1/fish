@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.600",
+["version"] = "1.1.601",
 ["packageSize"] = 44507,
 ["date"] = "20190315",
 ["depends"] = {
@@ -13,6 +13,7 @@ return {
 3、新增渔厅自动喊话和是否需要批准功能
 4、成员列表翻页显示优化调整
 5、已知BUG修复
+
 ]],
 ["assets"] = {} 
 }
