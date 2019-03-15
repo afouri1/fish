@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.594",
-["packageSize"] = 44225,
-["date"] = "20190314",
+["version"] = "1.1.595",
+["packageSize"] = 44507,
+["date"] = "20190315",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
@@ -13,6 +13,7 @@ return {
 3.活动新增BUG反馈入口
 4.官方包新增游客登录
 5.已知BUG修改
+
 ]],
 ["assets"] = {
 {
@@ -2036,6 +2037,11 @@ return {
 	["u_size"]=9.64,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/beishu_37.png",
+	["u_md5"]="950d73cf71591d96b925cf323c474ef1",
+	["u_size"]=7.07,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/gameAction/fishTips/longWangPaoComing.png",
 	["u_md5"]="e3e0cd60ba282d80eae3c436fe19eb53",
 	["u_size"]=14.74,
@@ -2337,8 +2343,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/fishdec/texiaoyudes.png",
-	["u_md5"]="d3f127b8d084ab4bda73e99d35d2d0d3",
-	["u_size"]=183.24,
+	["u_md5"]="0b9ee7cf2a54d7d3dcd49bbc06d627f7",
+	["u_size"]=180.54,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/listBg.png",
@@ -3491,6 +3497,21 @@ return {
 	["u_size"]=290.41,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/baodian/baodian.ExportJson",
+	["u_md5"]="11fb1093e100c611b8809939c2181411",
+	["u_size"]=15.03,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/baodian/baodian0.plist",
+	["u_md5"]="f9c3437a01ff830945abd7ec72233bb3",
+	["u_size"]=1.88,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/baodian/baodian0.png",
+	["u_md5"]="b9605647cf088263d0fac0fbeb5f02e2",
+	["u_size"]=259.23,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/bg.png",
 	["u_md5"]="479a1790d59ab1f55240fe26e8195412",
 	["u_size"]=6.38,
@@ -3912,7 +3933,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
+	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
 	["u_size"]=0.76,
 	},
 {
@@ -3937,13 +3958,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="7edcda64fb97c099fde3f6372a66c56f",
-	["u_size"]=88.74,
+	["u_md5"]="bb55173d55a18a1d45a1b3f9dcd203b1",
+	["u_size"]=88.81,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="52b346878170bee6ee28ccb330a80bc2",
-	["u_size"]=2.71,
+	["u_md5"]="ffc1f9ea5b1a590cfdb6a3242480c98d",
+	["u_size"]=2.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
@@ -4002,8 +4023,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
-	["u_md5"]="3d42652999db5cc8873ad96409a885de",
-	["u_size"]=14.67,
+	["u_md5"]="08b9c5ff9c8114cbc65b98ebb3ccffe9",
+	["u_size"]=14.98,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletMediator.lua",
@@ -4107,8 +4128,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
-	["u_md5"]="510d6d00414c0dfe57876568e54ed4e1",
-	["u_size"]=21.89,
+	["u_md5"]="b685f7f127b57531018dc959689ca8b3",
+	["u_size"]=22.02,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
@@ -4132,13 +4153,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="00226c25bd1f5a26108f9dc4aa11d0e9",
-	["u_size"]=27.57,
+	["u_md5"]="5a3357baad0426618abb0afb527dbcaa",
+	["u_size"]=27.74,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="c2d79c227e3a7b72f79c1ff6055ab7ab",
-	["u_size"]=33.46,
+	["u_md5"]="3dd665a90712344d500a557f33ba1d08",
+	["u_size"]=33.83,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -4267,8 +4288,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="04c8c9ed024ce36878fe48d32bcf3d0b",
-	["u_size"]=17.33,
+	["u_md5"]="b3be15ae5437212145e0ddcb105862e1",
+	["u_size"]=17.36,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
