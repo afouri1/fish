@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.602",
-["packageSize"] = 20977,
+["version"] = "1.1.603",
+["packageSize"] = 20975,
 ["date"] = "20190315",
 ["depends"] = {
 10001,
@@ -15,7 +15,6 @@ return {
 3、新增渔厅自动喊话和是否需要批准功能
 4、成员列表翻页显示优化调整
 5、已知BUG修复
-
 ]],
 ["assets"] = {
 {
@@ -25,8 +24,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="1863d82f133f93b971d765f745d7d274",
-	["u_size"]=22.53,
+	["u_md5"]="ffb191a3f9826b92ad074e67f889a9ac",
+	["u_size"]=19.83,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -55,7 +54,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="2cb5666e65619217fb5a16bc2b66f87f",
+	["u_md5"]="3e1a6dacd627f19b56d295b59b80fe1a",
 	["u_size"]=4.24,
 	},
 {
@@ -4800,8 +4799,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubListLayerView.lua",
-	["u_md5"]="3da69e0bd9595f29938eada18e725ac5",
-	["u_size"]=15.94,
+	["u_md5"]="9ec5c29b85cd3289aaf1ad6ab59e5c6f",
+	["u_size"]=16.01,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubManageLayerMediator.lua",
@@ -5030,8 +5029,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/location/GLobbyFishHallListLayerView.lua",
-	["u_md5"]="b641dd5b7a3497bf25eaed891eebd37b",
-	["u_size"]=27.18,
+	["u_md5"]="fd130309f233a1ca368c969534afdf67",
+	["u_size"]=27.3,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/location/GLobbyKeyInviteLayerMediator.lua",
@@ -5235,8 +5234,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
-	["u_md5"]="dd12b156763771e6339d0de3ba7e74f0",
-	["u_size"]=6.76,
+	["u_md5"]="4b107758a92fd5276d91c16c6750958e",
+	["u_size"]=6.92,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
@@ -5330,8 +5329,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/WorldChat/GLobbyWorldChatLayerView.lua",
-	["u_md5"]="6089eadc839997bdf00285753d5d2e59",
-	["u_size"]=36.93,
+	["u_md5"]="08ba0c18169366bbed6c662289014d67",
+	["u_size"]=37.04,
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/Cpp2LuaGlobalFunc.lua",
@@ -5615,8 +5614,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyModifyHeadLayerView.lua",
-	["u_md5"]="8ae7bd704cbefe1ba81e8b19a91b893b",
-	["u_size"]=6.89,
+	["u_md5"]="309cfab40a4380b861a9216413fd88d5",
+	["u_size"]=6.93,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyMyBulletDetaLayer.lua",
