@@ -2,17 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.595",
+["version"] = "1.1.596",
 ["packageSize"] = 44507,
 ["date"] = "20190315",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.jackpot新增中奖消息
-2.活动新增免费赚币入口
-3.活动新增BUG反馈入口
-4.官方包新增游客登录
-5.已知BUG修改
+1、游戏内新增龙王炮，极大提高BOSS命中率
+2、新增渔厅头像上传自定义
+3、新增渔厅自动喊话和是否需要批准功能
+4、成员列表翻页显示优化调整
+5、已知BUG修复
 
 ]],
 ["assets"] = {
@@ -4018,7 +4018,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="77de0626247ee53c4dcd9a8b52386e9e",
+	["u_md5"]="22b3b836b3a14dd6f5520c8836c91094",
 	["u_size"]=16.74,
 	},
 {
@@ -4153,8 +4153,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="5a3357baad0426618abb0afb527dbcaa",
-	["u_size"]=27.74,
+	["u_md5"]="e0abd5e3828807c255a4c7085ed2d91f",
+	["u_size"]=27.8,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
@@ -4223,8 +4223,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIView.lua",
-	["u_md5"]="42bc7cb15938e7d76045f524854a7831",
-	["u_size"]=7.36,
+	["u_md5"]="6907ce013dc046581c463d5471a91838",
+	["u_size"]=7.45,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GNoviceGuideLayer.lua",

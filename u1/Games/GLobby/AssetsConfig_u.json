@@ -2,19 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.595",
-["packageSize"] = 20974,
+["version"] = "1.1.596",
+["packageSize"] = 20975,
 ["date"] = "20190315",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.jackpot新增中奖消息
-2.活动新增免费赚币入口
-3.活动新增BUG反馈入口
-4.官方包新增游客登录
-5.已知BUG修改
+1、游戏内新增龙王炮，极大提高BOSS命中率
+2、新增渔厅头像上传自定义
+3、新增渔厅自动喊话和是否需要批准功能
+4、成员列表翻页显示优化调整
+5、已知BUG修复
 
 ]],
 ["assets"] = {
@@ -30,8 +30,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="4cbb2490db019c1a1ce3a39f6d72a981",
-	["u_size"]=31.19,
+	["u_md5"]="97b7c6372328bd7993a7b0324dfe75f1",
+	["u_size"]=31.24,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
@@ -4785,8 +4785,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubListLayerItem.lua",
-	["u_md5"]="b6da3dfa8266cbb23e893d79b0619dba",
-	["u_size"]=5.27,
+	["u_md5"]="c99e74153675593aa23ac8201d25a359",
+	["u_size"]=4.8,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubListLayerItemTo.lua",
@@ -4810,8 +4810,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubManageLayerView.lua",
-	["u_md5"]="894b983ce69d8957f2c10176b00595b4",
-	["u_size"]=38.45,
+	["u_md5"]="b167b35364f849f2c87213a9efcb4c2c",
+	["u_size"]=39.07,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubModifyLayerMediator.lua",
@@ -4915,8 +4915,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberManageLayerView.lua",
-	["u_md5"]="58acd6d6677093e0e4901f852b223462",
-	["u_size"]=21.13,
+	["u_md5"]="b77e0446d24a7aeb5fc22977993793cd",
+	["u_size"]=21.28,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberRecordLayerItem.lua",
@@ -5010,8 +5010,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/clubSet/GLobbyClubSetLayerView.lua",
-	["u_md5"]="992cb5baabf75f0fa71c0835d2ac3567",
-	["u_size"]=14,
+	["u_md5"]="4523dff5b4830f27792c9fe3a10b13ac",
+	["u_size"]=14.04,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/location/GLobbyFishHallInfoLayerMediator.lua",
@@ -5460,7 +5460,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/config/achievement.lua",
-	["u_md5"]="03ec989aa74c4c37ca5721b23fe207c7",
+	["u_md5"]="ce609e657656d9ded03eac3823a2e0de",
 	["u_size"]=1,
 	},
 {
@@ -5470,7 +5470,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/config/task.lua",
-	["u_md5"]="c9651e1833fba49fcd6e880de5ee6650",
+	["u_md5"]="cb5ffed48097555b744567ff08021027",
 	["u_size"]=1.48,
 	},
 {
