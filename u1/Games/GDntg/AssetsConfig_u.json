@@ -2,13 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.620",
+["version"] = "1.1.621",
 ["packageSize"] = 44619,
 ["date"] = "20190323",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1、修复已知bug
+1、金币场新增椰子积分，可在商城兑换实物（商城即将开放）
+2、部分渠道包更新中断，登陆失败，闪退问题修复
+3、活动弹窗面板和奖励效果优化
+4、创始人关闭牌局显示问题修复
+5、渔厅喇叭设置问题修复
+6、新增免费金币体验码（反馈BUG，渠道活动获取）
 ]],
 ["assets"] = {
 {
@@ -4043,8 +4048,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="dd611531da76ac3e2d7a0111656a0ed8",
-	["u_size"]=70.18,
+	["u_md5"]="e291f213f769459999dcb5ffdc11b165",
+	["u_size"]=70.08,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -4348,8 +4353,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="551f33d12c03897cf702d824507d2832",
-	["u_size"]=18.34,
+	["u_md5"]="cc3705252ec4a1430cc5ad1ec7f68aac",
+	["u_size"]=18.36,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
