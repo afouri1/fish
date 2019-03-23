@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.621",
+["version"] = "1.1.622",
 ["packageSize"] = 44619,
 ["date"] = "20190323",
 ["depends"] = {
@@ -822,6 +822,11 @@ return {
 	["u_size"]=5.8,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/fishAni/fishAni046.png",
+	["u_md5"]="b96716265da17b386b45320951df24ef",
+	["u_size"]=5.75,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/fishAni/fishMove001.plist",
 	["u_md5"]="39e675824386515d290a804bbd2e0432",
 	["u_size"]=4.09,
@@ -1170,11 +1175,6 @@ return {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishMove027_2.png",
 	["u_md5"]="eec55afb7eb35ae5854bc66bc2792ab7",
 	["u_size"]=159.41,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishMove046.png",
-	["u_md5"]="b96716265da17b386b45320951df24ef",
-	["u_size"]=5.75,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishShadow001.plist",
