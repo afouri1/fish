@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.629",
+["version"] = "1.1.630",
 ["packageSize"] = 8901,
 ["date"] = "20190328",
 ["depends"] = {
@@ -1121,8 +1121,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="179f0cf5e7c9b68bd5764d14e318bf59",
-	["u_size"]=28.72,
+	["u_md5"]="f96ed5aaa01481ba66db0e0b7a90a4ff",
+	["u_size"]=28.77,
 	},
 {
 	["u_name"]="Games/GZhayu/src/Zhayu_Root.lua",
@@ -1346,8 +1346,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/sound/AudioManager.lua",
-	["u_md5"]="9c10ab26aad2af43bc78d28b9ea54c3f",
-	["u_size"]=7.17,
+	["u_md5"]="8ce1a22a0cd1b31a02d67556d7eebc80",
+	["u_size"]=7.21,
 	},
 } 
 }
