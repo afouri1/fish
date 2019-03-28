@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.627",
+["version"] = "1.1.628",
 ["packageSize"] = 1989,
 ["date"] = "20190328",
 ["depends"] = {
@@ -13,8 +13,8 @@ return {
 ["assets"] = {
 {
 	["u_name"]="Games/BaseCommon/ComFunc.lua",
-	["u_md5"]="a0408dc07f00f8bae652362f3d1824ca",
-	["u_size"]=2.15,
+	["u_md5"]="21b977bd1d5a1fac5bd3a5b969523e38",
+	["u_size"]=2.08,
 	},
 {
 	["u_name"]="Games/BaseCommon/CommonEvent.lua",
