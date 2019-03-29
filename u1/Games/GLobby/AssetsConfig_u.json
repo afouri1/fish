@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.640",
+["version"] = "1.1.641",
 ["packageSize"] = 22781,
 ["date"] = "20190329",
 ["depends"] = {
@@ -5926,8 +5926,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyYeYunTipsLayerView.lua",
-	["u_md5"]="c8869318c9d5dba6681cb0f7049bf721",
-	["u_size"]=2.51,
+	["u_md5"]="cb86e4d71dabe2e760a350a7742d43ba",
+	["u_size"]=2.55,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyYeYunTransLayerMediator.lua",
