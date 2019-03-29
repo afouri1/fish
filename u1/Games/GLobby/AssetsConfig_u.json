@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.632",
-["packageSize"] = 22739,
+["version"] = "1.1.633",
+["packageSize"] = 22741,
 ["date"] = "20190329",
 ["depends"] = {
 10001,
@@ -5671,8 +5671,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageBottom.lua",
-	["u_md5"]="6b070d43949356b0fcc25d375e3abb0b",
-	["u_size"]=18.07,
+	["u_md5"]="d50a777c270ec00c3d3c55bf6f15324c",
+	["u_size"]=18.91,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
@@ -5681,12 +5681,12 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="6383810bf8a476384e3b0cb318b8da86",
-	["u_size"]=111.29,
+	["u_md5"]="733a23db80fa0f5066d0e36ddb409176",
+	["u_size"]=111.94,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
-	["u_md5"]="0e7b8e9ce51aece8ad9990fe2788b4df",
+	["u_md5"]="3210aad233956de5e4107f63cf466f09",
 	["u_size"]=16.99,
 	},
 {
@@ -5791,8 +5791,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyAchieveLayerItem.lua",
-	["u_md5"]="2c10685ae71a3ab79c7d8b5ead3e0c37",
-	["u_size"]=5.8,
+	["u_md5"]="a39dc1b2550a390fe4a3cf91aecbd999",
+	["u_size"]=5.81,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyAchieveLayerMediator.lua",
@@ -5801,8 +5801,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyAchieveLayerView.lua",
-	["u_md5"]="92b4dbf472eed290d91fff094365b894",
-	["u_size"]=8.34,
+	["u_md5"]="7b23538ad271e5ebefb77aadaa99133e",
+	["u_size"]=8.39,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyActivityLayerMediator.lua",
@@ -5811,8 +5811,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyActivityLayerView.lua",
-	["u_md5"]="dd7dbfd4f9845905843bbf2c576d87b2",
-	["u_size"]=13.58,
+	["u_md5"]="f8d757ba75a003dc2febafb78ae12916",
+	["u_size"]=13.72,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyAlmsLayerMediator.lua",
@@ -5821,8 +5821,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyAlmsLayerView.lua",
-	["u_md5"]="e4c7a0efcfa39d26ed6153b8b603258e",
-	["u_size"]=5.18,
+	["u_md5"]="e7f4d9f8cedc147fd9b6046260f555b4",
+	["u_size"]=5.53,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyBackpackLayerMediator.lua",
