@@ -20,7 +20,7 @@
     "Games/GLobby/res/homepage/button_dating2.png",
     "Games/GLobby/res/homepage/button_wode1.png",
     "Games/GLobby/res/homepage/button_wode2.png",
-    "Games/GLobby/res/homepage/button_gengduo1.png",
+    "Games/GLobby/res/homepage/down_gengduo2.png",
     "Games/GLobby/res/homepage/button_gengduo2.png",
     "Games/GLobby/res/homepage/bg_top.png",
     "Games/GLobby/res/homepage/button_xiaoxi1.png",
@@ -348,7 +348,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 75,
+          "height": 79,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -364,8 +364,8 @@
           "tag": 14078,
           "touchAble": false,
           "useMergedTexture": false,
-          "visible": false,
-          "width": 48,
+          "visible": true,
+          "width": 49,
           "x": 650,
           "y": 55,
           "capInsetsHeight": 1,
@@ -374,13 +374,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "Games/GLobby/res/homepage/button_gengduo1.png",
+            "path": "Games/GLobby/res/homepage/down_gengduo2.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 75,
-          "scale9Width": 48
+          "scale9Height": 79,
+          "scale9Width": 49
         }
       },
       {
@@ -418,7 +418,7 @@
           "tag": 14081,
           "touchAble": false,
           "useMergedTexture": false,
-          "visible": true,
+          "visible": false,
           "width": 49,
           "x": 650,
           "y": 54,
