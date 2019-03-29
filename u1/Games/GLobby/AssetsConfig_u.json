@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.639",
-["packageSize"] = 22739,
+["version"] = "1.1.640",
+["packageSize"] = 22781,
 ["date"] = "20190329",
 ["depends"] = {
 10001,
@@ -16,6 +16,7 @@ return {
 4、新增排行榜，让您脱颖而出
 5、大厅按钮调整
 6、苹果包新增渔厅图标自定义功能
+
 ]],
 ["assets"] = {
 {
@@ -25,8 +26,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="b84cfe394d3fc7d4ff8369f306483e8f",
-	["u_size"]=19.83,
+	["u_md5"]="71369934b74fa6220832aa588f36e719",
+	["u_size"]=22.53,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -55,8 +56,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="3e1a6dacd627f19b56d295b59b80fe1a",
-	["u_size"]=4.24,
+	["u_md5"]="f96976a378ba7fec6eaa9835ae87e514",
+	["u_size"]=4.26,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
@@ -1037,6 +1038,21 @@ return {
 	["u_name"]="Games/GLobby/res/club/animation/jinbichang.png",
 	["u_md5"]="9e561050040d525bac7309e6752d3b6e",
 	["u_size"]=24.86,
+	},
+{
+	["u_name"]="Games/GLobby/res/club/animation/libao/libao.ExportJson",
+	["u_md5"]="0ff3a37b983918e6f5f8f80d9a1d8721",
+	["u_size"]=6.12,
+	},
+{
+	["u_name"]="Games/GLobby/res/club/animation/libao/libao0.plist",
+	["u_md5"]="43b010174db35acafefec3b09a972eba",
+	["u_size"]=1.51,
+	},
+{
+	["u_name"]="Games/GLobby/res/club/animation/libao/libao0.png",
+	["u_md5"]="cc740f082480198fbf2c81ea8543ea28",
+	["u_size"]=30.26,
 	},
 {
 	["u_name"]="Games/GLobby/res/club/animation/tiyanchang.plist",
@@ -5305,8 +5321,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyHeadUpdateLayerView.lua",
-	["u_md5"]="8716fc0b1ac9a6cee6ea5ec6bfecce46",
-	["u_size"]=6.63,
+	["u_md5"]="424aab7e0a5ee7bfc1b8db911fdd8cf5",
+	["u_size"]=6.82,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberInfoLayerMediator.lua",
@@ -5670,8 +5686,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageBottom.lua",
-	["u_md5"]="d50a777c270ec00c3d3c55bf6f15324c",
-	["u_size"]=18.91,
+	["u_md5"]="e67382edc4e1569f17e124af8eea354a",
+	["u_size"]=18.92,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
@@ -5680,8 +5696,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="123af1c60ef55a6fefb15f5477af5517",
-	["u_size"]=111.97,
+	["u_md5"]="69f44b0b0bcb45e4c478418730d84317",
+	["u_size"]=112.64,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
@@ -5810,8 +5826,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyActivityLayerView.lua",
-	["u_md5"]="f8d757ba75a003dc2febafb78ae12916",
-	["u_size"]=13.72,
+	["u_md5"]="f12337c155dafe6232ae75fe8efce196",
+	["u_size"]=13.73,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyAlmsLayerMediator.lua",

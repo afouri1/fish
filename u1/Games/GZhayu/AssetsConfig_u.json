@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.639",
-["packageSize"] = 8938,
+["version"] = "1.1.640",
+["packageSize"] = 9728,
 ["date"] = "20190329",
 ["depends"] = {
 },
@@ -23,6 +23,21 @@ return {
 	["u_name"]="Games/GZhayu/res/game/GameAni/biaoqing/biaoqing0.png",
 	["u_md5"]="8f24214ad340613137f04e971059812d",
 	["u_size"]=4.84,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/GameAni/daojishi/daojishi.ExportJson",
+	["u_md5"]="25ad521ff139187c72f60f1da468c8e8",
+	["u_size"]=15.63,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/GameAni/daojishi/daojishi0.plist",
+	["u_md5"]="4b41625a0952188b6f52e7c9924a3eb5",
+	["u_size"]=1.88,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/GameAni/daojishi/daojishi0.png",
+	["u_md5"]="452311b8dc18efff9427ef9b997848c7",
+	["u_size"]=177.28,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan.ExportJson",
@@ -78,6 +93,31 @@ return {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan4.png",
 	["u_md5"]="cf30ca16f571a0f7025388257a5e75dd",
 	["u_size"]=28.14,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/GameAni/kaichang/kaichang.ExportJson",
+	["u_md5"]="a8ebeb1b60e250afba17e524c3964a58",
+	["u_size"]=31.16,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/GameAni/kaichang/kaichang0.plist",
+	["u_md5"]="08ccdf41d929d2518d395566a32b0c07",
+	["u_size"]=7.82,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/GameAni/kaichang/kaichang0.png",
+	["u_md5"]="0c8e875c69291edf0516a7dd29922586",
+	["u_size"]=212.73,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/GameAni/kaichang/kaichang1.plist",
+	["u_md5"]="4b7dba6a080ce31ef4a551bcf6f0266d",
+	["u_size"]=1.87,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/GameAni/kaichang/kaichang1.png",
+	["u_md5"]="4739ba1efa8dfd229155c13737a27480",
+	["u_size"]=341.39,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/putongzhadan/putongzhadan.ExportJson",
