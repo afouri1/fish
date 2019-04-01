@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.647",
-["packageSize"] = 44620,
+["version"] = "1.1.649",
+["packageSize"] = 44483,
 ["date"] = "20190401",
 ["depends"] = {
 },
@@ -2938,38 +2938,18 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo.ExportJson",
-	["u_md5"]="3daab933bcd5e14d1a17b6416797a6c6",
-	["u_size"]=69.32,
+	["u_md5"]="cc0f527da47da33dc0f65415e724f759",
+	["u_size"]=63.47,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo0.plist",
-	["u_md5"]="3c09bd12cf09436120e0b4b164a6ec7d",
-	["u_size"]=9.38,
+	["u_md5"]="c3a8431e9831eb6bfb85e235f57b1f98",
+	["u_size"]=20.4,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo0.png",
-	["u_md5"]="8ace0033677392d094ce8e43a3ec60ed",
-	["u_size"]=464.92,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo1.plist",
-	["u_md5"]="e65665e5734a7f1938322a30a33ab6e5",
-	["u_size"]=13.25,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo1.png",
-	["u_md5"]="42e1e91d99932cacaa21e7ef24a46e28",
-	["u_size"]=397.87,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo2.plist",
-	["u_md5"]="8254e410cc2250f1860233884ce7fd10",
-	["u_size"]=1.03,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo2.png",
-	["u_md5"]="4a6c4180c40b67845bec2457fb7e33e9",
-	["u_size"]=17.32,
+	["u_md5"]="6aaa172ed75503061a14df578745f328",
+	["u_size"]=751.38,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/mianban/mianban.ExportJson",
@@ -3993,7 +3973,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
+	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
 	["u_size"]=0.76,
 	},
 {
@@ -4018,13 +3998,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="7edcda64fb97c099fde3f6372a66c56f",
-	["u_size"]=88.74,
+	["u_md5"]="bb55173d55a18a1d45a1b3f9dcd203b1",
+	["u_size"]=88.81,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="52b346878170bee6ee28ccb330a80bc2",
-	["u_size"]=2.71,
+	["u_md5"]="ffc1f9ea5b1a590cfdb6a3242480c98d",
+	["u_size"]=2.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
@@ -4043,8 +4023,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="2d647a3fad1d6cd71a7e56e55d198a8d",
-	["u_size"]=70.11,
+	["u_md5"]="0a32d6e53ae3d67e30cbaf891fcf0845",
+	["u_size"]=70.1,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -4188,8 +4168,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
-	["u_md5"]="b685f7f127b57531018dc959689ca8b3",
-	["u_size"]=22.02,
+	["u_md5"]="57c875a185de24ac6e5334fde2ebdbcb",
+	["u_size"]=22.21,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
