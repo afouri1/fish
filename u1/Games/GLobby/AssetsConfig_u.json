@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.645",
+["version"] = "1.1.646",
 ["packageSize"] = 22780,
 ["date"] = "20190401",
 ["depends"] = {
@@ -16,7 +16,6 @@ return {
 4、新增排行榜，让您脱颖而出
 5、大厅按钮调整
 6、苹果包新增渔厅图标自定义功能
-
 ]],
 ["assets"] = {
 {
@@ -26,8 +25,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="7f6a8ff6e65a35f96c9b0a02ab67bba2",
-	["u_size"]=20.01,
+	["u_md5"]="b84cfe394d3fc7d4ff8369f306483e8f",
+	["u_size"]=19.83,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -56,8 +55,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="f96976a378ba7fec6eaa9835ae87e514",
-	["u_size"]=4.26,
+	["u_md5"]="3e1a6dacd627f19b56d295b59b80fe1a",
+	["u_size"]=4.24,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
