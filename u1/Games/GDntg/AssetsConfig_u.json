@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.649",
-["packageSize"] = 44483,
-["date"] = "20190401",
+["version"] = "1.1.650",
+["packageSize"] = 44481,
+["date"] = "20190402",
 ["depends"] = {
 },
 ["newDetails"] = [[
@@ -48,8 +48,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/myPosTip.json",
-	["u_md5"]="c2abdf8b7b59bfab2c441cc836897201",
-	["u_size"]=26.97,
+	["u_md5"]="42ea5c197b244bccfe050f74a53b7743",
+	["u_size"]=24.02,
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/noviceGuide_UI.json",
@@ -1573,8 +1573,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/numgs.png",
-	["u_md5"]="1b3345daf969de0ecb3b68650508e855",
-	["u_size"]=3.87,
+	["u_md5"]="6d90920da9ab4722d3965ada83616392",
+	["u_size"]=3.79,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/paozhinum.png",
@@ -4193,13 +4193,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="dad4a5caf8b5b78d962f82f8f241172f",
-	["u_size"]=28.33,
+	["u_md5"]="90c8c2da08337f51bb6f6da2783b3568",
+	["u_size"]=28.35,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="e797e32a02f9aafcf005555ebd748ea7",
-	["u_size"]=35.36,
+	["u_md5"]="b717e183c225ad095f0ac1668c5d746a",
+	["u_size"]=36.63,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -4208,8 +4208,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerView.lua",
-	["u_md5"]="f4946564e6e6fcca9f474b6500fa9334",
-	["u_size"]=6.35,
+	["u_md5"]="87d6b6e06e6233907dfdfa9d8ae0fab1",
+	["u_size"]=6.49,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSelectGun/GSelectGunMediator.lua",

@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.649",
-["packageSize"] = 22780,
-["date"] = "20190401",
+["version"] = "1.1.650",
+["packageSize"] = 22781,
+["date"] = "20190402",
 ["depends"] = {
 10001,
 1001,
@@ -26,8 +26,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="7f6a8ff6e65a35f96c9b0a02ab67bba2",
-	["u_size"]=20.01,
+	["u_md5"]="028db411288dd433c19b468ae942ed1e",
+	["u_size"]=20.02,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -5736,8 +5736,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerMediator.lua",
-	["u_md5"]="789c2b29c978cdaf0081b0f98fa6ade3",
-	["u_size"]=15.83,
+	["u_md5"]="cf2dae69488798ae6fafb5e829e736d2",
+	["u_size"]=16.34,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
@@ -5746,8 +5746,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
-	["u_md5"]="848440a18a6e10193349fb7f4a3dd6f2",
-	["u_size"]=13.22,
+	["u_md5"]="65314dcd4a2f189af388655b9058918a",
+	["u_size"]=13.41,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLogin_logic.lua",
