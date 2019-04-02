@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.650",
+["version"] = "1.1.651",
 ["packageSize"] = 10680,
 ["date"] = "20190402",
 ["depends"] = {
@@ -1246,8 +1246,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="1d919bee06b6807d572e8cbe34b4015b",
-	["u_size"]=32.57,
+	["u_md5"]="9583a8e66fea64680fa87c122b06a9a2",
+	["u_size"]=32.6,
 	},
 {
 	["u_name"]="Games/GZhayu/src/Zhayu_Root.lua",
@@ -1281,8 +1281,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/BetAreaBoomPanelView.lua",
-	["u_md5"]="b484a1c608886b35b37268fa3f492178",
-	["u_size"]=6.36,
+	["u_md5"]="c336b6c6e44558aaff16c9bd9fe0b68e",
+	["u_size"]=6.46,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/CopyMediator.lua",
