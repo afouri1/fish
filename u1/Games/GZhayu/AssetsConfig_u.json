@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.656",
-["packageSize"] = 11654,
-["date"] = "20190402",
+["version"] = "1.1.657",
+["packageSize"] = 11656,
+["date"] = "20190403",
 ["depends"] = {
 },
 ["newDetails"] = [[ ]],
@@ -1286,8 +1286,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="33d7bfddb5221aca4931986d494fcbe0",
-	["u_size"]=32.89,
+	["u_md5"]="6dc7ad81e9f41445fefd2a8fcbe8777c",
+	["u_size"]=33.74,
 	},
 {
 	["u_name"]="Games/GZhayu/src/Zhayu_Root.lua",
@@ -1316,13 +1316,13 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/BetAreaBoomPanelMediator.lua",
-	["u_md5"]="aaf4ea7165130ef98a5a2d41c59365a9",
-	["u_size"]=3.78,
+	["u_md5"]="05a3cca9a82aa75eec1be2d816a24454",
+	["u_size"]=4.13,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/BetAreaBoomPanelView.lua",
-	["u_md5"]="e7c56b55dfcf1ab84b97fa368f580dfc",
-	["u_size"]=6.46,
+	["u_md5"]="e67d3dc93b98f9c2d3874d8933897aa1",
+	["u_size"]=6.47,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/CopyMediator.lua",
@@ -1346,8 +1346,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/EffectLayerMediator.lua",
-	["u_md5"]="68ad1822891f11fa519c992fd4371d9f",
-	["u_size"]=4.78,
+	["u_md5"]="c72d138e2f3f4e644d21fec7e86adc86",
+	["u_size"]=4.79,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/EffectLayerView.lua",
@@ -1371,8 +1371,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/GameData.lua",
-	["u_md5"]="c25ecbed8f74f453575f9cfc43659556",
-	["u_size"]=3.91,
+	["u_md5"]="d8cd681b9c077e427cbafe1c4d44d017",
+	["u_size"]=4.54,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerBetAreaMediator.lua",
@@ -1491,13 +1491,13 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/StateTipsView.lua",
-	["u_md5"]="d17e7eb9f6ed1eb1019ccfd6b9e3c25c",
-	["u_size"]=9.81,
+	["u_md5"]="efc9f3155c814bd3249c7519ac34a717",
+	["u_size"]=9.83,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/ZhayuCom.lua",
-	["u_md5"]="feb3e1639b76efe2a8c139819c33a621",
-	["u_size"]=5.71,
+	["u_md5"]="5ca42de572dfdcac4bad2ff4ad2b34e6",
+	["u_size"]=6.19,
 	},
 {
 	["u_name"]="Games/GZhayu/src/pb/bomb_Basis.pb",
