@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.664",
+["version"] = "1.1.665",
 ["packageSize"] = 14876,
 ["date"] = "20190404",
 ["depends"] = {
@@ -371,7 +371,7 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/csd/GameResult.json",
-	["u_md5"]="915dc1847dc161ee82c329f84608655b",
+	["u_md5"]="e43c54643b237318a4802a5ed80558d2",
 	["u_size"]=138.19,
 	},
 {
@@ -1451,8 +1451,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="fb5fc0a929e97e5a05856982b7c27ce0",
-	["u_size"]=35.26,
+	["u_md5"]="de24bfbaaacbe8f2250a9f2a07be3a43",
+	["u_size"]=35.56,
 	},
 {
 	["u_name"]="Games/GZhayu/src/Zhayu_Root.lua",
@@ -1486,7 +1486,7 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/BetAreaBoomPanelView.lua",
-	["u_md5"]="e67d3dc93b98f9c2d3874d8933897aa1",
+	["u_md5"]="3a42356a0cb373d4976a9ce7674fbe76",
 	["u_size"]=6.47,
 	},
 {
@@ -1616,8 +1616,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerSettlementView.lua",
-	["u_md5"]="bb0d880ff049159705f71fa674274743",
-	["u_size"]=5.19,
+	["u_md5"]="b80ea3bdec151f0ed75835367204e0c5",
+	["u_size"]=5.24,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerSimpleHistoryMediator.lua",
