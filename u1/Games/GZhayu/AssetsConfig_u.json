@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.668",
+["version"] = "1.1.669",
 ["packageSize"] = 14881,
 ["date"] = "20190404",
 ["depends"] = {
@@ -1456,8 +1456,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="ece22a843a7a5519a9f35cc8bad3b8b0",
-	["u_size"]=37.29,
+	["u_md5"]="beae07de16f6e889afa7234046b480e7",
+	["u_size"]=37.31,
 	},
 {
 	["u_name"]="Games/GZhayu/src/Zhayu_Root.lua",
@@ -1611,8 +1611,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerSelfOpView.lua",
-	["u_md5"]="bf8073fe18d909ebd2157730448d0f0e",
-	["u_size"]=8.88,
+	["u_md5"]="e976a00c7d0454a46ee3bab05d89a6e7",
+	["u_size"]=8.98,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerSettlementMediator.lua",
