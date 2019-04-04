@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.665",
-["packageSize"] = 14876,
+["version"] = "1.1.667",
+["packageSize"] = 14880,
 ["date"] = "20190404",
 ["depends"] = {
 },
@@ -411,8 +411,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/csd/ZhaYu_Desk.json",
-	["u_md5"]="ca7fa6eaa059e078d2ea5318bd43ebb3",
-	["u_size"]=218.74,
+	["u_md5"]="559c99870b8a18d653409aad64faa7f4",
+	["u_size"]=220.83,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/csd/dntg_lobby_zhayu_chat.json",
@@ -626,8 +626,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/desk/betAreaFont_total.png",
-	["u_md5"]="8e79f595b2d3fe092cf2da4bbd1ac0dd",
-	["u_size"]=6.1,
+	["u_md5"]="e204117cfa841489b76aa3e944f781ea",
+	["u_size"]=5.76,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/desk/betAreaFont_zhan_ji.png",
@@ -723,6 +723,11 @@ return {
 	["u_name"]="Games/GZhayu/res/game/desk/qipao2.png",
 	["u_md5"]="09ebee33a402fe5c72589a12c8688d5c",
 	["u_size"]=0.33,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/redPoint.png",
+	["u_md5"]="25c606fc65df25e153de67684291c901",
+	["u_size"]=0.21,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/desk/takenum.png",
@@ -1451,8 +1456,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="de24bfbaaacbe8f2250a9f2a07be3a43",
-	["u_size"]=35.56,
+	["u_md5"]="83e3ef201981d32af7c8108ead7c1ca6",
+	["u_size"]=36.63,
 	},
 {
 	["u_name"]="Games/GZhayu/src/Zhayu_Root.lua",
@@ -1471,8 +1476,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/chat/GLobbyZhayuChatLayerView.lua",
-	["u_md5"]="a9147a248fbf48871d21587b447a5c2d",
-	["u_size"]=32.98,
+	["u_md5"]="9593283cb21014e6ff92639b654b1ea9",
+	["u_size"]=33.56,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/AddGImageAsync.lua",
@@ -1606,8 +1611,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerSelfOpView.lua",
-	["u_md5"]="864f4735b37f38fe4866452014d4a366",
-	["u_size"]=8.62,
+	["u_md5"]="bf8073fe18d909ebd2157730448d0f0e",
+	["u_size"]=8.88,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerSettlementMediator.lua",
@@ -1681,8 +1686,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/pb/bomb_s2c.pb",
-	["u_md5"]="1a61a7690f1395a938713a282054fcf0",
-	["u_size"]=1.65,
+	["u_md5"]="c4f0551e56e0c4f351a2a3a3c3459d70",
+	["u_size"]=1.67,
 	},
 {
 	["u_name"]="Games/GZhayu/src/sound/AudioManager.lua",

@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.665",
-["packageSize"] = 1993,
+["version"] = "1.1.667",
+["packageSize"] = 1994,
 ["date"] = "20190404",
 ["depends"] = {
 10002,
@@ -68,8 +68,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
-	["u_md5"]="6a18d2121613c4c7b9e3afb2b4faefba",
-	["u_size"]=11.84,
+	["u_md5"]="c0a7503d09a686039019e44114c77eee",
+	["u_size"]=12.02,
 	},
 {
 	["u_name"]="Games/BaseCommon/ProtoBuf/ProtobufParse.lua",
@@ -108,8 +108,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TYGameNode.lua",
-	["u_md5"]="aa41da4cbfd3ba525001836c99ae0c7b",
-	["u_size"]=4.48,
+	["u_md5"]="57987cddd9e6300be8397bb3a201f21d",
+	["u_size"]=4.97,
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TYNode.lua",

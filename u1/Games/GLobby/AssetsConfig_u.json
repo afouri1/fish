@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.665",
-["packageSize"] = 23300,
+["version"] = "1.1.667",
+["packageSize"] = 23317,
 ["date"] = "20190404",
 ["depends"] = {
 10001,
@@ -3096,7 +3096,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/exchange/dntg_lobby_exchange.json",
-	["u_md5"]="8a7d053d172ab5172856b171bb3f193a",
+	["u_md5"]="0e75f389e61d1731227610f049c583b3",
 	["u_size"]=20.56,
 	},
 {
@@ -3826,8 +3826,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/exchange/bg.png",
-	["u_md5"]="ce9b9c742eafcbcab560584f239d5541",
-	["u_size"]=94.78,
+	["u_md5"]="dd2abd9a5383612ba3d35c3bcc956b0a",
+	["u_size"]=91.47,
 	},
 {
 	["u_name"]="Games/GLobby/res/exchange/button_qwsc.png",
@@ -3856,8 +3856,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/exchange/num.png",
-	["u_md5"]="3808e2d62cdc3a9b7aa19f22cbb75191",
-	["u_size"]=7.92,
+	["u_md5"]="32c882e431f408b5674ac08a5aacd2ca",
+	["u_size"]=27.94,
 	},
 {
 	["u_name"]="Games/GLobby/res/firstcharge/bg.png",
