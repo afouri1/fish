@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.662",
-["packageSize"] = 11688,
-["date"] = "20190403",
+["version"] = "1.1.664",
+["packageSize"] = 14876,
+["date"] = "20190404",
 ["depends"] = {
 },
 ["newDetails"] = [[ ]],
@@ -508,6 +508,116 @@ return {
 	["u_name"]="Games/GZhayu/res/game/desk/bar.png",
 	["u_md5"]="bf411245416a2969c465d3c9720e2ac0",
 	["u_size"]=31.47,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove024_1.plist",
+	["u_md5"]="94bd8a78198ea03469908b6cbf157f40",
+	["u_size"]=5.74,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove024_1.png",
+	["u_md5"]="948fb1c577ababa6cf968eac23dbd37f",
+	["u_size"]=267.99,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove024_2.plist",
+	["u_md5"]="c82902093438ef2deac8ed86e075b6f5",
+	["u_size"]=5.74,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove024_2.png",
+	["u_md5"]="2e653fc4fe04c8a306ad99dea7d8e98a",
+	["u_size"]=313.63,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove024_3.plist",
+	["u_md5"]="339c6a10fa83dcc7982863e8b07cca40",
+	["u_size"]=2.05,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove024_3.png",
+	["u_md5"]="e4a0c5dd806c354d488a6c098d9a1972",
+	["u_size"]=64.04,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove025_1.plist",
+	["u_md5"]="6b285dabaa1467b5badb977582b85f90",
+	["u_size"]=4.13,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove025_1.png",
+	["u_md5"]="bea57d4edb6fa457c444ce1946cd784b",
+	["u_size"]=332.37,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove025_2.plist",
+	["u_md5"]="767bdc064996a13446158df6d5c03c2d",
+	["u_size"]=4.13,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove025_2.png",
+	["u_md5"]="827fdc5fe1783be73772dc9e4b45a0e3",
+	["u_size"]=336.8,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove025_3.plist",
+	["u_md5"]="f4a3b5977a10719d7cfc0306589cbd8c",
+	["u_size"]=4.13,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove025_3.png",
+	["u_md5"]="fb7ce093114939ea3f6b40d5c7221b15",
+	["u_size"]=346.75,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove025_4.plist",
+	["u_md5"]="39ff8128900b58248edb68606a66b8e0",
+	["u_size"]=4.25,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove025_4.png",
+	["u_md5"]="a48d023814ad3a56179c41a4aedfb2d6",
+	["u_size"]=341.12,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove026_1.plist",
+	["u_md5"]="f1bbbf8ca9ea91eb5f136ea36ea972e1",
+	["u_size"]=5.74,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove026_1.png",
+	["u_md5"]="3e098e2a2ed329b9d2d49715b13e665c",
+	["u_size"]=282.58,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove026_2.plist",
+	["u_md5"]="c3a35dadbc88f1e07ec86bfb65c8a436",
+	["u_size"]=5.74,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove026_2.png",
+	["u_md5"]="e0fbd8d734a255fbf2a3ed27f8007fdb",
+	["u_size"]=269.92,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove027_1.plist",
+	["u_md5"]="1fe5b81acde4bf85cfec1b838bf9e804",
+	["u_size"]=7.35,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove027_1.png",
+	["u_md5"]="13b9d8a0fcdb7260351136c1b07c9489",
+	["u_size"]=418.02,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove027_2.plist",
+	["u_md5"]="097a12651523917954fe3efd01e0c521",
+	["u_size"]=3.06,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/desk/betAreaAni/fishMove027_2.png",
+	["u_md5"]="eec55afb7eb35ae5854bc66bc2792ab7",
+	["u_size"]=159.41,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/desk/betAreaFont_self.png",
@@ -1341,13 +1451,13 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="872015d49224648e246bfd9e3d2a40cb",
-	["u_size"]=34.98,
+	["u_md5"]="fb5fc0a929e97e5a05856982b7c27ce0",
+	["u_size"]=35.26,
 	},
 {
 	["u_name"]="Games/GZhayu/src/Zhayu_Root.lua",
-	["u_md5"]="7d3aac314beac2289d8579b274254ac9",
-	["u_size"]=2.32,
+	["u_md5"]="f067059ca8f5970e136cd8b5eddc1e42",
+	["u_size"]=2.62,
 	},
 {
 	["u_name"]="Games/GZhayu/src/chat/GLobbyZhayuChatLayerItem.lua",
@@ -1361,13 +1471,13 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/chat/GLobbyZhayuChatLayerView.lua",
-	["u_md5"]="7a34cd32c69b3b8a6bfd12a1cca3caf9",
-	["u_size"]=32.42,
+	["u_md5"]="a9147a248fbf48871d21587b447a5c2d",
+	["u_size"]=32.98,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/AddGImageAsync.lua",
-	["u_md5"]="2bbf8562eacd32a89d09dc99598ca486",
-	["u_size"]=5.06,
+	["u_md5"]="e2b903c12222c04a297b68a047a17a11",
+	["u_size"]=5.16,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/BetAreaBoomPanelMediator.lua",
@@ -1406,8 +1516,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/EffectLayerView.lua",
-	["u_md5"]="b3227fae9414abebb3f86239c3678d08",
-	["u_size"]=8.85,
+	["u_md5"]="40f58d33f8305c705640372eeba8870a",
+	["u_size"]=9.07,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/GConfigManager.lua",
@@ -1436,8 +1546,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerBetAreaView.lua",
-	["u_md5"]="d59f337cd76befc0098714f3613fb2db",
-	["u_size"]=3,
+	["u_md5"]="afc0237a883b10351ee3abb251cd5eeb",
+	["u_size"]=4.59,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerChatMediator.lua",
