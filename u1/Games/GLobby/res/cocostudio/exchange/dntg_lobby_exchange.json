@@ -12,9 +12,9 @@
   "textures": [],
   "texturesPng": [
     "Games/GLobby/res/exchange/bg.png",
+    "Games/GLobby/res/exchange/img3.png",
     "Games/GLobby/res/exchange/img1.png",
     "Games/GLobby/res/exchange/img2.png",
-    "Games/GLobby/res/exchange/img3.png",
     "Games/GLobby/res/exchange/button_qwsc.png",
     "Games/GLobby/res/exchange/button_qwyx.png",
     "Games/GLobby/res/club/memberManage/img_close.png"
@@ -242,7 +242,7 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "Games/GLobby/res/exchange/img1.png",
+                "path": "Games/GLobby/res/exchange/img3.png",
                 "plistFile": "",
                 "resourceType": 0
               },
@@ -296,7 +296,7 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "Games/GLobby/res/exchange/img2.png",
+                "path": "Games/GLobby/res/exchange/img1.png",
                 "plistFile": "",
                 "resourceType": 0
               },
@@ -350,7 +350,7 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "Games/GLobby/res/exchange/img3.png",
+                "path": "Games/GLobby/res/exchange/img2.png",
                 "plistFile": "",
                 "resourceType": 0
               },
