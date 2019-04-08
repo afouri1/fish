@@ -2,13 +2,28 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.674",
-["packageSize"] = 14949,
-["date"] = "20190404",
+["version"] = "1.1.676",
+["packageSize"] = 14554,
+["date"] = "20190408",
 ["depends"] = {
 },
 ["newDetails"] = [[ ]],
 ["assets"] = {
+{
+	["u_name"]="Games/GZhayu/res/game/Barrage/nameBg.png",
+	["u_md5"]="5ee75eaa57c2d899194844714bbd61af",
+	["u_size"]=1.31,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/Barrage/qipao.png",
+	["u_md5"]="a5cce4aa85f7a74ffa52f54588af7ad1",
+	["u_size"]=0.4,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/Barrage/touxiangkuang_wanjia.png",
+	["u_md5"]="5654516d7fa6af41aa7a0f298fb2976e",
+	["u_size"]=2.59,
+	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/biaoqing/biaoqing.ExportJson",
 	["u_md5"]="8f317a14b420272d5416a2421a831cb7",
@@ -355,6 +370,11 @@ return {
 	["u_size"]=13.18,
 	},
 {
+	["u_name"]="Games/GZhayu/res/game/csd/Barrage.json",
+	["u_md5"]="981b61cf0341c776450e17b51ee35683",
+	["u_size"]=12.87,
+	},
+{
 	["u_name"]="Games/GZhayu/res/game/csd/BigWinner.json",
 	["u_md5"]="ba2e5a06227550cee79a6e3732f7ebbc",
 	["u_size"]=9.37,
@@ -391,8 +411,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/csd/SettingMenu.json",
-	["u_md5"]="7de676f6f936ecc469892433984d2939",
-	["u_size"]=9.2,
+	["u_md5"]="83ff0cd3ce4d9b30f404e1ca95378bd0",
+	["u_size"]=9.19,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/csd/ShowAwardTypes.json",
@@ -1120,81 +1140,6 @@ return {
 	["u_size"]=3.89,
 	},
 {
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/dntgtest_Loading_bg.jpg",
-	["u_md5"]="5e03e2fe1ab821ec2cc07235980280dd",
-	["u_size"]=347.81,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/loadingBg.png",
-	["u_md5"]="2c65132f804ec08dbdb2b54bd8d1e456",
-	["u_size"]=0.98,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/loadingTop.png",
-	["u_md5"]="f28291b937871694019e2d63d1bfd786",
-	["u_size"]=1.91,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/tipsbg.png",
-	["u_md5"]="7c02c1c31b64a587fa427cc5fd5b8d2e",
-	["u_size"]=0.33,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/txt1.png",
-	["u_md5"]="ee039027c1b8a1ee215a1e74a22cf846",
-	["u_size"]=6.73,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/txt10.png",
-	["u_md5"]="7ab053a9e09cb748aa73e3ff38501482",
-	["u_size"]=7.54,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/txt11.png",
-	["u_md5"]="663f39bd7c8e60ec93ad67a54481f3f7",
-	["u_size"]=5.08,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/txt2.png",
-	["u_md5"]="8130901ef97ea52af5ba16dd9c01b69d",
-	["u_size"]=7.36,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/txt3.png",
-	["u_md5"]="16931cff83c2d95a750e36af30578b73",
-	["u_size"]=7.76,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/txt4.png",
-	["u_md5"]="fb8eb18c335adffcf7f1b9731e6696fd",
-	["u_size"]=6.76,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/txt5.png",
-	["u_md5"]="9280bf9d74f7d6e1b4b99d2c4d3a829b",
-	["u_size"]=8.92,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/txt6.png",
-	["u_md5"]="dbf8360284d5ea5588ea6a3363ca7e21",
-	["u_size"]=5.75,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/txt7.png",
-	["u_md5"]="4c19a012bb3f3bf74f7847ab618760b3",
-	["u_size"]=6.23,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/txt8.png",
-	["u_md5"]="5d7fb155177515865f052a52bc9a5563",
-	["u_size"]=6.96,
-	},
-{
-	["u_name"]="Games/GZhayu/res/game/gameUi/load/txt9.png",
-	["u_md5"]="865b783bc80a2b1fef59362f6956da01",
-	["u_size"]=5.22,
-	},
-{
 	["u_name"]="Games/GZhayu/res/game/history/bg.png",
 	["u_md5"]="a6ed79faa850bdcbe3185238acd3b2b6",
 	["u_size"]=17.4,
@@ -1341,13 +1286,13 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/setting/bangzhu.png",
-	["u_md5"]="bf5ac781420f33c3f5857bf4d272e3e3",
-	["u_size"]=3,
+	["u_md5"]="4e1ed292777b2f841e171951271c16ce",
+	["u_size"]=3.87,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/setting/bg.png",
-	["u_md5"]="4b31d5d8db8a35d2e463cbffe86756ab",
-	["u_size"]=8.67,
+	["u_md5"]="e5213ca21f6d1bca17b5bd83aa6f6523",
+	["u_size"]=13.94,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/setting/musicSet/bar1.png",
@@ -1401,13 +1346,13 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/setting/tuichu.png",
-	["u_md5"]="b4ed1f5b159bfe481507fcbf5db938c6",
-	["u_size"]=2.81,
+	["u_md5"]="76a7b7e5f837e03653fd7aba9474e787",
+	["u_size"]=3.49,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/setting/yinliang.png",
-	["u_md5"]="dfb62512f673c0a2bfd051a32e5a5c17",
-	["u_size"]=2.67,
+	["u_md5"]="c953057ffe72654e1b0ab5a87d9da665",
+	["u_size"]=3.41,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/stateTips/bg.png",
@@ -1476,13 +1421,13 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="d8dfabea12e9ddd28e8cd675228a2689",
-	["u_size"]=37.69,
+	["u_md5"]="872b6e85ea2c915a03c7cce92a4997c3",
+	["u_size"]=38.17,
 	},
 {
 	["u_name"]="Games/GZhayu/src/Zhayu_Root.lua",
-	["u_md5"]="f067059ca8f5970e136cd8b5eddc1e42",
-	["u_size"]=2.62,
+	["u_md5"]="049add33e90df9dacfe5a617292e0cd5",
+	["u_size"]=2.63,
 	},
 {
 	["u_name"]="Games/GZhayu/src/chat/GLobbyZhayuChatLayerItem.lua",
@@ -1496,13 +1441,23 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/chat/GLobbyZhayuChatLayerView.lua",
-	["u_md5"]="345d4b35f24881c57d6967ab02f57f9e",
-	["u_size"]=33.6,
+	["u_md5"]="a92ba8eb098bb40854d25d6a6e80046b",
+	["u_size"]=33.62,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/AddGImageAsync.lua",
 	["u_md5"]="e2b903c12222c04a297b68a047a17a11",
 	["u_size"]=5.16,
+	},
+{
+	["u_name"]="Games/GZhayu/src/game/BarrageMediator.lua",
+	["u_md5"]="881c8f4a33d36497b721701cf414347d",
+	["u_size"]=1.23,
+	},
+{
+	["u_name"]="Games/GZhayu/src/game/BarrageView.lua",
+	["u_md5"]="7b89bacb8f0d4e319f7f8e16cfb2cbce",
+	["u_size"]=3.34,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/BetAreaBoomPanelMediator.lua",
@@ -1536,8 +1491,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/EffectLayerMediator.lua",
-	["u_md5"]="3165f6f3b3d8858d7c58bd0a020db136",
-	["u_size"]=5.14,
+	["u_md5"]="960237a6db46132b1b785b98efce8747",
+	["u_size"]=5.35,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/EffectLayerView.lua",
@@ -1691,23 +1646,23 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/pb/bomb_Basis.pb",
-	["u_md5"]="fb31db6b85461ca199e59219182176c2",
-	["u_size"]=0.39,
+	["u_md5"]="2f2f9656c5a11b0e5cfbf5c0b3badf9d",
+	["u_size"]=0.43,
 	},
 {
 	["u_name"]="Games/GZhayu/src/pb/bomb_Cmd.pb",
-	["u_md5"]="f6a9095e68b2fbe9db78a91595555ab9",
-	["u_size"]=0.58,
+	["u_md5"]="f193fe92d0d0383b19f47729a0f41b87",
+	["u_size"]=0.67,
 	},
 {
 	["u_name"]="Games/GZhayu/src/pb/bomb_c2s.pb",
-	["u_md5"]="8208ae5dceacc0de8eb76aac38e17441",
-	["u_size"]=0.23,
+	["u_md5"]="b2018e7bf948ab6cba00616dd8caeb05",
+	["u_size"]=0.25,
 	},
 {
 	["u_name"]="Games/GZhayu/src/pb/bomb_s2c.pb",
-	["u_md5"]="c4f0551e56e0c4f351a2a3a3c3459d70",
-	["u_size"]=1.67,
+	["u_md5"]="d9596979fbcde8c5a826f11571f3e5a9",
+	["u_size"]=1.76,
 	},
 {
 	["u_name"]="Games/GZhayu/src/sound/AudioManager.lua",

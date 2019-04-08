@@ -2,18 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.674",
+["version"] = "1.1.676",
 ["packageSize"] = 23357,
-["date"] = "20190404",
+["date"] = "20190408",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1、开放游戏厅新游“炸鱼来了”
-2、新增椰子商城引导页
-3、新增渔厅新手指引
-4、jackpot和椰子积分优化调整
+1、新增椰子商城引导页
+2、新增渔厅新手指引
+3、jackpot和椰子积分优化调整
 
 ]],
 ["assets"] = {
@@ -29,8 +28,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="e314a463cd3a40722f1a0b9fa7ba4dfc",
-	["u_size"]=32.58,
+	["u_md5"]="188ce85dc73787b8cc2391ce42f07110",
+	["u_size"]=32.63,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
@@ -54,7 +53,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="8614e7df1c8796a2da1b0ff6dccfe74e",
+	["u_md5"]="833ec84de37040712edff829bb337ed4",
 	["u_size"]=4.32,
 	},
 {
@@ -5844,8 +5843,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
-	["u_md5"]="14830b0227fb7ea96fe363b202c8f90e",
-	["u_size"]=8.56,
+	["u_md5"]="5fb2b0a3f35433a838873143499bee8b",
+	["u_size"]=8.57,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
@@ -6359,13 +6358,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_c2s.pb",
-	["u_md5"]="e1756bf9901e0c8f6d130a14ac6d6717",
-	["u_size"]=4.73,
+	["u_md5"]="4866126c68746042d420eb3991e52692",
+	["u_size"]=4.75,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_s2c.pb",
-	["u_md5"]="da7dfaf231de3cd0051a26a204d5221b",
-	["u_size"]=11.24,
+	["u_md5"]="11a39cca932e4daa722750ada005f30e",
+	["u_size"]=11.31,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/c2s.pb",
