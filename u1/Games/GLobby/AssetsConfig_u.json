@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.677",
-["packageSize"] = 23357,
+["version"] = "1.1.678",
+["packageSize"] = 23358,
 ["date"] = "20190409",
 ["depends"] = {
 10001,
@@ -23,13 +23,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="42fa3dd50736a06e55fb66da78d9451d",
-	["u_size"]=20.09,
+	["u_md5"]="124480e4acb9720b535912f8286a6a12",
+	["u_size"]=20.1,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="188ce85dc73787b8cc2391ce42f07110",
-	["u_size"]=32.63,
+	["u_md5"]="79c7ce8a2f45ea20697a638eb256f02b",
+	["u_size"]=32.2,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
@@ -5753,13 +5753,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyConst/GameManifest.lua",
-	["u_md5"]="f2815179a85306909faea297afff9829",
-	["u_size"]=1.68,
+	["u_md5"]="c93269328308751be75c9516a83eb36f",
+	["u_size"]=1.88,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyConst/LobbyConst.lua",
-	["u_md5"]="854aeb2bceae28ebc395b324f574c387",
-	["u_size"]=1.96,
+	["u_md5"]="796fad6c6799bf297cf786c7e37f902f",
+	["u_size"]=2.69,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyConst/LobbyEvent.lua",
@@ -5838,8 +5838,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageBottom.lua",
-	["u_md5"]="9ca6b249e4b90a651c1e1d093821a32f",
-	["u_size"]=19.24,
+	["u_md5"]="3cc5140911f30ebe214884cb5a35f66c",
+	["u_size"]=19.34,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
@@ -6133,7 +6133,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/WorldChatListData.lua",
-	["u_md5"]="f2bd4b6ec6210551be4933aa825d54e5",
+	["u_md5"]="dcc58e7f17ac2f8122468edcb5faacb5",
 	["u_size"]=5.79,
 	},
 {
@@ -6358,8 +6358,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_c2s.pb",
-	["u_md5"]="4866126c68746042d420eb3991e52692",
-	["u_size"]=4.75,
+	["u_md5"]="8cec3b2eaaafcc2d03964e993250f087",
+	["u_size"]=4.8,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_s2c.pb",
