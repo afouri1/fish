@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.676",
-["packageSize"] = 14554,
-["date"] = "20190408",
+["version"] = "1.1.677",
+["packageSize"] = 14684,
+["date"] = "20190409",
 ["depends"] = {
 },
 ["newDetails"] = [[ ]],
@@ -285,6 +285,21 @@ return {
 	["u_size"]=8.5,
 	},
 {
+	["u_name"]="Games/GZhayu/res/game/GameAni/renwudonghua/renwudonghua.ExportJson",
+	["u_md5"]="a11cf25b4e2ef64c049885a8b870c042",
+	["u_size"]=30.46,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/GameAni/renwudonghua/renwudonghua0.plist",
+	["u_md5"]="00f30b3132fe57e8699080f6d164df23",
+	["u_size"]=5.58,
+	},
+{
+	["u_name"]="Games/GZhayu/res/game/GameAni/renwudonghua/renwudonghua0.png",
+	["u_md5"]="8cd433eaad56529f6c1c7d288da1c1cc",
+	["u_size"]=93.88,
+	},
+{
 	["u_name"]="Games/GZhayu/res/game/alert/bg_shiti.png",
 	["u_md5"]="78a013f8f95c7a95353b0fc85bcef9ad",
 	["u_size"]=12.19,
@@ -431,8 +446,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/csd/ZhaYu_Desk.json",
-	["u_md5"]="559c99870b8a18d653409aad64faa7f4",
-	["u_size"]=220.83,
+	["u_md5"]="05e79d5ac419b77d087737fb0b2e0585",
+	["u_size"]=220.47,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/csd/dntg_lobby_zhayu_chat.json",
@@ -1421,8 +1436,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="872b6e85ea2c915a03c7cce92a4997c3",
-	["u_size"]=38.17,
+	["u_md5"]="5cc0851c853675da47336208e092dd59",
+	["u_size"]=38.11,
 	},
 {
 	["u_name"]="Games/GZhayu/src/Zhayu_Root.lua",
@@ -1456,7 +1471,7 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/BarrageView.lua",
-	["u_md5"]="7b89bacb8f0d4e319f7f8e16cfb2cbce",
+	["u_md5"]="6f274e87a4c6929cf9f65f3ad63e14b1",
 	["u_size"]=3.34,
 	},
 {
@@ -1586,8 +1601,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerSelfOpView.lua",
-	["u_md5"]="e976a00c7d0454a46ee3bab05d89a6e7",
-	["u_size"]=8.98,
+	["u_md5"]="508e0518934d3c93d05036843b8fcdfe",
+	["u_size"]=9.49,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerSettlementMediator.lua",
