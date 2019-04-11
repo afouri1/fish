@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.683",
-["packageSize"] = 14686,
-["date"] = "20190410",
+["version"] = "1.1.685",
+["packageSize"] = 14558,
+["date"] = "20190411",
 ["depends"] = {
 },
 ["newDetails"] = [[ ]],
@@ -96,58 +96,58 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan.ExportJson",
-	["u_md5"]="b14f2e4082fa647409ca6ea3f733264b",
-	["u_size"]=70.42,
+	["u_md5"]="2ff4a7f945244cf7951b0660d14df489",
+	["u_size"]=102.63,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan0.plist",
-	["u_md5"]="bae34a32daf89483a4661fcc744e7dd0",
-	["u_size"]=6.51,
+	["u_md5"]="359431dbc0c60929cb49695eb37545ff",
+	["u_size"]=14.69,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan0.png",
-	["u_md5"]="c3c5d6a36d4ed34722843485589c83a7",
-	["u_size"]=402.26,
+	["u_md5"]="7ee4f4f6255b2280b64490a9849dc445",
+	["u_size"]=354.6,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan1.plist",
-	["u_md5"]="aa4cfccb45bc5c8f15904f71f9425e1c",
-	["u_size"]=4.42,
+	["u_md5"]="682aa23a037cbff3107b8b30196005e1",
+	["u_size"]=4.83,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan1.png",
-	["u_md5"]="9411d0352c013ddbc3d6f290ecb5917e",
-	["u_size"]=762.16,
+	["u_md5"]="a17828c74a2fe1c1ebe90449cfcbfb5e",
+	["u_size"]=730.47,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan2.plist",
-	["u_md5"]="fb42e11333e3b7193636c45b0a64f749",
+	["u_md5"]="eb9d71ec8cdf28dbeb9fd75e8454a070",
 	["u_size"]=4.42,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan2.png",
-	["u_md5"]="fc7b7dd49319bcf610609aca3edcd09a",
-	["u_size"]=747.84,
+	["u_md5"]="97765c5521a010206ce0a5d98a38dc62",
+	["u_size"]=751.71,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan3.plist",
-	["u_md5"]="cf464484305a495f658a26bfc46da682",
+	["u_md5"]="974fe9c31f804345828663d90634dbfa",
 	["u_size"]=4.42,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan3.png",
-	["u_md5"]="e331f162337242f9198e29dc0dc7cd98",
-	["u_size"]=417.75,
+	["u_md5"]="80297b356c12c887dce8070b82f8d31e",
+	["u_size"]=414.49,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan4.plist",
-	["u_md5"]="797c627cc73290314d68da29275a2ebc",
-	["u_size"]=1.47,
+	["u_md5"]="9c74ac0e569db0de54ea7833c62fb5e8",
+	["u_size"]=1.89,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/gaojizhadan/gaojizhadan4.png",
-	["u_md5"]="cf30ca16f571a0f7025388257a5e75dd",
-	["u_size"]=28.14,
+	["u_md5"]="574309ba8ff09ec519ee9d082e4154a4",
+	["u_size"]=43.81,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/guibinxi/guibinxi.ExportJson",
@@ -231,7 +231,7 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/putongzhadan/putongzhadan.ExportJson",
-	["u_md5"]="723fe8f2dab68c359761e729c06f8829",
+	["u_md5"]="7d7645e56b35208a2a603bb0108993e8",
 	["u_size"]=66.95,
 	},
 {
@@ -241,8 +241,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/putongzhadan/putongzhadan0.png",
-	["u_md5"]="795b61f5a88259e288e33fc26f14c097",
-	["u_size"]=464.79,
+	["u_md5"]="ee75d5a54e799fcff5f4f4feb64e3f6c",
+	["u_size"]=445.81,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/putongzhadan/putongzhadan1.plist",
@@ -251,8 +251,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/putongzhadan/putongzhadan1.png",
-	["u_md5"]="4e190e1414f09d925dcd673f52c33d6a",
-	["u_size"]=773.25,
+	["u_md5"]="9d597014d1c56eaea3d123a2d63e0161",
+	["u_size"]=743.63,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/putongzhadan/putongzhadan2.plist",
@@ -261,8 +261,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/putongzhadan/putongzhadan2.png",
-	["u_md5"]="f74f8156a98fe42bdbdb82529901ebb2",
-	["u_size"]=712.32,
+	["u_md5"]="b9d69c0488f5d7029301268f0bfaf931",
+	["u_size"]=691.53,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/putongzhadan/putongzhadan3.plist",
@@ -271,8 +271,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/putongzhadan/putongzhadan3.png",
-	["u_md5"]="c143a26359a0faa66e36ab0f6ef1b666",
-	["u_size"]=372.85,
+	["u_md5"]="5861f38c9e024c35be9c64877a19b960",
+	["u_size"]=337.42,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/putongzhadan/putongzhadan4.plist",
@@ -281,8 +281,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/putongzhadan/putongzhadan4.png",
-	["u_md5"]="2c7ccf373ddc790e3dfb65a0768f028a",
-	["u_size"]=8.5,
+	["u_md5"]="95edb478359e7bb560bec191315a6783",
+	["u_size"]=7.32,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/GameAni/renwudonghua/renwudonghua.ExportJson",
@@ -446,8 +446,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/csd/ZhaYu_Desk.json",
-	["u_md5"]="05e79d5ac419b77d087737fb0b2e0585",
-	["u_size"]=220.47,
+	["u_md5"]="a89ed5596097007522ccff1ee44f5217",
+	["u_size"]=220.54,
 	},
 {
 	["u_name"]="Games/GZhayu/res/game/csd/dntg_lobby_zhayu_chat.json",
@@ -1436,8 +1436,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="2ea92c9b5d8a6bc894755f221fea8a2a",
-	["u_size"]=39.84,
+	["u_md5"]="177f97e5a452e9fef6248fa1dc2b3cbf",
+	["u_size"]=39.38,
 	},
 {
 	["u_name"]="Games/GZhayu/src/Zhayu_Root.lua",
@@ -1466,8 +1466,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/BarrageMediator.lua",
-	["u_md5"]="881c8f4a33d36497b721701cf414347d",
-	["u_size"]=1.23,
+	["u_md5"]="c98d018a3dbfc3e26d6945a86a30c663",
+	["u_size"]=1.71,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/BarrageView.lua",

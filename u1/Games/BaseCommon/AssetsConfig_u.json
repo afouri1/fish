@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.683",
-["packageSize"] = 1998,
-["date"] = "20190410",
+["version"] = "1.1.685",
+["packageSize"] = 1999,
+["date"] = "20190411",
 ["depends"] = {
 10002,
 10003,
@@ -263,8 +263,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/GCommon.lua",
-	["u_md5"]="1cac17745f6f0fef44478acdf3614a68",
-	["u_size"]=20.73,
+	["u_md5"]="a6859e1bb994a987597cb7e57edd9a39",
+	["u_size"]=22.06,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/ImageManager.lua",
