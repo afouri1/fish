@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.686",
-["packageSize"] = 14563,
+["version"] = "1.1.687",
+["packageSize"] = 14558,
 ["date"] = "20190412",
 ["depends"] = {
 },
@@ -1533,16 +1533,6 @@ return {
 	["u_name"]="Games/GZhayu/src/game/GameData.lua",
 	["u_md5"]="707cf1468b38950381904c1f53641ef5",
 	["u_size"]=4.83,
-	},
-{
-	["u_name"]="Games/GZhayu/src/game/LayerAniMediator.lua",
-	["u_md5"]="e87c9eb3bd59b5ed58ee2b6ada82d334",
-	["u_size"]=3.82,
-	},
-{
-	["u_name"]="Games/GZhayu/src/game/LayerAniView.lua",
-	["u_md5"]="b236f9cc792129d2f54528c64586670a",
-	["u_size"]=0.35,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerBetAreaMediator.lua",
