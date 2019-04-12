@@ -2,15 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.690",
-["packageSize"] = 24231,
+["version"] = "1.1.691",
+["packageSize"] = 24234,
 ["date"] = "20190412",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-测试包更新
+1、新增椰子商城引导页
+2、新增渔厅新手指引
+3、jackpot和椰子积分优化调整
+
 ]],
 ["assets"] = {
 {
@@ -20,13 +23,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="facadfc1ed2aee947ecadd6f0a822631",
-	["u_size"]=22.31,
+	["u_md5"]="bb4a3ae52653dc440fc6b6295d6e9308",
+	["u_size"]=22.54,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="7f2456066b20204b85f4239d8bb2a32d",
-	["u_size"]=32.84,
+	["u_md5"]="db491d1ef6f5a0fe879d83108af304ec",
+	["u_size"]=33.07,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
@@ -50,8 +53,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="3e1a6dacd627f19b56d295b59b80fe1a",
-	["u_size"]=4.24,
+	["u_md5"]="f8c251f7a015cb5749e8b18559070156",
+	["u_size"]=4.36,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
@@ -6240,13 +6243,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageBottom.lua",
-	["u_md5"]="5a9d25741383ec01b6c20556740d9d95",
-	["u_size"]=19.81,
+	["u_md5"]="a7f47647e91eacfa426f98e9995a5baf",
+	["u_size"]=19.94,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
-	["u_md5"]="fda6b23b076a4b8e461c2c386bc4c928",
-	["u_size"]=9.53,
+	["u_md5"]="d522a776a46edf1144dab66d5cc9acbf",
+	["u_size"]=9.6,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
@@ -6300,7 +6303,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
-	["u_md5"]="6fe35ed0ab1cfae9920bcea740c712a2",
+	["u_md5"]="22afb0ca021012cf29b4f487bc1f6665",
 	["u_size"]=13.46,
 	},
 {
@@ -6490,8 +6493,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyYeYunTransLayerView.lua",
-	["u_md5"]="3b31be126a77941f97c6bbddc62c21e2",
-	["u_size"]=6.32,
+	["u_md5"]="061e07b00dfc0d21a14be17f0941f236",
+	["u_size"]=6.68,
 	},
 {
 	["u_name"]="Games/GLobby/src/backwater/GLobbyBackwaterLayerMediator.lua",
@@ -6650,8 +6653,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/mail/GLobbyMailLayerView.lua",
-	["u_md5"]="d9081f6bb290ea6797c75f6a189a48e6",
-	["u_size"]=12.09,
+	["u_md5"]="9710588e03ce75519e703b393ce3445b",
+	["u_size"]=13.42,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyAgentDetailsLayerItem.lua",
@@ -6820,8 +6823,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/news/GLobbyNewsLayerView.lua",
-	["u_md5"]="72fce60b537bf8249646e65d6e7da88f",
-	["u_size"]=17.29,
+	["u_md5"]="5b220582abeddde9ef39ef08fd5a4cfa",
+	["u_size"]=18.04,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Basis.pb",
