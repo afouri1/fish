@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.693",
+["version"] = "1.1.694",
 ["packageSize"] = 24234,
 ["date"] = "20190413",
 ["depends"] = {
@@ -6560,8 +6560,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/convene/GLobbyConveneLayerView.lua",
-	["u_md5"]="f5666bad170b328055e05026d085d087",
-	["u_size"]=20.23,
+	["u_md5"]="70a3566199d3f63ccd6ce6e85a498c8f",
+	["u_size"]=20.24,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/NewsListData.lua",
