@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.696",
+["version"] = "1.1.699",
 ["packageSize"] = 24236,
 ["date"] = "20190413",
 ["depends"] = {
@@ -10,9 +10,10 @@ return {
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1、新增椰子商城引导页
-2、新增渔厅新手指引
-3、jackpot和椰子积分优化调整
+1、游戏厅新游“炸鱼来了”全面开启，一夜暴富不是梦
+2、新增金币商城，椰子积分也可以兑换金币了
+3、新增邮件系统，随时关注领取福利哦
+4、新增召集大使（2019/04/15开放）
 
 ]],
 ["assets"] = {
@@ -23,12 +24,12 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="bb4a3ae52653dc440fc6b6295d6e9308",
+	["u_md5"]="1a45f13b7dfa66ea9a31219d6083577f",
 	["u_size"]=22.54,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="94cd4ebcb6c4b64e64c3c9044e29e34f",
+	["u_md5"]="374a6c4e43b292e024c9fb2506f29b16",
 	["u_size"]=32.88,
 	},
 {
@@ -3693,8 +3694,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/convene/shuoming.png",
-	["u_md5"]="fc57f7685769d46983b044abbe7fa9ec",
-	["u_size"]=26.3,
+	["u_md5"]="604d679a1cd4afe45dd741d9ec47d6fd",
+	["u_size"]=26.16,
 	},
 {
 	["u_name"]="Games/GLobby/res/convene/txt_dizhi.png",
@@ -6243,8 +6244,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageBottom.lua",
-	["u_md5"]="a7f47647e91eacfa426f98e9995a5baf",
-	["u_size"]=19.94,
+	["u_md5"]="7d83f9d38f50d48751030e912767852e",
+	["u_size"]=20,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
@@ -6293,8 +6294,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerMediator.lua",
-	["u_md5"]="056581674789ba8dcc884a30715d103e",
-	["u_size"]=18.6,
+	["u_md5"]="eed6460472bfe1d1edd978b282c61a95",
+	["u_size"]=18.73,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
@@ -6313,8 +6314,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLogoActionLayer.lua",
-	["u_md5"]="b0de1a06e38a9863a6ad147c558c6eab",
-	["u_size"]=5.54,
+	["u_md5"]="30f5896302b9c2665cd6a50be4f48157",
+	["u_size"]=5.57,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GPhoneLoginLayer.lua",
@@ -6748,7 +6749,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyModifyHeadLayerView.lua",
-	["u_md5"]="2933a790410ee86c4665ab43a2d17a26",
+	["u_md5"]="c705c90fc239077c2895a3187ad3a627",
 	["u_size"]=7.09,
 	},
 {
