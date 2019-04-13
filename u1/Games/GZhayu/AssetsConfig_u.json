@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.695",
-["packageSize"] = 14571,
+["version"] = "1.1.696",
+["packageSize"] = 14572,
 ["date"] = "20190413",
 ["depends"] = {
 },
@@ -1436,8 +1436,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="39317a7cb844f3550d3590966c52742d",
-	["u_size"]=41.88,
+	["u_md5"]="6c5a1a0108d7ce12788e440ba4e697bc",
+	["u_size"]=42.94,
 	},
 {
 	["u_name"]="Games/GZhayu/src/Zhayu_Root.lua",
@@ -1456,8 +1456,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/chat/GLobbyZhayuChatLayerView.lua",
-	["u_md5"]="a92ba8eb098bb40854d25d6a6e80046b",
-	["u_size"]=33.62,
+	["u_md5"]="0ccc1047442cb8808c127c9546dabc78",
+	["u_size"]=33.59,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/AddGImageAsync.lua",
