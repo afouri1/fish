@@ -3,17 +3,19 @@ return {
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
 ["version"] = "1.1.704",
-["packageSize"] = 24236,
+["packageSize"] = 24309,
 ["date"] = "20190415",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1、调整炸鱼开奖概率
-2、取消炸鱼修正
-3、修改机器人满桌BUG
-4、开放召集大使
+1、游戏厅新游“炸鱼来了”全面开启，一夜暴富不是梦
+2、新增金币商城，椰子积分也可以兑换金币了
+3、新增邮件系统，随时关注领取福利哦
+4、已知BUG修复
+5、新增召集大使（2019/04/15开放）
+
 ]],
 ["assets"] = {
 {
@@ -23,12 +25,12 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="709b47a7e33356bf0c27fbb4bdd62059",
-	["u_size"]=22.45,
+	["u_md5"]="cf3fe8e52e173630856c51ebd707b55c",
+	["u_size"]=22.68,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="94cd4ebcb6c4b64e64c3c9044e29e34f",
+	["u_md5"]="374a6c4e43b292e024c9fb2506f29b16",
 	["u_size"]=32.88,
 	},
 {
@@ -53,8 +55,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="3e1a6dacd627f19b56d295b59b80fe1a",
-	["u_size"]=4.24,
+	["u_md5"]="a9a1fb16045b46099a703e079f16d5c0",
+	["u_size"]=4.48,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
@@ -4342,6 +4344,16 @@ return {
 	["u_size"]=69.89,
 	},
 {
+	["u_name"]="Games/GLobby/res/homepage/gameRoom/paopao_1.png",
+	["u_md5"]="594711bdc16ad80f4f666ed2a3bcc236",
+	["u_size"]=19.35,
+	},
+{
+	["u_name"]="Games/GLobby/res/homepage/gameRoom/paopao_2.png",
+	["u_md5"]="deea4f8e9dcf677971542cdd39b1e854",
+	["u_size"]=54.7,
+	},
+{
 	["u_name"]="Games/GLobby/res/homepage/gameRoom/renqi.png",
 	["u_md5"]="9dd6c0e167cdf61c78d6b39f198072c1",
 	["u_size"]=1.33,
@@ -6213,8 +6225,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyGameRoomLayerItem.lua",
-	["u_md5"]="1606d822e2fda44d07782f4326701e48",
-	["u_size"]=3.55,
+	["u_md5"]="d04f32c5dc0288f434f2f92a177b0e79",
+	["u_size"]=2.41,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyGameRoomLayerMediator.lua",
@@ -6223,13 +6235,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyGameRoomLayerView.lua",
-	["u_md5"]="255d72c2bcfbe549939ee0c18e92e02f",
+	["u_md5"]="ccd79cac4c26382f911ec37c5f20efc9",
 	["u_size"]=4.83,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyGoldFieldLayerItem.lua",
-	["u_md5"]="fe90262b2978d6222827e78888dc652e",
-	["u_size"]=3.3,
+	["u_md5"]="6935b3fd48dc3e8b5c404b82fb903fcc",
+	["u_size"]=3.33,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyGoldFieldLayerMediator.lua",
@@ -6248,7 +6260,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
-	["u_md5"]="523cf999b3444d8a71bcd3d72d5121ff",
+	["u_md5"]="4af2232f632b8485bda3a888ae657f89",
 	["u_size"]=9.66,
 	},
 {
@@ -6303,7 +6315,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
-	["u_md5"]="6fe35ed0ab1cfae9920bcea740c712a2",
+	["u_md5"]="22afb0ca021012cf29b4f487bc1f6665",
 	["u_size"]=13.46,
 	},
 {
@@ -6563,8 +6575,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/convene/GLobbyConveneLayerView.lua",
-	["u_md5"]="d973cb770971ea8d0ed9309f220da96b",
-	["u_size"]=20.32,
+	["u_md5"]="77e2848161ae578c001d2f74826d7823",
+	["u_size"]=20.2,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/NewsListData.lua",

@@ -3,7 +3,7 @@ return {
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
 ["version"] = "1.1.704",
-["packageSize"] = 14563,
+["packageSize"] = 14577,
 ["date"] = "20190415",
 ["depends"] = {
 },
