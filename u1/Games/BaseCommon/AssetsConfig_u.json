@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.705",
-["packageSize"] = 2002,
-["date"] = "20190415",
+["version"] = "1.1.711",
+["packageSize"] = 2005,
+["date"] = "20190418",
 ["depends"] = {
 10002,
 10003,
@@ -108,8 +108,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TYGameNode.lua",
-	["u_md5"]="13175d5fde10d7c9fc5d3b612d0a6079",
-	["u_size"]=5.26,
+	["u_md5"]="c8f56cf1cb59e707ea9816fb4db99cc9",
+	["u_size"]=5.37,
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TYNode.lua",
@@ -258,8 +258,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/DeviceUtil.lua",
-	["u_md5"]="f0c42d2b56c95aaf8a1a8e47321e6882",
-	["u_size"]=20.96,
+	["u_md5"]="a8fc6eac1ca7b8fec730e8cae493f051",
+	["u_size"]=21.46,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/GCommon.lua",
@@ -293,8 +293,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TiFunction.lua",
-	["u_md5"]="5fd00ede4d16ef58ab3d4593b4e9140a",
-	["u_size"]=67.06,
+	["u_md5"]="dc4a79ffa55cf38d6c2ff5b951c679e8",
+	["u_size"]=68.64,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TimeUtil.lua",
