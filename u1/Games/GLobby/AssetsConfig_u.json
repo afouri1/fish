@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.725",
+["version"] = "1.1.727",
 ["packageSize"] = 25574,
 ["date"] = "20190419",
 ["depends"] = {
@@ -17,6 +17,7 @@ return {
 5、各种火热活动可以直接从大厅首页横幅进入了
 6、渔厅图标和人物头像上传问题修复
 7、新游预告：“泡泡龙珠”即将火热上线
+
 ]],
 ["assets"] = {
 {
@@ -26,8 +27,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="979739eed0d007be010905f8fe3cf5b1",
-	["u_size"]=22.79,
+	["u_md5"]="14dd32f12c6d598079eb044f7b31c2cc",
+	["u_size"]=23.35,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -56,7 +57,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="5a5c885a6d18a94ec273f4ea89269b84",
+	["u_md5"]="77e5ee019f48e092f0abc5ce194f176a",
 	["u_size"]=4.51,
 	},
 {
@@ -6741,7 +6742,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
-	["u_md5"]="6fe35ed0ab1cfae9920bcea740c712a2",
+	["u_md5"]="22afb0ca021012cf29b4f487bc1f6665",
 	["u_size"]=13.46,
 	},
 {
