@@ -32,7 +32,8 @@
     "Games/GLobby/res/my/button_chongzhi.png",
     "Games/GLobby/res/my/dlyyq.png",
     "Games/GLobby/res/my/expe/img_tym.png",
-    "Games/GLobby/res/my/button_exit.png"
+    "Games/GLobby/res/my/btn_zhuxiao.png",
+    "Games/GLobby/res/my/btn_tuichu.png"
   ],
   "version": "1.6.0.0",
   "widgetTree": {
@@ -2108,7 +2109,7 @@
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
-          "positionPercentX": 0.5,
+          "positionPercentX": 0.2777778,
           "positionPercentY": 0.15625,
           "positionType": 0,
           "rotation": 0,
@@ -2121,8 +2122,8 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 363,
-          "x": 360,
+          "width": 269,
+          "x": 200,
           "y": 200,
           "capInsetsHeight": 1,
           "capInsetsWidth": 1,
@@ -2130,13 +2131,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "Games/GLobby/res/my/button_exit.png",
+            "path": "Games/GLobby/res/my/btn_zhuxiao.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
           "scale9Height": 86,
-          "scale9Width": 363
+          "scale9Width": 269
         }
       },
       {
@@ -2162,7 +2163,7 @@
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
-          "positionPercentX": 0.50000006,
+          "positionPercentX": 0.7222222,
           "positionPercentY": 0.156250015,
           "positionType": 0,
           "rotation": 0,
@@ -2174,9 +2175,9 @@
           "tag": 7151,
           "touchAble": false,
           "useMergedTexture": false,
-          "visible": false,
-          "width": 363,
-          "x": 360,
+          "visible": true,
+          "width": 269,
+          "x": 520,
           "y": 200,
           "capInsetsHeight": 1,
           "capInsetsWidth": 1,
@@ -2184,13 +2185,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "Games/GLobby/res/my/button_exit.png",
+            "path": "Games/GLobby/res/my/btn_tuichu.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
           "scale9Height": 86,
-          "scale9Width": 363
+          "scale9Width": 269
         }
       }
     ],

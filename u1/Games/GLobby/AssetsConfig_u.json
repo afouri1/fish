@@ -2,20 +2,15 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.713",
-["packageSize"] = 25434,
-["date"] = "20190418",
+["version"] = "1.1.720",
+["packageSize"] = 25438,
+["date"] = "20190419",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1、游戏厅新游“炸鱼来了”全面开启，一夜暴富不是梦
-2、新增金币商城，椰子积分也可以兑换金币了
-3、新增邮件系统，随时关注领取福利哦
-4、已知BUG修复
-5、新增召集大使（2019/04/15开放）
-
+1、开放召集大使
 ]],
 ["assets"] = {
 {
@@ -25,8 +20,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="d925eb39ff561c7556beb283c070a3f6",
-	["u_size"]=23.12,
+	["u_md5"]="eab082a5a10c304eb0920f1d334725b3",
+	["u_size"]=22.56,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -55,8 +50,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="a9a1fb16045b46099a703e079f16d5c0",
-	["u_size"]=4.48,
+	["u_md5"]="9eb7793d8c38cffc7ced03ab23956d8e",
+	["u_size"]=4.42,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
@@ -3035,7 +3030,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_homepage.json",
-	["u_md5"]="108cbc1321f7d8666fb6dd7da2820666",
+	["u_md5"]="58ab828d0b172f0e2954d5cd43350a85",
 	["u_size"]=37.98,
 	},
 {
@@ -3280,8 +3275,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_my.json",
-	["u_md5"]="75f42c82118e3bfe5eec7759c14eace5",
-	["u_size"]=75.45,
+	["u_md5"]="ef9e34d6466165d2e666241394394c1c",
+	["u_size"]=75.49,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/my/dntg_lobby_my_bullet.json",
@@ -5104,6 +5099,16 @@ return {
 	["u_size"]=0.57,
 	},
 {
+	["u_name"]="Games/GLobby/res/my/btn_tuichu.png",
+	["u_md5"]="78ce864a0482bae065be2d14781c52cd",
+	["u_size"]=1.74,
+	},
+{
+	["u_name"]="Games/GLobby/res/my/btn_zhuxiao.png",
+	["u_md5"]="528d8ca368cdcd45eba53903269e5607",
+	["u_size"]=1.67,
+	},
+{
 	["u_name"]="Games/GLobby/res/my/button_chongzhi.png",
 	["u_md5"]="25cec17bcca9e71b038c5bcad4bb74ee",
 	["u_size"]=4.33,
@@ -6570,13 +6575,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
-	["u_md5"]="4af2232f632b8485bda3a888ae657f89",
-	["u_size"]=9.66,
+	["u_md5"]="31e567db4109bb354ed377eb54236254",
+	["u_size"]=9.7,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="010ddb0af273f8f0ced79f65368aea65",
-	["u_size"]=124.95,
+	["u_md5"]="1df2feb42bda4eeb4d6ed896c6b479c7",
+	["u_size"]=126.06,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
@@ -6625,7 +6630,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
-	["u_md5"]="22afb0ca021012cf29b4f487bc1f6665",
+	["u_md5"]="6fe35ed0ab1cfae9920bcea740c712a2",
 	["u_size"]=13.46,
 	},
 {
@@ -6705,8 +6710,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyActivityLayerView.lua",
-	["u_md5"]="002a3481fce723785af4190879e492eb",
-	["u_size"]=15.06,
+	["u_md5"]="5787da4355dbc3b84f835acd284d2b62",
+	["u_size"]=14.56,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyAlmsLayerMediator.lua",
@@ -6805,8 +6810,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyVIPLayerView.lua",
-	["u_md5"]="2643ce694c620a384248dc742d3d0941",
-	["u_size"]=4.24,
+	["u_md5"]="0033aa4a189bdc9a08e1b41d3d6a102a",
+	["u_size"]=4.25,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyYeYunShopLayerMediator.lua",
@@ -6845,8 +6850,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/backwater/GLobbyBackwaterLayerView.lua",
-	["u_md5"]="4a72e2e7269ffd7df89df66929da8a5c",
-	["u_size"]=6.54,
+	["u_md5"]="4c3cb760e6f18a731cb5dd30f8de56c0",
+	["u_size"]=7.23,
 	},
 {
 	["u_name"]="Games/GLobby/src/config/Coinmall.lua",
