@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.720",
+["version"] = "1.1.721",
 ["packageSize"] = 14564,
 ["date"] = "20190419",
 ["depends"] = {
@@ -1601,8 +1601,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerSelfOpView.lua",
-	["u_md5"]="030ef0f8b3f1470428258fcd41ea5f7c",
-	["u_size"]=9.55,
+	["u_md5"]="10cb3aec89dc9782985b4af4d7b97873",
+	["u_size"]=9.73,
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/LayerSettlementMediator.lua",
@@ -1656,8 +1656,8 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/game/ZhayuCom.lua",
-	["u_md5"]="042eae1e97dace70e5bf1c28ed59ba56",
-	["u_size"]=6.68,
+	["u_md5"]="f38253827b08adad00d78b596037f5e2",
+	["u_size"]=6.76,
 	},
 {
 	["u_name"]="Games/GZhayu/src/pb/bomb_Basis.pb",

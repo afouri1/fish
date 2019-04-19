@@ -4,101 +4,101 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>boom_0000.png</key>
+            <key>boom_0001.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,0},{432,456}}</string>
+                <string>{{0,0},{436,456}}</string>
                 <key>offset</key>
                 <string>{4,-2}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{44,30},{432,456}}</string>
-                <key>sourceSize</key>
-                <string>{512,512}</string>
-            </dict>
-            <key>boom_0001.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{0,457},{390,424}}</string>
-                <key>offset</key>
-                <string>{-2,24}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{59,20},{390,424}}</string>
+                <string>{{42,30},{436,456}}</string>
                 <key>sourceSize</key>
                 <string>{512,512}</string>
             </dict>
             <key>boom_0002.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{736,333},{328,328}}</string>
+                <string>{{0,457},{432,428}}</string>
                 <key>offset</key>
-                <string>{2,-8}</string>
+                <string>{8,23}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{94,100},{328,328}}</string>
+                <string>{{48,19},{432,428}}</string>
                 <key>sourceSize</key>
                 <string>{512,512}</string>
             </dict>
             <key>boom_0003.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{433,0},{322,332}}</string>
+                <string>{{429,457},{354,352}}</string>
                 <key>offset</key>
-                <string>{2,-13}</string>
+                <string>{2,-6}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{97,103},{322,332}}</string>
+                <string>{{81,86},{354,352}}</string>
                 <key>sourceSize</key>
                 <string>{512,512}</string>
             </dict>
             <key>boom_0004.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{736,662},{326,320}}</string>
+                <string>{{437,0},{352,346}}</string>
                 <key>offset</key>
-                <string>{1,-9}</string>
+                <string>{2,-6}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{94,105},{326,320}}</string>
+                <string>{{82,89},{352,346}}</string>
                 <key>sourceSize</key>
                 <string>{512,512}</string>
             </dict>
             <key>boom_0005.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1065,329},{324,318}}</string>
+                <string>{{1127,345},{344,342}}</string>
                 <key>offset</key>
-                <string>{2,-10}</string>
+                <string>{2,-8}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{96,107},{324,318}}</string>
+                <string>{{86,93},{344,342}}</string>
                 <key>sourceSize</key>
                 <string>{512,512}</string>
             </dict>
             <key>boom_0006.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1057,662},{326,308}}</string>
+                <string>{{1123,0},{344,342}}</string>
                 <key>offset</key>
-                <string>{-2,-4}</string>
+                <string>{2,-11}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{91,106},{326,308}}</string>
+                <string>{{86,96},{344,342}}</string>
                 <key>sourceSize</key>
                 <string>{512,512}</string>
             </dict>
             <key>boom_0007.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{391,457},{346,344}}</string>
+                <string>{{784,0},{346,338}}</string>
+                <key>offset</key>
+                <string>{-2,-5}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{81,92},{346,338}}</string>
+                <key>sourceSize</key>
+                <string>{512,512}</string>
+            </dict>
+            <key>boom_0008.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{782,353},{346,344}}</string>
                 <key>offset</key>
                 <string>{-3,-8}</string>
                 <key>rotated</key>
@@ -108,53 +108,53 @@
                 <key>sourceSize</key>
                 <string>{512,512}</string>
             </dict>
-            <key>boom_0008.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{756,0},{326,328}}</string>
-                <key>offset</key>
-                <string>{-13,-6}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{80,98},{326,328}}</string>
-                <key>sourceSize</key>
-                <string>{512,512}</string>
-            </dict>
             <key>boom_0009.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1083,0},{306,302}}</string>
+                <string>{{1466,0},{340,328}}</string>
                 <key>offset</key>
-                <string>{-1,-5}</string>
+                <string>{-5,-6}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{102,110},{306,302}}</string>
+                <string>{{81,98},{340,328}}</string>
                 <key>sourceSize</key>
                 <string>{512,512}</string>
             </dict>
             <key>boom_0010.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1366,654},{294,296}}</string>
+                <string>{{782,700},{306,304}}</string>
                 <key>offset</key>
-                <string>{-2,-4}</string>
+                <string>{-1,-5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{107,112},{294,296}}</string>
+                <string>{{102,109},{306,304}}</string>
                 <key>sourceSize</key>
                 <string>{512,512}</string>
             </dict>
             <key>boom_0011.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1384,307},{252,226}}</string>
+                <string>{{1087,700},{296,296}}</string>
+                <key>offset</key>
+                <string>{-3,-4}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{105,112},{296,296}}</string>
+                <key>sourceSize</key>
+                <string>{512,512}</string>
+            </dict>
+            <key>boom_0012.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1795,0},{252,226}}</string>
                 <key>offset</key>
                 <string>{15,-3}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{145,146},{252,226}}</string>
                 <key>sourceSize</key>
@@ -170,7 +170,7 @@
             <key>size</key>
             <string>{2048,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:fb72b715aa5ac665e6d84d80b914839a$</string>
+            <string>$TexturePacker:SmartUpdate:516efe9fe55ccbbc7a23c66351227b23$</string>
             <key>textureFileName</key>
             <string>boom.png</string>
         </dict>
