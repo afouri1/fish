@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.730",
+["version"] = "1.1.731",
 ["packageSize"] = 25877,
 ["date"] = "20190422",
 ["depends"] = {
@@ -6741,8 +6741,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerMediator.lua",
-	["u_md5"]="b3c143a7c6b086df358c169c8db014de",
-	["u_size"]=19.82,
+	["u_md5"]="330eaee48252b71e3f328cceb95718f4",
+	["u_size"]=19.86,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
@@ -6766,8 +6766,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GPhoneLoginLayer.lua",
-	["u_md5"]="195801fecc081edbce58c9bf36420677",
-	["u_size"]=14.05,
+	["u_md5"]="772800cc1420c0d60be970164af8b0b5",
+	["u_size"]=14.08,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GSplashScreenLayer.lua",
