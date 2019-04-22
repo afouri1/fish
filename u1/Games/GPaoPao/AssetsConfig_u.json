@@ -3,8 +3,8 @@ return {
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GPaoPao/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GPaoPao/version.json",
 ["version"] = "1.1.727",
-["packageSize"] = 6324,
-["date"] = "20190419",
+["packageSize"] = 5913,
+["date"] = "20190422",
 ["depends"] = {
 },
 ["newDetails"] = [[ ]],
@@ -116,58 +116,68 @@ return {
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed.ExportJson",
-	["u_md5"]="194bb8c4d288b03c0ba8c9a121f1a3f6",
-	["u_size"]=60.73,
+	["u_md5"]="f949cdcb91a32bbe6f9195d0a9237b37",
+	["u_size"]=34.27,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed0.plist",
-	["u_md5"]="b5a970c00747709b6034ba095c2e6b11",
-	["u_size"]=3.98,
+	["u_md5"]="b98ca7c8bb2564596d8a6dc3c946d367",
+	["u_size"]=3.13,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed0.png",
-	["u_md5"]="323ef872f764dc58f64f4680e89849ea",
-	["u_size"]=60.99,
+	["u_md5"]="be7354469da1d5b2efe3f4cbb324d6db",
+	["u_size"]=50.41,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed1.plist",
-	["u_md5"]="3f5ab1e14317343981377a2d7a83c9bb",
+	["u_md5"]="9a6fa5fd543188ba3eaa47ac4195801b",
 	["u_size"]=1.47,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed1.png",
-	["u_md5"]="b5cad8ce0a9236a925a5bfbc16521e92",
-	["u_size"]=11.31,
+	["u_md5"]="4689b97ed27aaddbfdc98f5a60bff433",
+	["u_size"]=11.01,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed2.plist",
-	["u_md5"]="08aea8c5c7376da8a78d8ac8afaf1def",
+	["u_md5"]="0c940da08f211a402740d5839c003719",
 	["u_size"]=1.47,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed2.png",
-	["u_md5"]="ab20a4393e0434dd41810a842bb946eb",
-	["u_size"]=10.76,
+	["u_md5"]="ed482339d3ed80fba28ca88aed71760c",
+	["u_size"]=11.01,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed3.plist",
-	["u_md5"]="2300cc8a0458eced7abba74a4c3de0be",
+	["u_md5"]="431d62bec48853625a097919a24128bf",
 	["u_size"]=1.47,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed3.png",
-	["u_md5"]="0ee49daa5de85122d72ece75041ab8de",
-	["u_size"]=9.49,
+	["u_md5"]="375c56386aeea6be942b2d5b926d17aa",
+	["u_size"]=10.13,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed4.plist",
-	["u_md5"]="1f7a002a9df2485633bf8b96a312c0b8",
+	["u_md5"]="218200d185b172257dac3d53d8db2617",
 	["u_size"]=1.47,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed4.png",
-	["u_md5"]="513b8f11ebd2fb5d8d00c6baf9645cc3",
-	["u_size"]=7.08,
+	["u_md5"]="52a199f5e2d44b3527f4b5e09d75d935",
+	["u_size"]=8.7,
+	},
+{
+	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed5.plist",
+	["u_md5"]="4790994d0655b56bb0aa76d0e0fcd09d",
+	["u_size"]=1.05,
+	},
+{
+	["u_name"]="Games/GPaoPao/res/game/ani/failed/failed5.png",
+	["u_md5"]="ac6df44b4dd4c9c4ce6ce55571a9a330",
+	["u_size"]=3.09,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/line.plist",
@@ -181,8 +191,8 @@ return {
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/particle/stars.plist",
-	["u_md5"]="4eeceba471e7ba14fa8d121e7c475ada",
-	["u_size"]=2.59,
+	["u_md5"]="d79bbf0989f687207826a41a717c5168",
+	["u_size"]=2.58,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/particle/stars.png",
@@ -198,61 +208,6 @@ return {
 	["u_name"]="Games/GPaoPao/res/game/ani/startbutton.png",
 	["u_md5"]="707cd4049763a3938e8720de42e97ad6",
 	["u_size"]=204.5,
-	},
-{
-	["u_name"]="Games/GPaoPao/res/game/ani/win/win.ExportJson",
-	["u_md5"]="13365825ffaae90ea438a954897500da",
-	["u_size"]=63.42,
-	},
-{
-	["u_name"]="Games/GPaoPao/res/game/ani/win/win0.plist",
-	["u_md5"]="7f3079f439a1988ef91c0a1b92434771",
-	["u_size"]=3.96,
-	},
-{
-	["u_name"]="Games/GPaoPao/res/game/ani/win/win0.png",
-	["u_md5"]="0a3af8d49beeaff30b05d3fe0a828cfa",
-	["u_size"]=216.71,
-	},
-{
-	["u_name"]="Games/GPaoPao/res/game/ani/win/win1.plist",
-	["u_md5"]="dcd3c8c9cc7add225dd13525d26fe0be",
-	["u_size"]=1.47,
-	},
-{
-	["u_name"]="Games/GPaoPao/res/game/ani/win/win1.png",
-	["u_md5"]="e5031900867cb2a54847cc6998306065",
-	["u_size"]=35.79,
-	},
-{
-	["u_name"]="Games/GPaoPao/res/game/ani/win/win2.plist",
-	["u_md5"]="21398fbddcab22939a33f25e2c7432cb",
-	["u_size"]=1.47,
-	},
-{
-	["u_name"]="Games/GPaoPao/res/game/ani/win/win2.png",
-	["u_md5"]="ade605401267d0e0158ee8119435b89b",
-	["u_size"]=34,
-	},
-{
-	["u_name"]="Games/GPaoPao/res/game/ani/win/win3.plist",
-	["u_md5"]="891d33f8a6cd92b5b9bc4e6dbccb9ec3",
-	["u_size"]=1.47,
-	},
-{
-	["u_name"]="Games/GPaoPao/res/game/ani/win/win3.png",
-	["u_md5"]="14655f098c53b815293c0cf44c88b0d9",
-	["u_size"]=30.54,
-	},
-{
-	["u_name"]="Games/GPaoPao/res/game/ani/win/win4.plist",
-	["u_md5"]="ddbb7202f77bf9209a31d07b9370a1b8",
-	["u_size"]=1.47,
-	},
-{
-	["u_name"]="Games/GPaoPao/res/game/ani/win/win4.png",
-	["u_md5"]="4e70285ffad42bf9ae273322f237a03c",
-	["u_size"]=22.26,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/ani/win_1.plist",
@@ -275,19 +230,19 @@ return {
 	["u_size"]=558.01,
 	},
 {
-	["u_name"]="Games/GPaoPao/res/game/ani/win_ms_coco/honor0.plist",
-	["u_md5"]="272c88f392f98b3d54b1db8f584afa08",
-	["u_size"]=2.68,
+	["u_name"]="Games/GPaoPao/res/game/ani/winmscoco/winmscoco.ExportJson",
+	["u_md5"]="bea6321a6b9fd6d79fd5daef1bb6bc29",
+	["u_size"]=23.25,
 	},
 {
-	["u_name"]="Games/GPaoPao/res/game/ani/win_ms_coco/honor0.png",
-	["u_md5"]="9595afdd58c2a94c344c2af53374444c",
-	["u_size"]=38.45,
+	["u_name"]="Games/GPaoPao/res/game/ani/winmscoco/winmscoco0.plist",
+	["u_md5"]="4901fe78f18d1d886adb9cae13ca61aa",
+	["u_size"]=3.54,
 	},
 {
-	["u_name"]="Games/GPaoPao/res/game/ani/win_ms_coco/win_ms_coco.ExportJson",
-	["u_md5"]="1c3debb4bbae33c0b1aefd30be4c8652",
-	["u_size"]=17.13,
+	["u_name"]="Games/GPaoPao/res/game/ani/winmscoco/winmscoco0.png",
+	["u_md5"]="e8d31cbada71b1b14817e7e062688ada",
+	["u_size"]=61.85,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/csd/Alert.json",
@@ -856,8 +811,8 @@ return {
 	},
 {
 	["u_name"]="Games/GPaoPao/src/PaoPaoGame.lua",
-	["u_md5"]="f26dae7d95fba8ecc51a1e2173662d6a",
-	["u_size"]=13.32,
+	["u_md5"]="59ce833fc2d037e067d54863d536e5a4",
+	["u_size"]=13.74,
 	},
 {
 	["u_name"]="Games/GPaoPao/src/PaoPao_Root.lua",
@@ -916,8 +871,8 @@ return {
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/LayerMainView.lua",
-	["u_md5"]="5c9029227043d7ca985be10bf325e859",
-	["u_size"]=7.9,
+	["u_md5"]="465916813a9ed3003ec80b12a8c879f1",
+	["u_size"]=8.07,
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/LayerResultMediator.lua",
@@ -926,13 +881,13 @@ return {
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/LayerResultView.lua",
-	["u_md5"]="f166b6285dd7966ea2df3358d84ee8ca",
-	["u_size"]=3.19,
+	["u_md5"]="5f723a5e61d248b34eafd3cee8a0375d",
+	["u_size"]=4.75,
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/PaoPaoCom.lua",
-	["u_md5"]="98896bb957489f25adbc7c66b5bf6b72",
-	["u_size"]=6.31,
+	["u_md5"]="39b72a3b82b216329fa7d42078ff9df6",
+	["u_size"]=6.44,
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/PlayRoundMediator.lua",

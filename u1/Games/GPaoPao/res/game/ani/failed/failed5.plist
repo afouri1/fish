@@ -4,7 +4,7 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>lizi/lizi_0010.png</key>
+			<key>lizi/lizi_0012.png</key>
 			<dict>
 				<key>width</key>
 				<integer>720</integer>
@@ -16,25 +16,6 @@
 				<integer>1280</integer>
 				<key>x</key>
 				<integer>0</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>lizi/lizi_0011.png</key>
-			<dict>
-				<key>width</key>
-				<integer>720</integer>
-				<key>height</key>
-				<integer>1280</integer>
-				<key>originalWidth</key>
-				<integer>720</integer>
-				<key>originalHeight</key>
-				<integer>1280</integer>
-				<key>x</key>
-				<integer>721</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -48,9 +29,9 @@
 			<key>format</key>
 			<integer>0</integer>
 			<key>textureFileName</key>
-			<string>failed4.png</string>
+			<string>failed5.png</string>
 			<key>realTextureFileName</key>
-			<string>failed4.png</string>
+			<string>failed5.png</string>
 			<key>size</key>
 			<string>{2048,2048}</string>
 		</dict>

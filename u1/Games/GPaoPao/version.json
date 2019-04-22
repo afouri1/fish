@@ -3,8 +3,8 @@ return {
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GPaoPao/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GPaoPao/version.json",
 ["version"] = "1.1.727",
-["packageSize"] = 6324,
-["date"] = "20190419",
+["packageSize"] = 5913,
+["date"] = "20190422",
 ["depends"] = {
 },
 ["newDetails"] = [[ ]],

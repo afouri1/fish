@@ -4,11 +4,9 @@ return {
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
 ["version"] = "1.1.727",
 ["packageSize"] = 44485,
-["date"] = "20190419",
+["date"] = "20190422",
 ["depends"] = {
 },
-["newDetails"] = [[
-
-]],
+["newDetails"] = [[ ]],
 ["assets"] = {} 
 }

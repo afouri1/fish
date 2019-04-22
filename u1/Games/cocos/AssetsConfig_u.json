@@ -4,7 +4,7 @@ return {
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/cocos/version.json",
 ["version"] = "1.1.727",
 ["packageSize"] = 288,
-["date"] = "20190419",
+["date"] = "20190422",
 ["depends"] = {
 },
 ["newDetails"] = [[]],
