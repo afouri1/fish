@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.728",
+["version"] = "1.1.730",
 ["packageSize"] = 44485,
 ["date"] = "20190422",
 ["depends"] = {
@@ -4071,8 +4071,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletView.lua",
-	["u_md5"]="5b48eff0d018b4bf93374566633b67ad",
-	["u_size"]=13.28,
+	["u_md5"]="b6451e6a28271b41a918c2702bdefd72",
+	["u_size"]=13.46,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",

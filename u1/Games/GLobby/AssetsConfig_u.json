@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.728",
-["packageSize"] = 25876,
+["version"] = "1.1.730",
+["packageSize"] = 25877,
 ["date"] = "20190422",
 ["depends"] = {
 10001,
@@ -2841,8 +2841,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/activity/dntg_lobby_vip.json",
-	["u_md5"]="1f519b32da5e5ccb88fb9dc92eaace9c",
-	["u_size"]=12.92,
+	["u_md5"]="8e98db4d17b6093939ba195338808301",
+	["u_size"]=12.91,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/activity/dntg_lobby_yeyun_shop.json",
@@ -6701,8 +6701,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="6e9aad47bb514e6a79e1522132bbffb8",
-	["u_size"]=127.35,
+	["u_md5"]="32ac63c684e105d2740ddca44cc6973a",
+	["u_size"]=127.73,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
@@ -6896,8 +6896,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyLoginGiftLayerView.lua",
-	["u_md5"]="d1e5e7d97cb31fbe96ac6067bebb264b",
-	["u_size"]=12.7,
+	["u_md5"]="0e5f5df0bf60a508216ff181f86e6532",
+	["u_size"]=13.17,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyRechargeTipsLayerMediator.lua",
@@ -6941,8 +6941,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyYeYunShopLayerView.lua",
-	["u_md5"]="069d0507d39f7526bd151c1ce28c6b38",
-	["u_size"]=4.56,
+	["u_md5"]="ed00b1995f6964ed340becd8fffddb36",
+	["u_size"]=4.8,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyYeYunTipsLayerMediator.lua",
@@ -7111,8 +7111,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/mail/GLobbyMailDetailLayerView.lua",
-	["u_md5"]="b4afaf4b768802d3cb43496b0a994d69",
-	["u_size"]=6.78,
+	["u_md5"]="1d418c0ca14760f4a8063c1db1556fed",
+	["u_size"]=6.72,
 	},
 {
 	["u_name"]="Games/GLobby/src/mail/GLobbyMailLayerItem.lua",
