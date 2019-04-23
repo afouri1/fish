@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GPaoPao/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GPaoPao/version.json",
-["version"] = "1.1.736",
-["packageSize"] = 5546,
+["version"] = "1.1.737",
+["packageSize"] = 5572,
 ["date"] = "20190423",
 ["depends"] = {
 },
@@ -368,6 +368,21 @@ return {
 	["u_name"]="Games/GPaoPao/res/game/gameLoading/stuff_top.png",
 	["u_md5"]="52e112c536859c459503594aa91a939c",
 	["u_size"]=12.14,
+	},
+{
+	["u_name"]="Games/GPaoPao/res/game/gameLoading/sunshine/sunshine.ExportJson",
+	["u_md5"]="50b39f19ff5e212debe9b8703e6d3f26",
+	["u_size"]=3.97,
+	},
+{
+	["u_name"]="Games/GPaoPao/res/game/gameLoading/sunshine/sunshine0.plist",
+	["u_md5"]="d4d5cb1542ec1e7f43b8cc9272c4ac7e",
+	["u_size"]=1.05,
+	},
+{
+	["u_name"]="Games/GPaoPao/res/game/gameLoading/sunshine/sunshine0.png",
+	["u_md5"]="2d40f5a7ad0fc9218056d1d16e0efa85",
+	["u_size"]=15.87,
 	},
 {
 	["u_name"]="Games/GPaoPao/res/game/gameLoading/uitiao/uitiao.ExportJson",
@@ -830,6 +845,11 @@ return {
 	["u_size"]=0.57,
 	},
 {
+	["u_name"]="Games/GPaoPao/src/Configs/Awardcorrespondence.lua",
+	["u_md5"]="d280095fa002c5c2ee1425674137a5d3",
+	["u_size"]=1.96,
+	},
+{
 	["u_name"]="Games/GPaoPao/src/GameConst/GameConst.lua",
 	["u_md5"]="daaaad56b8b7748c0e130cd4199f4e78",
 	["u_size"]=0.18,
@@ -841,13 +861,13 @@ return {
 	},
 {
 	["u_name"]="Games/GPaoPao/src/NetworkConfig/PaoPaoNetworkCmd.lua",
-	["u_md5"]="3a4dd39aa49eb8571945ce4113ee1183",
-	["u_size"]=2.87,
+	["u_md5"]="9d6e41abad95e6361e6959f83d2e1692",
+	["u_size"]=3.55,
 	},
 {
 	["u_name"]="Games/GPaoPao/src/PaoPaoGame.lua",
-	["u_md5"]="8948c1d0dbfa007d6e5e9da9b8dd5def",
-	["u_size"]=14.99,
+	["u_md5"]="437514c74224b40bcd5445bd1f636499",
+	["u_size"]=16.32,
 	},
 {
 	["u_name"]="Games/GPaoPao/src/PaoPao_Root.lua",
@@ -881,8 +901,8 @@ return {
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/GLoadingGame.lua",
-	["u_md5"]="477a7272e16e8ceffe11efd6172fd4c0",
-	["u_size"]=7.01,
+	["u_md5"]="76fc9ee34e5d1c37e8ad372aecc59ce4",
+	["u_size"]=7.29,
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/GameBallMediator.lua",
@@ -901,13 +921,13 @@ return {
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/LayerMainMediator.lua",
-	["u_md5"]="73f713cf44fa058b732141aa6f8cf119",
-	["u_size"]=4.97,
+	["u_md5"]="2b6c0050f2bde52401606db54fb5d23c",
+	["u_size"]=4.67,
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/LayerMainView.lua",
-	["u_md5"]="249c3a7d1aa326be040bba931aca8a96",
-	["u_size"]=8.82,
+	["u_md5"]="94682e51b5d88530b34b447aea0b31d5",
+	["u_size"]=9.05,
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/LayerResultMediator.lua",
@@ -916,7 +936,7 @@ return {
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/LayerResultView.lua",
-	["u_md5"]="de52a6b82b8a8f5ac5aea3e1967c1511",
+	["u_md5"]="5a5b8d23413a91795f244403aa4adf3e",
 	["u_size"]=7.03,
 	},
 {
@@ -926,13 +946,23 @@ return {
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/PlayRoundMediator.lua",
-	["u_md5"]="824ac175a5a84e697b5d60e292b7e9b3",
-	["u_size"]=6.14,
+	["u_md5"]="5ba3989660582eaa2181124421740ee3",
+	["u_size"]=6.51,
 	},
 {
 	["u_name"]="Games/GPaoPao/src/game/PlayRoundView.lua",
-	["u_md5"]="27620c33c9c4d18d56dc4e5a00177b31",
-	["u_size"]=2.26,
+	["u_md5"]="fb9e4800b8175be80aa5052c7275244b",
+	["u_size"]=2.29,
+	},
+{
+	["u_name"]="Games/GPaoPao/src/pb/popo_c2s.pb",
+	["u_md5"]="4c664f5d2fc0f9d91b21f20417506975",
+	["u_size"]=0.18,
+	},
+{
+	["u_name"]="Games/GPaoPao/src/pb/popo_s2c.pb",
+	["u_md5"]="726a6d4925a61aeb207964f10383ba83",
+	["u_size"]=0.28,
 	},
 {
 	["u_name"]="Games/GPaoPao/src/sound/AudioManager.lua",

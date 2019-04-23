@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.736",
-["packageSize"] = 44485,
+["version"] = "1.1.737",
+["packageSize"] = 44526,
 ["date"] = "20190423",
 ["depends"] = {
 },
@@ -25,6 +25,11 @@ return {
 	["u_name"]="Games/GDntg/res/cocostudio/Panel_fishScore.json",
 	["u_md5"]="7c894ab30857d7d0c03d1cd106ec489f",
 	["u_size"]=27.32,
+	},
+{
+	["u_name"]="Games/GDntg/res/cocostudio/Panel_pth.json",
+	["u_md5"]="13ce7b6f024160426340a9395eeeb9b9",
+	["u_size"]=40.67,
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/Panel_set.json",
@@ -4353,13 +4358,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_Basis.pb",
-	["u_md5"]="ffbe91657083ec2c766f93fb5eb634ff",
-	["u_size"]=1.75,
+	["u_md5"]="0be4f73d3166d0c0e3080dab5a340237",
+	["u_size"]=1.77,
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_Cmd.pb",
-	["u_md5"]="52d5855246f43a6f6978178afa4541fd",
-	["u_size"]=1.16,
+	["u_md5"]="9ba88351243950f9593f990a649a26f4",
+	["u_size"]=1.24,
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_c2s.pb",
@@ -4368,8 +4373,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_s2c.pb",
-	["u_md5"]="1193b86026db399693432744db04d50b",
-	["u_size"]=3.02,
+	["u_md5"]="7141f682bdeb4dc68f69ada223bc13ce",
+	["u_size"]=3.15,
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",
