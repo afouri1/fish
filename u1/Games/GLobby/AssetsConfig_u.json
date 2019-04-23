@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.733",
+["version"] = "1.1.735",
 ["packageSize"] = 25877,
-["date"] = "20190422",
+["date"] = "20190423",
 ["depends"] = {
 10001,
 1001,
@@ -6671,8 +6671,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyGameRoomLayerView.lua",
-	["u_md5"]="68ee0fd7b72cd06aa80c337bc8228fbf",
-	["u_size"]=4.83,
+	["u_md5"]="e754930a91dfc4f9038a755b18056a1e",
+	["u_size"]=4.85,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyGoldFieldLayerItem.lua",
@@ -6931,8 +6931,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyVIPLayerView.lua",
-	["u_md5"]="88750f6a022a045add1687b203251f06",
-	["u_size"]=4.37,
+	["u_md5"]="e2d1ccb8e11e7195ddd194e4a8299935",
+	["u_size"]=4.75,
 	},
 {
 	["u_name"]="Games/GLobby/src/activity/GLobbyYeYunShopLayerMediator.lua",
